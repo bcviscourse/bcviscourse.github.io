@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/Users/nam.wook.kim/Projects/visualization-course/lab1"
+		},
+		{
+			"name": "lab2",
+			"path": "/Users/nam.wook.kim/Projects/visualization-course/lab2"
+		},
+		{
+			"name": "bcviscourse.github.io",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bcviscourse.github.io"
+	}
+}
