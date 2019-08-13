@@ -1,0 +1,467 @@
+{
+    "info":{
+        "semester":"Fall",
+        "year":"2019",
+        "days":"Tue/Thu",
+        "start_date":"Aug 27, 2019"
+    },
+    "schedule":[
+        {
+            "title": "Value of Visualization",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Web Development Basics",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Design Principles",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Introduction to Javascript",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Visual Encoding Design",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Introduction to SVG & D3",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Exploratory Data Analysis",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "D3 Scales and Axes",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+        {
+            "title": "Storytelling with Data",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+        {
+            "title": "D3 Update Pattern",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+        {
+            "title": "Task Analysis and Evaluation",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+        {
+            "title": "Coordinated & Multiple Views in D3",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+        {
+            "title": "Interaction",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "No Class - Fall Break",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+            ]
+        },    
+        {
+            "title": "System Design",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+        {
+            "title": "No Class - IEEE VIS Conference Travel",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+            ]
+        },        
+        {
+            "title": "Custom Visualizations in D3",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        }, 
+        {
+            "title": "Perception & Cognition",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Introduction to Vega-Lite & Observable",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Networks and Maps",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Networks and Maps in D3",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Multi-Dimensional Data",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Lab 11",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },{
+            "title": "Design Feedback Session 1",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Design Feedback Session 2",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Uncertainty and Interpretability",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "Lab 12",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "title": "No Class - Thanksgiving Day",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+            ]
+        },{
+            "title": "Research in Visualization",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+            ]
+        },{
+            "title": "Final Project Presentation",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+            ]
+        }
+    ]
+}

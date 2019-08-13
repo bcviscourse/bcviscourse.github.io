@@ -165,3 +165,13 @@ body{
   .text-highlight{
     background-color:#FFE0B2;
   }
+
+  .class{
+    margin:20px 0px 10px 0px;
+  }
+  .classHeader{
+    display: flex;
+  }
+  .date{
+    min-width:85px;
+  }
