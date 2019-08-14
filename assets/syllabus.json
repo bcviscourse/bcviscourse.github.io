@@ -7,8 +7,8 @@
     },
     "schedule":[
         {
-            "title": "Value of Visualization",
-            "desc":"",
+            "title": "The Value of Visualization",
+            "desc":"This class will provide a general introduction to visualization. What is visualization? Why is it important? What are different functions of visualization? We will answer these questions using historical examples.",
             "slides":"/",
             "readings":[
                 {
@@ -25,7 +25,7 @@
         },
         {
             "title": "Web Development Basics",
-            "desc":"",
+            "desc":"What skills do we need for visualization development for the web? This lab will introduce HTML & CSS, the most basic building blocks for creating a web page.",
             "slides":"/",
             "readings":[
                 {
@@ -42,7 +42,7 @@
         },
         {
             "title": "Design Principles",
-            "desc":"",
+            "desc":"What are general rules of thumb for good visualization design? This class will introduce several design principles for effective visualization design through diverse examples of good, bad and weird visualizations.",
             "slides":"/",
             "readings":[
                 {
@@ -59,7 +59,7 @@
         },
         {
             "title": "Introduction to Javascript",
-            "desc":"",
+            "desc":"How to make a web page dynamic and interactive? In this lab, students will learn basics of the Javascript language (e.g., loops and functions) and how to create an interactive bar chart.",
             "slides":"/",
             "readings":[
                 {
@@ -76,7 +76,7 @@
         },
         {
             "title": "Visual Encoding Design",
-            "desc":"",
+            "desc":"What are building blocks of a visualization? This lecture introduces visual marks and perceptual channels and provides a systematic way to encode an effective visualization and decode existing visualizations in the wild.",
             "slides":"/",
             "readings":[
                 {
@@ -93,7 +93,7 @@
         },
         {
             "title": "Introduction to SVG & D3",
-            "desc":"",
+            "desc":"Building a visualization requires technology beyond simple HTML, CSS, and Javascript. This lab will give an introduction to how to generate vector-based graphics and bind data to the graphics using D3.js.",
             "slides":"/",
             "readings":[
                 {
@@ -110,7 +110,7 @@
         },
         {
             "title": "Exploratory Data Analysis",
-            "desc":"",
+            "desc":"What do we first do when we have data? We explore the data to gain insights about the data. This lecture provides the role of visualizations for exploratory analysis beyond formal statistical modelling and testing.",
             "slides":"/",
             "readings":[
                 {
@@ -127,7 +127,7 @@
         },
         {
             "title": "D3 Scales and Axes",
-            "desc":"",
+            "desc":"How do we map data to pixels? Students will learn about scale functions to handle the mapping of different types of data, as well as axes to generate visual guides for reading the scales.",
             "slides":"/",
             "readings":[
                 {
@@ -144,7 +144,7 @@
         },        
         {
             "title": "Storytelling with Data",
-            "desc":"",
+            "desc":"Visualization is not just for analyzing data but for communication of it. What are strategies for telling compelling stories with data? This lecture will take a look at different types of data stories and basic design guidelines.",
             "slides":"/",
             "readings":[
                 {
@@ -161,7 +161,7 @@
         },        
         {
             "title": "D3 Update Pattern",
-            "desc":"",
+            "desc":"What do we do when new data comes in? This lab will tackle the general update pattern for populating new data to an existing visualization, which is at the heart of the D3 library design.",
             "slides":"/",
             "readings":[
                 {
@@ -178,7 +178,7 @@
         },        
         {
             "title": "Task Analysis and Evaluation",
-            "desc":"",
+            "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
             "slides":"/",
             "readings":[
                 {
@@ -195,7 +195,7 @@
         },        
         {
             "title": "Coordinated & Multiple Views in D3",
-            "desc":"",
+            "desc":"To support complex tasks or to see multiple perspectives on data, we need more than one visualization. In this lab, students will learn how to coordinate multiple visualizations.",
             "slides":"/",
             "readings":[
                 {

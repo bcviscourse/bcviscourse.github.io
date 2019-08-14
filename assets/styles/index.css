@@ -169,9 +169,12 @@ body{
   .class{
     margin:20px 0px 10px 0px;
   }
-  .classHeader{
+  .class .header{
     display: flex;
   }
-  .date{
+  .class .date{
     min-width:85px;
+  }
+  .class .desc{
+    /* color: #616161; */
   }
