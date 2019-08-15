@@ -278,7 +278,7 @@
         },        
         {
             "title": "No Class - IEEE VIS Conference Travel",
-            "desc":"",
+            "desc":"TBD: there might be a guest lecture or visit to exhibitions in nearby libraries.",
             "slides":"/",
             "readings":[
             ]
@@ -458,7 +458,7 @@
         },
         {
             "title": "Interaction in Vega-lite",
-            "desc":"",
+            "desc":"Traditional grammar of graphics only allows for generation of static images. In this lab, students will learn how vega-lite goes beyond to support specifications of interactive visualizations.",
             "slides":"/",
             "is_lab":true,
             "readings":[
@@ -482,13 +482,13 @@
             ]
         },{
             "title": "Research in Visualization",
-            "desc":"",
+            "desc":"Anyone can do research in visualization. The final project in this class is an example of visualization research. In this lecture, we will see what types of research exist in the field.",
             "slides":"/",
             "readings":[
             ]
         },{
             "title": "Final Project Presentation",
-            "desc":"",
+            "desc":"Student teams will showcase their final prototypes to the class. Presenting an idea clearly and professionally is important and will be part of the final project evaluation.",
             "slides":"/",
             "readings":[
             ]
