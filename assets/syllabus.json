@@ -354,7 +354,7 @@
             ]
         },
         {
-            "title": "Cartogram in Vega-Lite",
+            "title": "Transformation, Encoding, and Cartogram in Vega-Lite",
             "desc":"Vega-lite significantly ease the making of maps. In this lab, students will learn how to create different kinds of cartograms (e.g., choropleth and symbol maps) in Vega-lite.",
             "slides":"/",
             "is_lab":true,
@@ -389,8 +389,8 @@
             ]
         },
         {
-            "title": "Multi-View Composition in Vega-lite",
-            "desc":"While not as flexible as D3, Vega-lite provides several ways to handle dense, high-dimensional data. This lab will cover how to construct multi-view displays through layering, faceting, and concatenation in Vega-lite.",
+            "title": "Multi-View Composition & Interaction in Vega-lite",
+            "desc":"While not as flexible as D3, Vega-lite provides several ways to handle dense, high-dimensional data. This lab will cover how to construct multi-view interactive displays through layering, faceting, and concatenation in Vega-lite.",
             "slides":"/",
             "is_lab":true,
             "readings":[
@@ -443,24 +443,6 @@
             "title": "Uncertainty and Interpretability",
             "desc":"Statistical models are everywhere nowadays. These models are not deterministic and generate estimates with uncertainty. This lecture will introduce visualizations to provide more credible interpretations of the models.",
             "slides":"/",
-            "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
-            ]
-        },
-        {
-            "title": "Interaction in Vega-lite",
-            "desc":"Traditional grammar of graphics only allows for generation of static images. In this lab, students will learn how vega-lite goes beyond to support specifications of interactive visualizations.",
-            "slides":"/",
-            "is_lab":true,
             "readings":[
                 {
                     "title":"Title",
