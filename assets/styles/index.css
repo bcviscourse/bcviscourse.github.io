@@ -178,3 +178,9 @@ body{
   .class .desc{
     /* color: #616161; */
   }
+  .teaser{
+    margin: 20px 0px 10px 0px;
+  }
+  .teaser img{
+    width:100%;
+  }

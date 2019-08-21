@@ -32,7 +32,21 @@ function renderDaySchedule(d, curDay){
         </div>
         <div class="content">
             <p class="desc">${d.desc}</p>
+            <p class="readings">
+                ${renderReadings(d.readings)}
+            </p>
         </div>
         `;
     return div;
+}
+
+function renderReadings(d){
+    return `<ul> ${d.reduce((output, reading, i)=>{
+        output+=`<li>
+            ${(reading.required?'<strong>Required</strong>':'Optional')}:
+            ${reading.title} (<a class='reading-title' target='_blank' href='${reading.link}'>Link</a>)
+            
+        </li>`
+        return output;
+    },'')}</ul>`
 }

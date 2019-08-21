@@ -12,13 +12,13 @@
             "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
+                    "title":"Chapter 1. What We Talk About When We Talk About Visualization, The Truthful Art, Alberto Cairo, 2016",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch01.html",
+                    "required": false
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"The Value of Information Visualization",
+                    "link":"assets/readings/value_of_infovis.pdf",
                     "required": false
                 }
             ]
