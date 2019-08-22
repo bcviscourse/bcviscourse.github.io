@@ -20,6 +20,11 @@
                     "title":"The Value of Information Visualization",
                     "link":"assets/readings/value_of_infovis.pdf",
                     "required": false
+                },
+                {
+                    "title":"Chapter 1. What’s Vis, and Why Do It?, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C001.xhtml",
+                    "required": false
                 }
             ]
         },
@@ -30,13 +35,18 @@
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 3. Technology Fundamentals (HTML, CSS only), Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch03.html#technology_fundamentals",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Github Guides: Hello World",
+                    "link":"https://guides.github.com/activities/hello-world/",
+                    "required":true
+                },
+                {
+                    "title":"Practice with JSBin, online playground for HTML, CSS, and Javascript",
+                    "link":"jsbin.com",
                     "required": false
                 }
             ]

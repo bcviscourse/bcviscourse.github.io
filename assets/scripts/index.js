@@ -12,6 +12,14 @@ fetch('assets/syllabus.json').then(resp=>resp.json()).then(course=>{
     console.log('start date', startDay);
     let toggle = true;
     course.schedule.forEach((classDay,i)=>{
+        if (toggle){
+            let week = document.createElement('h3');
+            week.classList.add('week');
+            week.classList.add('title');
+            week.innerHTML = `Week ${i/2+1}`
+            container.appendChild(week)
+        }
+        toggle=!toggle;
         let move = i%2? (7*(i-1)/2+delta):7*i/2;
         let curDay = new Date(startDay.valueOf());
         console.log('start date', curDay, move);
