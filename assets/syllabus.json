@@ -35,6 +35,11 @@
             "is_lab":true,
             "readings":[
                 {
+                    "title":"Lab 1 Preparation",
+                    "link":"https://bcviscourse.github.io/lab1/reading",
+                    "required":true
+                },
+                {
                     "title":"Chapter 3. Technology Fundamentals (HTML, CSS only), Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
                     "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch03.html#technology_fundamentals",
                     "required": true
@@ -69,6 +74,30 @@
             ]
         },
         {
+            "title": "No Class - Mass of the Holy Spirit",
+            "desc":"",
+            "slides":"/",
+            "readings":[
+            ]
+        }, 
+        {
+            "title": "Visual Encoding Design",
+            "desc":"What are building blocks of a visualization? This lecture introduces visual marks and perceptual channels and provides a systematic way to encode an effective visualization and decode existing visualizations in the wild.",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },
+        {
             "title": "Introduction to Javascript",
             "desc":"How to make a web page dynamic and interactive? In this lab, students will learn basics of the Javascript language (e.g., loops and functions) and how to create an interactive bar chart.",
             "slides":"/",
@@ -86,9 +115,10 @@
                 }
             ]
         },
+        
         {
-            "title": "Visual Encoding Design",
-            "desc":"What are building blocks of a visualization? This lecture introduces visual marks and perceptual channels and provides a systematic way to encode an effective visualization and decode existing visualizations in the wild.",
+            "title": "Exploratory Data Analysis",
+            "desc":"What do we first do when we have data? We explore the data to gain insights about the data. This lecture provides the role of visualizations for exploratory analysis beyond formal statistical modelling and testing.",
             "slides":"/",
             "readings":[
                 {
@@ -121,9 +151,10 @@
                 }
             ]
         },
+       
         {
-            "title": "Exploratory Data Analysis",
-            "desc":"What do we first do when we have data? We explore the data to gain insights about the data. This lecture provides the role of visualizations for exploratory analysis beyond formal statistical modelling and testing.",
+            "title": "Storytelling with Data",
+            "desc":"Visualization is not just for analyzing data but for communication of it. What are strategies for telling compelling stories with data? This lecture will take a look at different types of data stories and basic design guidelines.",
             "slides":"/",
             "readings":[
                 {
@@ -137,7 +168,7 @@
                     "required": false
                 }
             ]
-        },
+        },     
         {
             "title": "D3 Scales and Axes",
             "desc":"How do we map data to pixels? Students will learn about scale functions to handle the mapping of different types of data, as well as axes to generate visual guides for reading the scales.",
@@ -155,42 +186,8 @@
                     "required": false
                 }
             ]
-        },        
-        {
-            "title": "Storytelling with Data",
-            "desc":"Visualization is not just for analyzing data but for communication of it. What are strategies for telling compelling stories with data? This lecture will take a look at different types of data stories and basic design guidelines.",
-            "slides":"/",
-            "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
-            ]
-        },        
-        {
-            "title": "D3 Update Pattern",
-            "desc":"What do we do when new data comes in? This lab will tackle the general update pattern for populating new data to an existing visualization, which is at the heart of the D3 library design.",
-            "slides":"/",
-            "is_lab":true,
-            "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
-            ]
-        },        
+        },           
+       
         {
             "title": "Task Analysis and Evaluation",
             "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
@@ -209,6 +206,42 @@
             ]
         },
         {
+            "title": "D3 Update Pattern",
+            "desc":"What do we do when new data comes in? This lab will tackle the general update pattern for populating new data to an existing visualization, which is at the heart of the D3 library design.",
+            "slides":"/",
+            "is_lab":true,
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },        
+         
+        {
+            "title": "Interaction",
+            "desc":"How can we explore complex and multi-faceted data in a limited screen space? In this lecture, we will discuss different interaction techniques that allow us to dynamically filter data and coordinate multiple views.",
+            "slides":"/",
+            "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
+            ]
+        },       
+        {
             "title": "Layouts in D3",
             "desc":"Advanced visualizations beyond simple statistical charts often require complex layouts. In this lab, students will learn to use space more effectively by experimenting with commonly used layouts.",
             "slides":"/",
@@ -226,23 +259,14 @@
                 }
             ]
         },        
+        
         {
-            "title": "Interaction",
-            "desc":"How can we explore complex and multi-faceted data in a limited screen space? In this lecture, we will discuss different interaction techniques that allow us to dynamically filter data and coordinate multiple views.",
+            "title": "No Class - Fall Break",
+            "desc":"",
             "slides":"/",
             "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
             ]
-        },        
+        },
         {
             "title": "Brushing and Linking in D3",
             "desc":"The fundamental guiding principle for interactive visualization is \"Overview first, zoom and filter, then details-on-demand\". In this lab, we will implement the principle using a focus + context technique.",
@@ -261,13 +285,14 @@
                 }
             ]
         },
+           
         {
-            "title": "No Class - Fall Break",
-            "desc":"",
+            "title": "No Class - IEEE VIS Conference Travel",
+            "desc":"TBD: there might be a guest lecture or visit to exhibitions in nearby libraries.",
             "slides":"/",
             "readings":[
             ]
-        },
+        }, 
         {
             "title": "Custom Visualizations in D3",
             "desc":"Standard visualizations may not be able to handle the complexity of your data. This lab provides an opportunity to learn how to go out of the box and invent novel visual encodings.",
@@ -285,14 +310,27 @@
                     "required": false
                 }
             ]
-        },        
+        },     
+        
         {
-            "title": "No Class - IEEE VIS Conference Travel",
-            "desc":"TBD: there might be a guest lecture or visit to exhibitions in nearby libraries.",
+            "title": "Perception & Cognition",
+            "desc":"Well-designed visualizations leverage human visual perception to amplify our limited cognitive abilities. We will cover a set of perception theories on colors, size estimation, preattentive processing, gestalt principles, and more. ",
             "slides":"/",
             "readings":[
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": true
+                },
+                {
+                    "title":"Title",
+                    "link":"Link",
+                    "required": false
+                }
             ]
-        }, 
+        },
+
+
         {
             "title": "Composition & Multiple Views in D3",
             "desc":"To support complex tasks or to see multiple perspectives on data, we need more than one visualization. In this lab, students will learn how to coordinate multiple visualizations.",
@@ -311,41 +349,7 @@
                 }
             ]
         },
-        {
-            "title": "Perception & Cognition",
-            "desc":"Well-designed visualizations leverage human visual perception to amplify our limited cognitive abilities. We will cover a set of perception theories on colors, size estimation, preattentive processing, gestalt principles, and more. ",
-            "slides":"/",
-            "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
-            ]
-        },
-        {
-            "title": "Introduction to Vega-Lite & Observable",
-            "desc":"While D3 is the Swiss army knife for custom visualizations, it is often overkill for most visualizations. This lab introduces Vega-lite that provides a higher-level grammar for rapidly generating standard visualizations.",
-            "slides":"/",
-            "is_lab":true,
-            "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
-            ]
-        },
+      
         {
             "title": "Networks and Maps",
             "desc":"Statistical graphics can cover tabular data but not network and geographic data. In this lecture, students will learn about specialized visualizations for graph structures and geographic maps.",
@@ -363,9 +367,11 @@
                 }
             ]
         },
+
+          
         {
-            "title": "Transformation, Encoding, and Cartogram in Vega-Lite",
-            "desc":"Vega-lite significantly ease the making of maps. In this lab, students will learn how to create different kinds of cartograms (e.g., choropleth and symbol maps) in Vega-lite.",
+            "title": "Introduction to Vega-Lite",
+            "desc":"While D3 is the Swiss army knife for custom visualizations, it is often overkill for most visualizations. This lab introduces Vega-lite that provides a higher-level grammar for rapidly generating standard visualizations.",
             "slides":"/",
             "is_lab":true,
             "readings":[
@@ -381,6 +387,7 @@
                 }
             ]
         },
+
         {
             "title": "Multi-Dimensional Data",
             "desc":"Data is getting more complex and multi-structured (e.g., multivariate dynamic networks), or even unstructured (e.g., text). In this lecture, we will take a look at more complex visualizations for tables, networks, maps, and combinations of all.",
@@ -398,9 +405,10 @@
                 }
             ]
         },
+
         {
-            "title": "Multi-View Composition & Interaction in Vega-lite",
-            "desc":"While not as flexible as D3, Vega-lite provides several ways to handle dense, high-dimensional data. This lab will cover how to construct multi-view interactive displays through layering, faceting, and concatenation in Vega-lite.",
+            "title": "Advanced Visualizations in Vega-lite",
+            "desc":"While not as flexible as D3, Vega-lite provides several ways to create beyond simple statistical charts including cartograms and parallel coordinate plots. This lab will cover how to construct multi-view interactive displays in Vega-lite.",
             "slides":"/",
             "is_lab":true,
             "readings":[
@@ -415,7 +423,9 @@
                     "required": false
                 }
             ]
-        },{
+        },
+        
+        {
             "title": "Design Feedback Session 1",
             "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
             "slides":"/",
