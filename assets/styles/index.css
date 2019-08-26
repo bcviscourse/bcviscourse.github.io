@@ -167,8 +167,11 @@ body{
     background-color:#FFE0B2;
   }
 
+  .week{
+    margin: 10px 0px 5px 0px;
+  }
   .class{
-    margin:20px 0px 10px 0px;
+    margin:10px 0px 10px 0px;
   }
   .class .header{
     display: flex;
@@ -178,4 +181,10 @@ body{
   }
   .class .desc{
     /* color: #616161; */
+  }
+  .teaser{
+    margin: 20px 0px 10px 0px;
+  }
+  .teaser img{
+    width:100%;
   }
