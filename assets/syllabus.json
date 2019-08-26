@@ -307,8 +307,8 @@
             "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Your Friendly Guide to Colors in Data Visualisation",
+                    "link":"https://blog.datawrapper.de/colorguide/",
                     "required": true
                 },
                 {
