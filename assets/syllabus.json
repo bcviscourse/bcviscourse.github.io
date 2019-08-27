@@ -60,13 +60,18 @@
             "desc":"What are general rules of thumb for good visualization design? This class will introduce several design principles for effective visualization design through diverse examples of good, bad and weird visualizations.",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 2. The Five Qualities of Great Visualizations, Truthful Arts, Alberto Cairo, 2016 ",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch02.html#ch02",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Design and Redesign - Fernanda Viegas and Martin Wattenberg",
+                    "link":"assets/readings/Design and Redesign - Fernanda & Martin - Medium.pdf",
+                    "required": true
+                },
+                {
+                    "title":"Chapter 6. Rules of Thumb, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C006.xhtml",
                     "required": false
                 }
             ]
@@ -82,13 +87,27 @@
             "desc":"What are building blocks of a visualization? This lecture introduces visual marks and perceptual channels and provides a systematic way to encode an effective visualization and decode existing visualizations in the wild.",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"5. Basic Principles of Visualization, The Truthful Art, Alberto Cairo, 2016",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html#ch05",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 2. What: Data Abstraction, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C002.xhtml",
+                    "required": false
+                },
+                {
+                    "title":"Chapter 5. Marks and Channels, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C005.xhtml",
+                    "required": false
+                },
+                {
+                    "title":"The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations",
+                    "link":"https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf"
+                },
+                {
+                    "title":"On the Theory of Scales of Measurement, S. S. Stevens, 1946.",
+                    "link":"http://www.jstor.org/pss/1671815",
                     "required": false
                 }
             ]
@@ -99,14 +118,14 @@
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 3. Technology Fundamentals (Javascript only), Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch03.html#technology_fundamentals",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"ES6 Features: Arrows, Classes, Enhanced Object Literals, Template Strings, Destructuring, Default + Rest + Spread, Let+Const, Modules only",
+                    "link":"https://github.com/lukehoban/es6features",
+                    "required": true
                 }
             ]
         },
@@ -114,52 +133,75 @@
         {
             "title": "Exploratory Data Analysis",
             "desc":"What do we first do when we have data? We explore the data to gain insights about the data. This lecture provides the role of visualizations for exploratory analysis beyond formal statistical modelling and testing.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
+                    "title":"Watch 1. Tableau Public Overview (7:10)",
+                    "link":"https://public.tableau.com/en-us/s/resources",
+                    "required":true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Exploratory Data Analysis, NIST Engineering Statistics Handbook.",
+                    "link":"https://www.itl.nist.gov/div898/handbook/eda/eda.htm",
                     "required": false
+                },
+                {
+                    "title":"From Data to Viz",
+                    "link":"https://www.data-to-viz.com/",
+                    "required": false
+                },
+                {
+                    "title":"Tableau Visual Analysis Best Practices",
+                    "link":"https://www.tableau.com/sites/default/files/media/whitepaper_visual-analysis-guidebook_0.pdf",
+                    "required":false
                 }
             ]
         },
         {
             "title": "Introduction to SVG & D3",
             "desc":"Building a visualization requires technology beyond simple HTML, CSS, and Javascript. This lab will give an introduction to how to generate vector-based graphics and bind data to the graphics using D3.js.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 3. Technology Fundamentals (SVG only), Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch03.html#technology_fundamentals",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"Chapter 5. Data, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch05.html#data-chapter5",
+                    "required": true
+                },
+                {
+                    "title":"Chapter 6. Drawing with Data, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch06.html#drawing_with_data",
+                    "required":true
                 }
+                
             ]
-        },
-       
+        },       
         {
             "title": "Storytelling with Data",
             "desc":"Visualization is not just for analyzing data but for communication of it. What are strategies for telling compelling stories with data? This lecture will take a look at different types of data stories and basic design guidelines.",
             "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 8. Pulling it all together, Storytelling with Data, Cole Nussbaumer Knaflic, 2015",
+                    "link":"https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/c08.xhtml",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Data Humanism, The Revolution will be Visualized",
+                    "link":"http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold",
+                    "required":true
+                },
+                {
+                    "title":"On Creativity and Innovation",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch12.html#ch12",
+                    "required":false
+                },
+                {
+                    "title":"Narrative Visualization: Telling Stories with Data, Edward Segel and Jeffrey Heer, 2010",
+                    "link":"http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf",
                     "required": false
                 }
             ]
@@ -167,18 +209,17 @@
         {
             "title": "D3 Scales and Axes",
             "desc":"How do we map data to pixels? Students will learn about scale functions to handle the mapping of different types of data, as well as axes to generate visual guides for reading the scales.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 7. Scales, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch07.html#scales-chapter7",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"Chapter 8. Axes, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch08.html#axes-chapter8",
+                    "required": true
                 }
             ]
         },           
@@ -186,71 +227,63 @@
         {
             "title": "Task Analysis and Evaluation",
             "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"TBD",
+                    "link":"/",
                     "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
                 }
             ]
         },
         {
             "title": "D3 Update Pattern",
             "desc":"What do we do when new data comes in? This lab will tackle the general update pattern for populating new data to an existing visualization, which is at the heart of the D3 library design.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 9. Updates, Transitions, and Motion, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch09.html#updates-chapter9",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 12. Selections, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch12.html#selections",
+                    "required":true
+                },
+                {
+                    "title":"How Selections Work, Mike Bostock, 2013",
+                    "link":"https://bost.ocks.org/mike/selection/",
                     "required": false
                 }
+                
             ]
         },        
          
         {
             "title": "Interaction",
             "desc":"How can we explore complex and multi-faceted data in a limited screen space? In this lecture, we will discuss different interaction techniques that allow us to dynamically filter data and coordinate multiple views.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"TBD",
+                    "link":"/",
                     "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
                 }
             ]
         },       
         {
             "title": "D3 Layouts",
             "desc":"Advanced visualizations beyond simple statistical charts often require complex layouts. In this lab, students will learn to use space more effectively by experimenting with commonly used layouts.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 13.Layouts, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch13.html#chapter11-layouts",
                     "required": true
                 },
                 {
-                    "title":"Title",
+                    "title":"Chapter 14.Geomapping, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
                     "link":"Link",
-                    "required": false
+                    "required": true
                 }
             ]
         },        
@@ -258,25 +291,23 @@
         {
             "title": "No Class - Fall Break",
             "desc":"",
-            "slides":"/",
             "readings":[
             ]
         },
         {
             "title": "D3 Brushing and Linking",
             "desc":"The fundamental guiding principle for interactive visualization is \"Overview first, zoom and filter, then details-on-demand\". In this lab, we will implement the principle using a focus + context technique.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Chapter 10.Interactivity, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch10.html#interactivity",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"Chapter 11.Using Paths, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch11.html#using_paths",
+                    "required":true
                 }
             ]
         },
@@ -284,25 +315,23 @@
         {
             "title": "No Class - IEEE VIS Conference Travel",
             "desc":"TBD: there might be a guest lecture or visit to exhibitions in nearby libraries.",
-            "slides":"/",
             "readings":[
             ]
         }, 
         {
             "title": "D3 Custom Visualizations",
             "desc":"Standard visualizations may not be able to handle the complexity of your data. This lab provides an opportunity to learn how to go out of the box and invent novel visual encodings.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Creating a Unique Visualization",
+                    "link":"http://jsdatav.is/chap07.html#creating-a-unique-visualization",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"The D3.js Graph Gallery",
+                    "link":"https://www.d3-graph-gallery.com/index.html",
+                    "required": true
                 }
             ]
         },     
@@ -310,17 +339,26 @@
         {
             "title": "Perception & Cognition",
             "desc":"Well-designed visualizations leverage human visual perception to amplify our limited cognitive abilities. We will cover a set of perception theories on colors, size estimation, preattentive processing, gestalt principles, and more. ",
-            "slides":"/",
             "readings":[
+                {
+                    "title":"Perception in Visualization, Christopher G. Healey, 2012",
+                    "link":"https://www.csc2.ncsu.edu/faculty/healey/PP/index.html",
+                    "required": true
+                },
                 {
                     "title":"Your Friendly Guide to Colors in Data Visualisation",
                     "link":"https://blog.datawrapper.de/colorguide/",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"39 Studies About Human Perception in 30 Minutes. Kennedy Elliott.",
+                    "link":"assets/readings/39 studies about human perception in 30 minutes - kennedy elliott - Medium.pdf",
+                    "required":false
+                },
+                {
+                    "title":"Graphical Perception: Theory, Experimentation and the Application to the Development of Graphical Models. William S. Cleveland, 1984.",
+                    "link":"https://www.jstor.org/stable/pdf/2288400.pdf?casa_token=zlYZwkesE-IAAAAA:_Ym_NgkTWx6nlw6nKWWesHMIRIt8x6MDOlt7a-4bbtKPHpzPYR5Kv21f1pN3U8snW2EQfxIcbRMPOqqqVgyjMMcFVuNQqqeeMwBNWrwwJM2UWkW97xiU",
+                    "required":false
                 }
             ]
         },
@@ -329,18 +367,12 @@
         {
             "title": "D3 Multiple View Compositions",
             "desc":"To support complex tasks or to see multiple perspectives on data, we need more than one visualization. In this lab, students will learn how to coordinate multiple visualizations.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Towards Reusable Charts",
+                    "link":"https://bost.ocks.org/mike/chart/",
                     "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
                 }
             ]
         },
@@ -348,17 +380,16 @@
         {
             "title": "Networks and Maps",
             "desc":"Statistical graphics can cover tabular data but not network and geographic data. In this lecture, students will learn about specialized visualizations for graph structures and geographic maps.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"What to consider when creating choropleth maps, Lisa Charlotte Rost, 2018",
+                    "link":"https://blog.datawrapper.de/choroplethmaps/",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
+                    "title":"Chapter 9. Arrange Networks and Trees, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C009.xhtml",
+                    "required": true
                 }
             ]
         },
@@ -367,18 +398,12 @@
         {
             "title": "Introduction to Vega-Lite",
             "desc":"While D3 is the Swiss army knife for custom visualizations, it is often overkill for most visualizations. This lab introduces Vega-lite that provides a higher-level grammar for rapidly generating standard visualizations.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"TBD",
+                    "link":"/",
                     "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
                 }
             ]
         },
@@ -386,16 +411,15 @@
         {
             "title": "Multi-Dimensional Data",
             "desc":"Data is getting more complex and multi-structured (e.g., multivariate dynamic networks), or even unstructured (e.g., text). In this lecture, we will take a look at more complex visualizations for tables, networks, maps, and combinations of all.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
+                    "title":"A Tour through the Visualization Zoo",
+                    "link":"https://queue.acm.org/detail.cfm?id=1805128",
+                    "required":true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"How to Use t-SNE Effectively",
+                    "link":"https://distill.pub/2016/misread-tsne/",
                     "required": false
                 }
             ]
@@ -404,18 +428,12 @@
         {
             "title": "Advanced Vega-lite",
             "desc":"While not as flexible as D3, Vega-lite provides several ways to create beyond simple statistical charts including cartograms and parallel coordinate plots. This lab will cover how to construct multi-view interactive displays in Vega-lite.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"TBD",
+                    "link":"/",
                     "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
                 }
             ]
         },
@@ -423,50 +441,32 @@
         {
             "title": "Design Feedback Session 1",
             "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"The 10 Bad Habits that Hurt Critique.pdf",
+                    "link":"assets/readings/The 10 Bad Habits that Hurt Critique.pdf",
                     "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
                 }
             ]
         },
         {
             "title": "Design Feedback Session 2",
             "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
-            "slides":"/",
             "readings":[
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": true
-                },
-                {
-                    "title":"Title",
-                    "link":"Link",
-                    "required": false
-                }
             ]
         },
         {
             "title": "Uncertainty and Interpretability",
             "desc":"Statistical models are everywhere nowadays. These models are not deterministic and generate estimates with uncertainty. This lecture will introduce visualizations to provide more credible interpretations of the models.",
-            "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
+                    "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
                     "required": true
                 },
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Visualizing Uncertainty, Fundamentals of Data Visualization, Wilke, 2018",
+                    "link":"https://serialmentor.com/dataviz/visualizing-uncertainty.html",
                     "required": false
                 }
             ]
@@ -474,19 +474,16 @@
         {
             "title": "No Class - Thanksgiving Day",
             "desc":"",
-            "slides":"/",
             "readings":[
             ]
         },{
             "title": "Research in Visualization",
             "desc":"Anyone can do research in visualization. The final project in this class is an example of visualization research. In this lecture, we will see what types of research exist in the field.",
-            "slides":"/",
             "readings":[
             ]
         },{
             "title": "Final Project Presentation",
             "desc":"Student teams will showcase their final prototypes to the class. Presenting an idea clearly and professionally is important and will be part of the final project evaluation.",
-            "slides":"/",
             "readings":[
             ]
         }
