@@ -9,7 +9,7 @@
         {
             "title": "The Value of Visualization",
             "desc":"This class will provide a general introduction to visualization. What is visualization? Why is it important? What are different functions of visualization? We will answer these questions using historical examples.",
-            "slides":"/",
+            "slides":"assets/slides/1. Value of Visualization.pdf",
             "readings":[
                 {
                     "title":"Chapter 1. What We Talk About When We Talk About Visualization, The Truthful Art, Alberto Cairo, 2016",
@@ -31,7 +31,6 @@
         {
             "title": "Web Development Basics",
             "desc":"What skills do we need for visualization development for the web? This lab will introduce HTML & CSS, the most basic building blocks for creating a web page.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {
@@ -59,7 +58,6 @@
         {
             "title": "Design Principles",
             "desc":"What are general rules of thumb for good visualization design? This class will introduce several design principles for effective visualization design through diverse examples of good, bad and weird visualizations.",
-            "slides":"/",
             "readings":[
                 {
                     "title":"Title",
@@ -76,14 +74,12 @@
         {
             "title": "No Class - Mass of the Holy Spirit",
             "desc":"",
-            "slides":"/",
             "readings":[
             ]
         }, 
         {
             "title": "Visual Encoding Design",
             "desc":"What are building blocks of a visualization? This lecture introduces visual marks and perceptual channels and provides a systematic way to encode an effective visualization and decode existing visualizations in the wild.",
-            "slides":"/",
             "readings":[
                 {
                     "title":"Title",
@@ -100,7 +96,6 @@
         {
             "title": "Introduction to Javascript",
             "desc":"How to make a web page dynamic and interactive? In this lab, students will learn basics of the Javascript language (e.g., loops and functions) and how to create an interactive bar chart.",
-            "slides":"/",
             "is_lab":true,
             "readings":[
                 {

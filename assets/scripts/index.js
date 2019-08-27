@@ -14,6 +14,7 @@ fetch('assets/syllabus.json').then(resp=>resp.json()).then(course=>{
     course.schedule.forEach((classDay,i)=>{
         if (toggle){
             let week = document.createElement('h3');
+            week.id = `Week ${i/2+1}`
             week.classList.add('week');
             week.classList.add('title');
             week.innerHTML = `Week ${i/2+1}`
@@ -34,9 +35,10 @@ function renderDaySchedule(d, curDay){
     let div = document.createElement('div');
     div.classList.add('class');
     div.innerHTML =  `
-        <div class="header">
+        <div class="header" id="${d.title}">
             <span class="date">${revDayMap[curDay.getDay()]}, ${curDay.getMonth()+1}/${curDay.getDate()}</span>
             <strong>${d.is_lab? '⚒':'📖'} ${d.title}</strong>
+            &nbsp;<span>${d.slides?`(<a href="${d.slides}" target="_blank">Slides</a>)`:''}</span>
         </div>
         <div class="content">
             <p class="desc">${d.desc}</p>
