@@ -237,7 +237,7 @@
             ]
         },       
         {
-            "title": "Layouts in D3",
+            "title": "D3 Layouts",
             "desc":"Advanced visualizations beyond simple statistical charts often require complex layouts. In this lab, students will learn to use space more effectively by experimenting with commonly used layouts.",
             "slides":"/",
             "is_lab":true,
@@ -263,7 +263,7 @@
             ]
         },
         {
-            "title": "Brushing and Linking in D3",
+            "title": "D3 Brushing and Linking",
             "desc":"The fundamental guiding principle for interactive visualization is \"Overview first, zoom and filter, then details-on-demand\". In this lab, we will implement the principle using a focus + context technique.",
             "slides":"/",
             "is_lab":true,
@@ -289,7 +289,7 @@
             ]
         }, 
         {
-            "title": "Custom Visualizations in D3",
+            "title": "D3 Custom Visualizations",
             "desc":"Standard visualizations may not be able to handle the complexity of your data. This lab provides an opportunity to learn how to go out of the box and invent novel visual encodings.",
             "slides":"/",
             "is_lab":true,
@@ -313,8 +313,8 @@
             "slides":"/",
             "readings":[
                 {
-                    "title":"Title",
-                    "link":"Link",
+                    "title":"Your Friendly Guide to Colors in Data Visualisation",
+                    "link":"https://blog.datawrapper.de/colorguide/",
                     "required": true
                 },
                 {
@@ -327,7 +327,7 @@
 
 
         {
-            "title": "Composition & Multiple Views in D3",
+            "title": "D3 Multiple View Compositions",
             "desc":"To support complex tasks or to see multiple perspectives on data, we need more than one visualization. In this lab, students will learn how to coordinate multiple visualizations.",
             "slides":"/",
             "is_lab":true,
@@ -402,7 +402,7 @@
         },
 
         {
-            "title": "Advanced Visualizations in Vega-lite",
+            "title": "Advanced Vega-lite",
             "desc":"While not as flexible as D3, Vega-lite provides several ways to create beyond simple statistical charts including cartograms and parallel coordinate plots. This lab will cover how to construct multi-view interactive displays in Vega-lite.",
             "slides":"/",
             "is_lab":true,
