@@ -29,7 +29,7 @@
             ]
         },
         {
-            "title": "Web Development Basics",
+            "title": "HTML & CSS",
             "desc":"What skills do we need for visualization development for the web? This lab will introduce HTML & CSS, the most basic building blocks for creating a web page.",
             "is_lab":true,
             "readings":[
