@@ -86,7 +86,7 @@ function renderReadings(d){
     return `<ul> ${d.reduce((output, reading, i)=>{
         output+=`<li>
             ${(reading.required?'<strong>Required</strong>':'Optional')}:
-            ${reading.title} (<a class='reading-title' target='_blank' href='${reading.link}'>Link</a>)
+            (<a class='reading-title' target='_blank' href='${reading.link}'>${reading.title}</a>)
             
         </li>`
         return output;
