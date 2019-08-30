@@ -85,7 +85,13 @@
             <section>
                 <h2 class="title">Schedule</h2>
                 <div class="search">
-                    <input type="text" name='schedule' placeholder="Search Schedule by Week #, Title, Date...">
+                    <input type="text" name='schedule' placeholder="Search Schedule by Week #, Title, Date, Lab or Lecture...">
+                </div>
+                <div class="filter">
+                        <div class="chip selected"  data-cond="all-schedule">All</div>
+                    <div class="chip" data-cond="next-schedule">Next</div>
+                    <div class="chip " data-cond="lecture-schedule">Lectures</div>
+                    <div class="chip" data-cond="lab-schedule">Labs</div>
                 </div>
                 <div class="schedule">
 

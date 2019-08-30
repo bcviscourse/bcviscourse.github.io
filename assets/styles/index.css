@@ -203,3 +203,22 @@ body{
     border: 1px solid #eeeeee;
     outline: none;
 }
+
+.filter{
+  padding:1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.chip{
+  border-radius: 1rem;
+  background: #eeeeee;
+  
+  padding: .2rem 0.5rem;
+  margin: .2rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.chip.selected{
+  background: #B3E5FC;
+  /* color:#fafafa; */
+}
