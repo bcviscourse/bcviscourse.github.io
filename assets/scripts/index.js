@@ -75,10 +75,10 @@ function renderDaySchedule(d){
     let div = document.createElement('div');
     div.classList.add('class');
     div.innerHTML =  `
-        <div class="header" id="${d.title}">
+        <div class="header" id="${d.title.toLowerCase().replace(/ /g,'-')}">
             <span class="date">${formatDate(d.date)}</span>
             <strong>${d.type==="lab"? '⚒ Lab':(d.type==="lecture"?'📖 Lecture':'')} ${d.index?d.index+'.':''} ${d.title}</strong>
-            &nbsp;<span>${d.slides?`<a href="${d.slides}" target="_blank">Slides</a>`:''}</span>
+            &nbsp;<span>${d.slides?`(<a href="${d.slides}" target="_blank">Slides</a>)`:''}</span>
         </div>
         <div class="content">
             <p class="desc">${d.desc}</p>
