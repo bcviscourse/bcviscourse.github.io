@@ -9,7 +9,6 @@
         {
             "title": "The Value of Visualization",
             "desc":"This class will provide a general introduction to visualization. What is visualization? Why is it important? What are different functions of visualization? We will answer these questions using historical examples.",
-            "slides":"assets/slides/1. Value of Visualization.pdf",
             "type":"lecture",
             "readings":[
                 {
@@ -33,7 +32,6 @@
             "title": "HTML & CSS",
             "desc":"What skills do we need for visualization development for the web? This lab will introduce HTML & CSS, the most basic building blocks for creating a web page.",
             "type":"lab",
-            "slides":"assets/slides/1. HTML & CSS.pdf",
             "readings":[
                 {
                     "title":"Lab 1 Preparation",
