@@ -181,6 +181,7 @@ body{
   }
   .class .desc{
     /* color: #616161; */
+    margin-top: 5px;
   }
   .teaser{
     margin: 20px 0px 10px 0px;
@@ -188,3 +189,36 @@ body{
   .teaser img{
     width:100%;
   }
+  .search {
+    position: relative;
+}
+.search input {
+    box-sizing: border-box;
+    display: block;
+    width:100%;
+    margin:0.5rem 0 0.5rem 0;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: 1px solid #eeeeee;
+    outline: none;
+}
+
+.filter{
+  padding:1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.chip{
+  border-radius: 1rem;
+  background: #eeeeee;
+  
+  padding: .2rem 0.5rem;
+  margin: .2rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.chip.selected{
+  background: #B3E5FC;
+  /* color:#fafafa; */
+}
