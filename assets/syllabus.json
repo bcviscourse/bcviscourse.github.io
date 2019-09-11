@@ -420,14 +420,29 @@
         },
 
         {
-            "title": "Multi-Dimensional Data",
-            "desc":"Data is getting more complex and multi-structured (e.g., multivariate dynamic networks), or even unstructured (e.g., text). In this lecture, we will take a look at more complex visualizations for tables, networks, maps, and combinations of all.",
+            "title": "Guest Lecture: Visualization + Machine Learning by Bum Chul Kwon, IBM Research Scientist",
+            "desc":"Machine learning has an enormous capacity to quickly extract interesting patterns from a large amount of data. This guest lecture will discuss some examples of how to integrate machine learning into visualization systems to support advanced analytical reasoning.",
             "type":"lecture",
             "readings":[
+                {
+                    "title":"Check out Bum Chul Kwon's research (e.g., watch at least two short videos of his recent publications)",
+                    "link":"https://www.bckwon.com/",
+                    "required":true
+                },
+                {
+                    "title":"Watch Ian Johnson's talk on Machine Learning for Visualization (25 min)",
+                    "link":"https://youtu.be/6n-kCYn0zxU",
+                    "required":true
+                },
                 {
                     "title":"A Tour through the Visualization Zoo",
                     "link":"https://queue.acm.org/detail.cfm?id=1805128",
                     "required":true
+                },
+                {
+                    "title":"Watch Fernanda Viégas + Martin Wattenberg - Data visualization for machine learning (35 min)",
+                    "link":"https://vimeo.com/304131671",
+                    "required":false
                 },
                 {
                     "title":"How to Use t-SNE Effectively",
@@ -493,9 +508,9 @@
             "readings":[
             ]
         },{
-            "title": "Research in Visualization",
+            "title": "Visualization in the Wild",
             "type":"lecture",
-            "desc":"Anyone can do research in visualization. The final project in this class is an example of visualization research. In this lecture, we will see what types of research exist in the field.",
+            "desc":"In this lecture, we will get a glimpse of the state of the art and various research topics in visualization research, as well as what practitioners are doing in the wild.",
             "readings":[
             ]
         },{
