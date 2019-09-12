@@ -159,11 +159,6 @@
                     "required": true
                 },
                 {
-                    "title":"7. Visualizing Distributions, The Truthful Art, Alberto Cairo, 2016",
-                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch07.html#ch07",
-                    "required": false
-                },
-                {
                     "title":"Exploratory Data Analysis, NIST Engineering Statistics Handbook.",
                     "link":"https://www.itl.nist.gov/div898/handbook/eda/eda.htm",
                     "required": false
