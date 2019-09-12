@@ -149,25 +149,26 @@
                     "required": true
                 },
                 {
-                    "title":"7. Visualizing Distributions, The Truthful Art, Alberto Cairo, 2016",
-                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch07.html#ch07",
-                    "required": true
-                },
-                {
                     "title":"Watch 1. Tableau Public Overview (7:10)",
                     "link":"https://public.tableau.com/en-us/s/resources",
                     "required":true
+                },
+                {
+                    "title":"From Data to Viz - Discuss two visualizations you have not seen before in your response (attach images as necessary)",
+                    "link":"https://www.data-to-viz.com/",
+                    "required": true
+                },
+                {
+                    "title":"7. Visualizing Distributions, The Truthful Art, Alberto Cairo, 2016",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch07.html#ch07",
+                    "required": false
                 },
                 {
                     "title":"Exploratory Data Analysis, NIST Engineering Statistics Handbook.",
                     "link":"https://www.itl.nist.gov/div898/handbook/eda/eda.htm",
                     "required": false
                 },
-                {
-                    "title":"From Data to Viz",
-                    "link":"https://www.data-to-viz.com/",
-                    "required": false
-                },
+
                 {
                     "title":"Tableau Visual Analysis Best Practices",
                     "link":"https://www.tableau.com/sites/default/files/media/whitepaper_visual-analysis-guidebook_0.pdf",
