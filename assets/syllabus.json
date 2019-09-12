@@ -541,20 +541,16 @@
             ]
         },
         {
-            "title": "Uncertainty and Interpretability",
-            "desc":"Statistical models are everywhere nowadays. These models are not deterministic and generate estimates with uncertainty. This lecture will introduce visualizations to provide more credible interpretations of the models.",
+            "title": "Guest Lecture: Spatial Storytelling by Nil Tuzcu, Creative Technologist, Harvard Kennedy School ",
+            "desc":"Spatial storytelling enables multifaceted inquires in digital humanities and urban research. Nil Tuzcu will introduce multiple projects with different approaches to spatial storytelling, along with design processes.",
             "type":"lecture",
             "readings":[
                 {
-                    "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
-                    "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
-                    "required": true
-                },
-                {
-                    "title":"Visualizing Uncertainty, Fundamentals of Data Visualization, Wilke, 2018",
-                    "link":"https://serialmentor.com/dataviz/visualizing-uncertainty.html",
-                    "required": false
+                    "title":"Check out Nil Tuzcu's work",
+                    "link":"https://www.niltuzcu.net/",
+                    "required":true
                 }
+                
             ]
         },
         {
@@ -568,6 +564,16 @@
             "type":"lecture",
             "desc":"In this lecture, we will get a glimpse of the state of the art and various research topics in visualization research, as well as what practitioners are doing in the wild.",
             "readings":[
+                {
+                    "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
+                    "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
+                    "required": true
+                },
+                {
+                    "title":"Visualizing Uncertainty, Fundamentals of Data Visualization, Wilke, 2018",
+                    "link":"https://serialmentor.com/dataviz/visualizing-uncertainty.html",
+                    "required": false
+                }
             ]
         },{
             "title": "Final Project Presentation",
