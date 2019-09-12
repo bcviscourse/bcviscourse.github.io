@@ -112,6 +112,11 @@
                     "title":"On the Theory of Scales of Measurement, S. S. Stevens, 1946.",
                     "link":"http://www.jstor.org/pss/1671815",
                     "required": false
+                },
+                {
+                    "title":"Data Types, Graphical Marks, and Visual Encoding Channels, Jeffrey Heer, 2019",
+                    "link":"https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels",
+                    "required":false
                 }
             ]
         },
@@ -138,6 +143,16 @@
             "desc":"What do we first do when we have data? We explore the data to gain insights about the data. This lecture provides the role of visualizations for exploratory analysis beyond formal statistical modelling and testing.",
             "type":"lecture",
             "readings":[
+                {
+                    "title":"6. Exploring Data with Simple Charts, The Truthful Art, Alberto Cairo, 2016",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html#ch06",
+                    "required": true
+                },
+                {
+                    "title":"7. Visualizing Distributions, The Truthful Art, Alberto Cairo, 2016",
+                    "link":"https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch07.html#ch07",
+                    "required": true
+                },
                 {
                     "title":"Watch 1. Tableau Public Overview (7:10)",
                     "link":"https://public.tableau.com/en-us/s/resources",
@@ -225,6 +240,11 @@
                     "title":"Chapter 8. Axes, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
                     "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch08.html#axes-chapter8",
                     "required": true
+                },
+                {
+                    "title":"Scales, Axes, and Legends, Jeffrey Heer, 2019",
+                    "link":"https://observablehq.com/@uwdata/scales-axes-and-legends",
+                    "required":false
                 }
             ]
         },           
@@ -235,10 +255,21 @@
             "type":"lecture",
             "readings":[
                 {
-                    "title":"TBD",
-                    "link":"/",
+                    "title":"Chapter 3. Why: Task Abstraction, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C003.xhtml",
                     "required": true
+                },
+                {
+                    "title":"Thinking Aloud: The #1 Usability Tool",
+                    "link":"https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+                    "required":true
+                },
+                {
+                    "title":"Chapter 4. Analysis: Four Levels for Validation, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C004.xhtml",
+                    "required": false
                 }
+
             ]
         },
         {
@@ -271,37 +302,28 @@
             "type":"lecture",
             "readings":[
                 {
-                    "title":"TBD",
-                    "link":"/",
-                    "required": true
-                }
-            ]
-        },       
-        {
-            "title": "D3 Layouts",
-            "desc":"Advanced visualizations beyond simple statistical charts often require complex layouts. In this lab, students will learn to use space more effectively by experimenting with commonly used layouts.",
-            "type":"lab",
-            "readings":[
-                {
-                    "title":"Chapter 13.Layouts, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
-                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch13.html#chapter11-layouts",
+                    "title":"Interactive dynamics for visual analysis, Jeffrey Heer & Ben Shneiderman. Communications of the ACM, 2012.",
+                    "link":"https://queue.acm.org/detail.cfm?searchterm=account+analyst&id=2146416",
                     "required": true
                 },
                 {
-                    "title":"Chapter 14.Geomapping, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
-                    "link":"Link",
-                    "required": true
+                    "title":"Chapter 11. Manipulate View, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C011.xhtml",
+                    "required": false
+                },
+                {
+                    "title":"Chapter 12. Facet into Multiple Views, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C012.xhtml",
+                    "required": false
+                },
+                {
+                    "title":"Interaction, Jeffrey Heer, 2019",
+                    "link":"https://observablehq.com/@uwdata/interaction",
+                    "required":false
                 }
             ]
-        },        
+        },     
         
-        {
-            "title": "No Class - Fall Break",
-            "type": "noclass",
-            "desc":"",
-            "readings":[
-            ]
-        },
         {
             "title": "D3 Brushing and Linking",
             "desc":"The fundamental guiding principle for interactive visualization is \"Overview first, zoom and filter, then details-on-demand\". In this lab, we will implement the principle using a focus + context technique.",
@@ -319,7 +341,31 @@
                 }
             ]
         },
-           
+        {
+            "title": "No Class - Fall Break",
+            "type": "noclass",
+            "desc":"",
+            "readings":[
+            ]
+        },
+                 
+        {
+            "title": "D3 Layouts",
+            "desc":"Advanced visualizations beyond simple statistical charts often require complex layouts. In this lab, students will learn to use space more effectively by experimenting with commonly used layouts.",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Chapter 13.Layouts, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch13.html#chapter11-layouts",
+                    "required": true
+                },
+                {
+                    "title":"Chapter 14.Geomapping, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch14.html#geomapping_chapter",
+                    "required": true
+                }
+            ]
+        },    
         {
             "title": "No Class - IEEE VIS Conference Travel",
             "type": "noclass",
@@ -351,14 +397,19 @@
             "type":"lecture",
             "readings":[
                 {
-                    "title":"Perception in Visualization, Christopher G. Healey, 2012",
-                    "link":"https://www.csc2.ncsu.edu/faculty/healey/PP/index.html",
-                    "required": true
+                    "title":"5.5 Channel Effectiveness, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C005.xhtml#c05_sec5-5",
+                    "required":true
                 },
                 {
                     "title":"Your Friendly Guide to Colors in Data Visualisation",
                     "link":"https://blog.datawrapper.de/colorguide/",
                     "required": true
+                },
+                {
+                    "title":"Perception in Visualization, Christopher G. Healey, 2012",
+                    "link":"https://www.csc2.ncsu.edu/faculty/healey/PP/index.html",
+                    "required": false
                 },
                 {
                     "title":"39 Studies About Human Perception in 30 Minutes. Kennedy Elliott.",
@@ -383,6 +434,11 @@
                     "title":"Towards Reusable Charts",
                     "link":"https://bost.ocks.org/mike/chart/",
                     "required": true
+                },
+                {
+                    "title":"Javascript Closures",
+                    "link":"https://www.w3schools.com/js/js_function_closures.asp",
+                    "required":true
                 }
             ]
         },
