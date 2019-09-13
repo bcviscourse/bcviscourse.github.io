@@ -488,7 +488,7 @@
         },
 
         {
-            "title": "Guest Lecture: Visualization + Machine Learning by Bum Chul Kwon, IBM Research Scientist",
+            "title": "Guest Lecture: Visualization + Machine Learning by Bum Chul Kwon, Research Scientist at IBM Research",
             "desc":"Machine learning has an enormous capacity to quickly extract interesting patterns from a large amount of data. This guest lecture will discuss some examples of how to integrate machine learning into visualization systems to support advanced analytical reasoning.",
             "type":"lecture",
             "readings":[
