@@ -149,15 +149,31 @@
                     "required": true
                 },
                 {
+                    "title":"From Data to Viz - Find and discuss two visualizations you have not seen before in your response",
+                    "link":"https://www.data-to-viz.com/",
+                    "required": true
+                },
+                {
+                    "title":"Download Tableau Public (or Tableau Desktop, free for students)",
+                    "link":"https://public.tableau.com/en-us/s/",
+                    "required":true
+                },            
+                {
                     "title":"Watch 1. Tableau Public Overview (7:10)",
                     "link":"https://public.tableau.com/en-us/s/resources",
                     "required":true
                 },
                 {
-                    "title":"From Data to Viz - Find and discuss two visualizations you have not seen before in your response",
-                    "link":"https://www.data-to-viz.com/",
-                    "required": true
+                    "title":"Download H1B petition data (~20MB)",
+                    "link":"assets/datasets/h1b_kaggle_sample.csv",
+                    "required":true
                 },
+                {
+                    "title":"Download State Population data (<1MB)",
+                    "link":"assets/datasets/state-city-population.csv",
+                    "required":true
+                },
+
                 {
                     "title":"Exploratory Data Analysis, NIST Engineering Statistics Handbook.",
                     "link":"https://www.itl.nist.gov/div898/handbook/eda/eda.htm",

@@ -1,0 +1,4681 @@
+City,State,Year,Population
+New York,New York,2011,8272963
+Los Angeles,California,2011,3821136
+Chicago,Illinois,2011,2708209
+Houston,Texas,2011,2124143
+Phoenix,Arizona,2011,1470052
+Philadelphia,Pennsylvania,2011,1540322
+San Antonio,Texas,2011,1357536
+San Diego,California,2011,1319697
+Dallas,Texas,2011,1218320
+San Jose,California,2011,969948
+Austin,Texas,2011,828694
+Jacksonville,Florida,2011,829554
+Fort Worth,Texas,2011,764034
+Columbus,Ohio,2011,800522
+San Francisco,California,2011,815677
+Charlotte,North Carolina,2011,754840
+Indianapolis city (bal,Indiana,2011,827604
+Seattle,Washington,2011,623050
+Denver,Colorado,2011,620513
+Washington,District of Columbia,2011,619602
+Boston,Massachusetts,2011,630480
+El Paso,Texas,2011,664521
+Detroit,Michigan,2011,705043
+Nashville-Davidson metropolitan government (bal,Tennessee,2011,612422
+Portland,Oregon,2011,595410
+Memphis,Tennessee,2011,655590
+Oklahoma City,Oklahoma,2011,590824
+Las Vegas,Nevada,2011,586635
+Louisville/Jefferson County metro government (bal,Kentucky,2011,599637
+Baltimore,Maryland,2011,620442
+Milwaukee,Wisconsin,2011,597056
+Albuquerque,New Mexico,2011,552095
+Tucson,Arizona,2011,530624
+Fresno,California,2011,501413
+Mesa,Arizona,2011,447681
+Sacramento,California,2011,470914
+Atlanta,Georgia,2011,437563
+Kansas City,Missouri,2011,462356
+Colorado Springs,Colorado,2011,427248
+Miami,Florida,2011,410673
+Raleigh,North Carolina,2011,413932
+Omaha,Nebraska,2011,453217
+Long Beach,California,2011,464569
+Virginia Beach,Virginia,2011,442536
+Oakland,California,2011,396135
+Minneapolis,Minnesota,2011,388022
+Tulsa,Oklahoma,2011,393111
+Arlington,Texas,2011,370485
+Tampa,Florida,2011,346778
+New Orleans,Louisiana,2011,360686
+Wichita,Kansas,2011,383729
+Cleveland,Ohio,2011,392594
+Bakersfield,California,2011,353640
+Aurora,Colorado,2011,332627
+Anaheim,California,2011,340202
+Urban Honolul,Hawaii,2011,343040
+Santa Ana,California,2011,328255
+Riverside,California,2011,309556
+Corpus Christi,Texas,2011,308096
+Lexington-Fayette urban c,Kentucky,2011,301736
+Stockton,California,2011,294922
+Henderson,Nevada,2011,258834
+St. Paul,Minnesota,2011,288812
+St. Louis,Missouri,2011,319294
+Cincinnati,Ohio,2011,296020
+Pittsburgh,Pennsylvania,2011,306107
+Greensboro,North Carolina,2011,272396
+Anchorage municip,Alaska,2011,296154
+Plano,Texas,2011,266963
+Lincoln,Nebraska,2011,262466
+Orlando,Florida,2011,243585
+Irvine,California,2011,220261
+Newark,New Jersey,2011,277540
+Toledo,Ohio,2011,285347
+Durham,North Carolina,2011,235308
+Chula Vista,California,2011,248339
+Fort Wayne,Indiana,2011,256253
+Jersey City,New Jersey,2011,252910
+St. Petersburg,Florida,2011,245856
+Laredo,Texas,2011,241266
+Madison,Wisconsin,2011,236877
+Chandler,Arizona,2011,236854
+Buffalo,New York,2011,260706
+Lubbock,Texas,2011,233601
+Scottsdale,Arizona,2011,220792
+Reno,Nevada,2011,227160
+Glendale,Arizona,2011,229233
+Gilbert,Arizona,2011,211418
+Winston-Salem,North Carolina,2011,231847
+North Las Vegas,Nevada,2011,218302
+Norfolk,Virginia,2011,243632
+Chesapeake,Virginia,2011,225332
+Garland,Texas,2011,230078
+Irving,Texas,2011,219877
+Hialeah,Florida,2011,230396
+Fremont,California,2011,217400
+Boise City,Idaho,2011,212620
+Richmond,Virginia,2011,206325
+Baton Rouge,Louisiana,2011,228595
+Spokane,Washington,2011,208949
+Des Moines,Iowa,2011,207870
+Tacoma,Washington,2011,199493
+San Bernardino,California,2011,211402
+Modesto,California,2011,204041
+Fontana,California,2011,199916
+Santa Clarita,California,2011,205317
+Birmingham,Alabama,2011,211566
+Oxnard,California,2011,199904
+Fayetteville,North Carolina,2011,208728
+Moreno Valley,California,2011,196577
+Rochester,New York,2011,210710
+Glendale,California,2011,192681
+Huntington Beach,California,2011,193010
+Salt Lake City,Utah,2011,188181
+Grand Rapids,Michigan,2011,189087
+Amarillo,Texas,2011,193747
+Yonkers,New York,2011,197575
+Aurora,Illinois,2011,199100
+Montgomery,Alabama,2011,205180
+Akron,Ohio,2011,199016
+Little Rock,Arkansas,2011,195210
+Huntsville,Alabama,2011,182167
+Augusta-Richmond County consolidated government (bal,Georgia,2011,195643
+Port St. Lucie,Florida,2011,166276
+Grand Prairie,Texas,2011,178921
+Columbus,Georgia,2011,195244
+Tallahassee,Florida,2011,183140
+Overland Park,Kansas,2011,176020
+Tempe,Arizona,2011,164481
+McKinney,Texas,2011,137921
+Mobile,Alabama,2011,193992
+Cape Coral,Florida,2011,157314
+Shreveport,Louisiana,2011,201746
+Frisco,Texas,2011,123483
+Knoxville,Tennessee,2011,180084
+Worcester,Massachusetts,2011,182489
+Brownsville,Texas,2011,178241
+Vancouver,Washington,2011,169058
+Fort Lauderdale,Florida,2011,169021
+Sioux Falls,South Dakota,2011,156446
+Ontario,California,2011,165759
+Chattanooga,Tennessee,2011,172032
+Providence,Rhode Island,2011,178395
+Newport News,Virginia,2011,180098
+Rancho Cucamonga,California,2011,167945
+Santa Rosa,California,2011,176351
+Oceanside,California,2011,169853
+Salem,Oregon,2011,156146
+Elk Grove,California,2011,155631
+Garden Grove,California,2011,172971
+Pembroke Pines,Florida,2011,158272
+Peoria,Arizona,2011,155050
+Eugene,Oregon,2011,157411
+Corona,California,2011,154882
+Cary,North Carolina,2011,142116
+Springfield,Missouri,2011,160338
+Fort Collins,Colorado,2011,146602
+Jackson,Mississippi,2011,175168
+Alexandria,Virginia,2011,144220
+Hayward,California,2011,146845
+Lancaster,California,2011,158087
+Lakewood,Colorado,2011,144102
+Clarksville,Tennessee,2011,136101
+Palmdale,California,2011,154035
+Salinas,California,2011,152454
+Springfield,Massachusetts,2011,153882
+Hollywood,Florida,2011,143422
+Pasadena,Texas,2011,151159
+Sunnyvale,California,2011,143812
+Macon-Bibb C,Georgia,2011,156160
+Kansas City,Kansas,2011,146233
+Pomona,California,2011,149682
+Escondido,California,2011,146102
+Killeen,Texas,2011,130801
+Naperville,Illinois,2011,143189
+Joliet,Illinois,2011,147900
+Bellevue,Washington,2011,130271
+Rockford,Illinois,2011,152122
+Savannah,Georgia,2011,140476
+Paterson,New Jersey,2011,145595
+Torrance,California,2011,145811
+Bridgeport,Connecticut,2011,146131
+McAllen,Texas,2011,134717
+Mesquite,Texas,2011,141421
+Syracuse,New York,2011,144566
+Midland,Texas,2011,113949
+Pasadena,California,2011,137678
+Murfreesboro,Tennessee,2011,111716
+Miramar,Florida,2011,125046
+Dayton,Ohio,2011,141988
+Fullerton,California,2011,136401
+Olathe,Kansas,2011,128295
+Orange,California,2011,138207
+Thornton,Colorado,2011,121919
+Roseville,California,2011,122596
+Denton,Texas,2011,120137
+Waco,Texas,2011,126480
+Surprise,Arizona,2011,119648
+Carrollton,Texas,2011,122463
+West Valley City,Utah,2011,131028
+Charleston,South Carolina,2011,123202
+Warren,Michigan,2011,134147
+Hampton,Virginia,2011,136528
+Gainesville,Florida,2011,125414
+Visalia,California,2011,125657
+Coral Springs,Florida,2011,124632
+Columbia,South Carolina,2011,131286
+Cedar Rapids,Iowa,2011,128064
+Sterling Heights,Michigan,2011,130031
+New Haven,Connecticut,2011,130839
+Stamford,Connecticut,2011,123980
+Concord,California,2011,123517
+Kent,Washington,2011,120962
+Santa Clara,California,2011,117888
+Elizabeth,New Jersey,2011,125789
+Round Rock,Texas,2011,103836
+Thousand Oaks,California,2011,127330
+Lafayette,Louisiana,2011,122646
+Athens-Clarke County unified government (bal,Georgia,2011,116971
+Topeka,Kansas,2011,128216
+Simi Valley,California,2011,125034
+Fargo,North Dakota,2011,108104
+Norman,Oklahoma,2011,113872
+Columbia,Missouri,2011,111501
+Abilene,Texas,2011,118749
+Wilmington,North Carolina,2011,108125
+Hartford,Connecticut,2011,125431
+Victorville,California,2011,117911
+Pearland,Texas,2011,96311
+Vallejo,California,2011,116694
+Ann Arbor,Michigan,2011,115519
+Berkeley,California,2011,113953
+Allentown,Pennsylvania,2011,118774
+Richardson,Texas,2011,101657
+Odessa,Texas,2011,102039
+Arvada,Colorado,2011,108036
+Cambridge,Massachusetts,2011,105905
+Sugar Land,Texas,2011,109858
+Beaumont,Texas,2011,117871
+Lansing,Michigan,2011,114533
+Evansville,Indiana,2011,120207
+Rochester,Minnesota,2011,108066
+Independence,Missouri,2011,116898
+Fairfield,California,2011,106208
+Provo,Utah,2011,115181
+Clearwater,Florida,2011,109075
+College Station,Texas,2011,95659
+West Jordan,Utah,2011,106356
+Carlsbad,California,2011,107468
+El Monte,California,2011,114088
+Murrieta,California,2011,105329
+Temecula,California,2011,102644
+Springfield,Illinois,2011,117780
+Palm Bay,Florida,2011,104125
+Costa Mesa,California,2011,111162
+Westminster,Colorado,2011,107746
+North Charleston,South Carolina,2011,99895
+Miami Gardens,Florida,2011,109945
+Manchester,New Hampshire,2011,110016
+High Point,North Carolina,2011,105812
+Downey,California,2011,112232
+Clovis,California,2011,97423
+Pompano Beach,Florida,2011,101762
+Pueblo,Colorado,2011,107211
+Elgin,Illinois,2011,109160
+Lowell,Massachusetts,2011,107767
+Antioch,California,2011,104194
+West Palm Beach,Florida,2011,101499
+Peoria,Illinois,2011,115373
+Everett,Washington,2011,103557
+San Buenaventura (Ventura),California,2011,108340
+Centennial,Colorado,2011,102510
+Lakeland,Florida,2011,98868
+Gresham,Oregon,2011,107715
+Richmond,California,2011,104888
+Billings,Montana,2011,105457
+Inglewood,California,2011,110542
+Broken Arrow,Oklahoma,2011,100225
+Sandy Springs,Georgia,2011,96664
+Jurupa Valley,California,2011,97188
+Hillsboro,Oregon,2011,94285
+Waterbury,Connecticut,2011,110086
+Santa Maria,California,2011,100299
+Boulder,Colorado,2011,101115
+Greeley,Colorado,2011,94393
+Daly City,California,2011,102485
+Meridian,Idaho,2011,79687
+Lewisville,Texas,2011,97595
+Davie,Florida,2011,94465
+West Covina,California,2011,106738
+League City,Texas,2011,86271
+Tyler,Texas,2011,98048
+Norwalk,California,2011,105915
+San Mateo,California,2011,98538
+Green Bay,Wisconsin,2011,104337
+Wichita Falls,Texas,2011,103946
+Sparks,Nevada,2011,91566
+Burbank,California,2011,103749
+Rialto,California,2011,100579
+Allen,Texas,2011,87661
+El Cajon,California,2011,100730
+Las Cruces,New Mexico,2011,100238
+Renton,Washington,2011,94180
+Davenport,Iowa,2011,100283
+South Bend,Indiana,2011,101138
+Vista,California,2011,94526
+Tuscaloosa,Alabama,2011,91429
+San Angelo,Texas,2011,94526
+Kenosha,Wisconsin,2011,99599
+Vacaville,California,2011,93227
+Roanoke,Virginia,2011,96776
+Spokane Valley,Washington,2011,90680
+Boca Raton,Florida,2011,86456
+Beaverton,Oregon,2011,91573
+Edinburg,Texas,2011,84834
+Lee's Summit,Missouri,2011,91911
+Rio Rancho,New Mexico,2011,89477
+Yuma,Arizona,2011,94263
+Bend,Oregon,2011,77552
+Orem,Utah,2011,89600
+Lawrence,Kansas,2011,89125
+Albany,New York,2011,97940
+South Fulton,Georgia,2011,88672
+Federal Way,Washington,2011,90720
+Sandy,Utah,2011,90877
+San Marcos,California,2011,85023
+Compton,California,2011,96948
+Longmont,Colorado,2011,87668
+Erie,Pennsylvania,2011,101506
+Nampa,Idaho,2011,82675
+Flint,Michigan,2011,101207
+Brockton,Massachusetts,2011,94109
+Sunrise,Florida,2011,86299
+New Bedford,Massachusetts,2011,94886
+Hesperia,California,2011,91198
+Mission Viejo,California,2011,94038
+Chico,California,2011,87269
+Lynn,Massachusetts,2011,90716
+Roswell,Georgia,2011,90899
+Portsmouth,Virginia,2011,95726
+Quincy,Massachusetts,2011,92541
+South Gate,California,2011,94606
+Dearborn,Michigan,2011,97167
+Plantation,Florida,2011,86873
+Concord,North Carolina,2011,80650
+Livonia,Michigan,2011,96134
+Yakima,Washington,2011,92616
+Carmel,Indiana,2011,81664
+Fishers,Indiana,2011,80533
+Greenville,North Carolina,2011,86277
+Edmond,Oklahoma,2011,82943
+Lawton,Oklahoma,2011,98223
+Menifee,California,2011,79786
+Asheville,North Carolina,2011,84455
+Deltona,Florida,2011,84958
+Carson,California,2011,91704
+Tracy,California,2011,84288
+Redding,California,2011,90176
+Miami Beach,Florida,2011,89967
+Chino,California,2011,79606
+Santa Monica,California,2011,90492
+Santa Barbara,California,2011,88612
+Indio,California,2011,81053
+Suffolk,Virginia,2011,84751
+Westminster,California,2011,90710
+Bellingham,Washington,2011,81896
+Livermore,California,2011,82583
+San Leandro,California,2011,85916
+Fall River,Massachusetts,2011,88812
+Kirkland,Washington,2011,82084
+Mount Pleasant,South Carolina,2011,69259
+Nashua,New Hampshire,2011,86804
+Norwalk,Connecticut,2011,86619
+Newton,Massachusetts,2011,85845
+Reading,Pennsylvania,2011,88212
+O'Fallon,Missouri,2011,81088
+Champaign,Illinois,2011,82345
+Citrus Heights,California,2011,83872
+Fort Smith,Arkansas,2011,87206
+Conroe,Texas,2011,67214
+Palm Coast,Florida,2011,76637
+Ogden,Utah,2011,83251
+St. George,Utah,2011,73786
+Hawthorne,California,2011,84939
+Waukegan,Illinois,2011,88954
+Fayetteville,Arkansas,2011,75595
+Redwood City,California,2011,77979
+Whittier,California,2011,85643
+Duluth,Minnesota,2011,86231
+Avondale,Arizona,2011,77280
+Lake Forest,California,2011,78308
+Bloomington,Minnesota,2011,83931
+Bryan,Texas,2011,77171
+Newport Beach,California,2011,86094
+Hemet,California,2011,80222
+Clifton,New Jersey,2011,84692
+Hoover,Alabama,2011,81291
+Largo,Florida,2011,79387
+Bloomington,Indiana,2011,81505
+Mission,Texas,2011,79796
+Danbury,Connecticut,2011,82096
+Alhambra,California,2011,83607
+Santa Fe,New Mexico,2011,81836
+New Braunfels,Texas,2011,59311
+Johns Creek,Georgia,2011,79216
+Troy,Michigan,2011,81643
+Trenton,New Jersey,2011,84853
+Chino Hills,California,2011,75650
+Mountain View,California,2011,75102
+Merced,California,2011,79720
+Kennewick,Washington,2011,75586
+Goodyear,Arizona,2011,66587
+Melbourne,Florida,2011,76560
+Buena Park,California,2011,81562
+Sioux City,Iowa,2011,83086
+Pleasanton,California,2011,71142
+Medford,Oregon,2011,75563
+Fort Myers,Florida,2011,63826
+Lynchburg,Virginia,2011,76582
+Auburn,Washington,2011,71645
+Westland,Michigan,2011,83515
+Longview,Texas,2011,81041
+Cicero,Illinois,2011,84439
+Manteca,California,2011,69188
+Somerville,Massachusetts,2011,76653
+Cranston,Rhode Island,2011,80807
+Farmington Hills,Michigan,2011,80336
+Springdale,Arkansas,2011,72459
+Franklin,Tennessee,2011,64321
+Deerfield Beach,Florida,2011,76513
+Warwick,Rhode Island,2011,82024
+Brooklyn Park,Minnesota,2011,76877
+Milpitas,California,2011,67126
+Lawrence,Massachusetts,2011,77263
+Lakewood,California,2011,80400
+Tustin,California,2011,76233
+Pharr,Texas,2011,72215
+Plymouth,Minnesota,2011,71696
+Napa,California,2011,77698
+Perris,California,2011,70434
+Folsom,California,2011,72594
+Parma,Ohio,2011,80954
+New Rochelle,New York,2011,77686
+Alameda,California,2011,74694
+Boynton Beach,Florida,2011,68822
+Lake Charles,Louisiana,2011,72716
+Bloomington,Illinois,2011,77275
+Loveland,Colorado,2011,69182
+Racine,Wisconsin,2011,78454
+Flower Mound,Texas,2011,65957
+Layton,Utah,2011,68452
+Scranton,Pennsylvania,2011,75927
+Bellflower,California,2011,76933
+Gastonia,North Carolina,2011,71874
+Baytown,Texas,2011,72540
+Upland,California,2011,74473
+Cedar Park,Texas,2011,58849
+Jonesboro,Arkansas,2011,68984
+Kalamazoo,Michigan,2011,74686
+Iowa City,Iowa,2011,69177
+Temple,Texas,2011,67111
+St. Joseph,Missouri,2011,77193
+San Ramon,California,2011,72186
+Wyoming,Michigan,2011,72722
+Baldwin Park,California,2011,75762
+Warner Robins,Georgia,2011,70986
+Hammond,Indiana,2011,80186
+Bethlehem,Pennsylvania,2011,75033
+Rapid City,South Dakota,2011,69035
+Gary,Indiana,2011,79699
+Albany,Georgia,2011,77874
+Arlington Heights vi,Illinois,2011,75534
+Bolingbrook vi,Illinois,2011,73788
+Pasco,Washington,2011,65546
+Missouri City,Texas,2011,67424
+Rochester Hills,Michigan,2011,71687
+Rancho Cordova,California,2011,65971
+Union City,California,2011,70604
+Appleton,Wisconsin,2011,72911
+Missoula,Montana,2011,67538
+Buckeye,Arizona,2011,52490
+Rock Hill,South Carolina,2011,67251
+Georgetown,Texas,2011,50298
+South Jordan,Utah,2011,53316
+Evanston,Illinois,2011,75145
+Camden,New Jersey,2011,77218
+Flagstaff,Arizona,2011,66082
+Kissimmee,Florida,2011,61358
+Schaumburg vi,Illinois,2011,74550
+Apple Valley,California,2011,70030
+Turlock,California,2011,69164
+Southfield,Michigan,2011,72244
+Framingham,Massachusetts,2011,69651
+Bismarck,North Dakota,2011,62722
+Jacksonville,North Carolina,2011,75017
+Waukesha,Wisconsin,2011,71219
+New Britain,Connecticut,2011,73267
+Pittsburg,California,2011,64547
+Lafayette,Indiana,2011,69908
+Frederick,Maryland,2011,65951
+Lauderhill,Florida,2011,68246
+Gulfport,Mississippi,2011,68851
+Pawtucket,Rhode Island,2011,71385
+Maple Grove,Minnesota,2011,63192
+Redlands,California,2011,69323
+Woodbury,Minnesota,2011,63553
+Decatur,Illinois,2011,75918
+Weston,Florida,2011,66839
+Mansfield,Texas,2011,58115
+North Richland Hills,Texas,2011,64253
+St. Charles,Missouri,2011,66545
+Wilmington,Delaware,2011,70821
+Lynwood,California,2011,69669
+Homestead,Florida,2011,62842
+Canton,Ohio,2011,72817
+Passaic,New Jersey,2011,70145
+Walnut Creek,California,2011,64836
+Marysville,Washington,2011,61236
+Delray Beach,Florida,2011,61506
+Davis,California,2011,65656
+Broomfield,Colorado,2011,57482
+Camarillo,California,2011,65521
+Daytona Beach,Florida,2011,61697
+Eau Claire,Wisconsin,2011,66837
+North Port,Florida,2011,57745
+Greenville,South Carolina,2011,59665
+Muncie,Indiana,2011,70399
+Union City,New Jersey,2011,67419
+Bowling Green,Kentucky,2011,59964
+Gaithersburg,Maryland,2011,61442
+Rockville,Maryland,2011,62066
+Dothan,Alabama,2011,66472
+Bossier City,Louisiana,2011,63517
+Lake Elsinore,California,2011,55081
+Palatine vi,Illinois,2011,68889
+St. Cloud,Minnesota,2011,65888
+Waterloo,Iowa,2011,68454
+Yorba Linda,California,2011,65620
+South San Francisco,California,2011,64492
+Redmond,Washington,2011,55704
+Rogers,Arkansas,2011,58134
+Mount Vernon,New York,2011,67738
+Redondo Beach,California,2011,67194
+Rocklin,California,2011,58425
+Ames,Iowa,2011,60432
+Victoria,Texas,2011,63115
+Lodi,California,2011,62754
+Yuba City,California,2011,65358
+Jackson,Tennessee,2011,66702
+Johnson City,Tennessee,2011,63917
+Oshkosh,Wisconsin,2011,66216
+Palo Alto,California,2011,65358
+Kenner,Louisiana,2011,66864
+West Des Moines,Iowa,2011,57561
+Eagan,Minnesota,2011,64484
+Conway,Arkansas,2011,61543
+Portland,Maine,2011,66177
+Rowlett,Texas,2011,57009
+Laguna Niguel,California,2011,63777
+Alpharetta,Georgia,2011,59138
+North Little Rock,Arkansas,2011,63488
+Tamarac,Florida,2011,61474
+Lehi,Utah,2011,49680
+Lakeville,Minnesota,2011,56705
+Shawnee,Kansas,2011,63008
+Auburn,Alabama,2011,54968
+Sammamish,Washington,2011,58757
+Madera,California,2011,61818
+Schenectady,New York,2011,66097
+Jupiter,Florida,2011,56211
+Harlingen,Texas,2011,65637
+Ankeny,Iowa,2011,47048
+Blaine,Minnesota,2011,58188
+Wellington vi,Florida,2011,57505
+Bayonne,New Jersey,2011,63946
+Youngstown,Ohio,2011,66552
+San Clemente,California,2011,64240
+Castle Rock,Colorado,2011,49689
+Eastvale,California,2011,55045
+Santa Cruz,California,2011,61433
+Janesville,Wisconsin,2011,63414
+Tulare,California,2011,59802
+East Orange,New Jersey,2011,64331
+Pflugerville,Texas,2011,50281
+Eden Prairie,Minnesota,2011,61662
+Port Orange,Florida,2011,56717
+Haverhill,Massachusetts,2011,61503
+Lorain,Ohio,2011,63929
+Cheyenne,Wyoming,2011,60159
+Brentwood,California,2011,52717
+San Marcos,Texas,2011,47669
+Dublin,California,2011,46804
+Grand Junction,Colorado,2011,59611
+Skokie vi,Illinois,2011,65090
+Noblesville,Indiana,2011,54091
+North Miami,Florida,2011,60014
+Springfield,Oregon,2011,59840
+Waltham,Massachusetts,2011,61359
+Encinitas,California,2011,60257
+Pico Rivera,California,2011,63225
+Montebello,California,2011,62915
+Coon Rapids,Minnesota,2011,61556
+Council Bluffs,Iowa,2011,62501
+La Habra,California,2011,60922
+Hamilton,Ohio,2011,62306
+Moore,Oklahoma,2011,56706
+Petaluma,California,2011,58200
+Doral,Florida,2011,47494
+Idaho Falls,Idaho,2011,57808
+National City,California,2011,59045
+Coconut Creek,Florida,2011,54318
+Millcreek,Utah,2011,59387
+Burnsville,Minnesota,2011,60645
+Taylor,Michigan,2011,62626
+Malden,Massachusetts,2011,60004
+Chapel Hill,North Carolina,2011,57356
+Novi,Michigan,2011,56050
+Marietta,Georgia,2011,57471
+Terre Haute,Indiana,2011,60973
+Lakewood,Washington,2011,57938
+Woodland,California,2011,55787
+Ocala,Florida,2011,56705
+Monterey Park,California,2011,60471
+Taylorsville,Utah,2011,59759
+Cupertino,California,2011,59189
+Utica,New York,2011,62030
+Sanford,Florida,2011,54351
+Bristol,Connecticut,2011,60569
+Porterville,California,2011,58626
+Vineland,New Jersey,2011,60984
+Owensboro,Kentucky,2011,57733
+Pontiac,Michigan,2011,59844
+Gardena,California,2011,59124
+La Mesa,California,2011,57644
+Meriden,Connecticut,2011,60714
+West Allis,Wisconsin,2011,60496
+Royal Oak,Michigan,2011,57692
+Lancaster,Pennsylvania,2011,59482
+St. Clair Shores,Michigan,2011,59794
+Bartlett,Tennessee,2011,57360
+Springfield,Ohio,2011,60260
+Des Plaines,Illinois,2011,58732
+Greenwood,Indiana,2011,52091
+Gilroy,California,2011,49709
+San Rafael,California,2011,58229
+Great Falls,Montana,2011,59376
+Bowie,Maryland,2011,56041
+Margate,Florida,2011,54189
+Corvallis,Oregon,2011,54727
+Arcadia,California,2011,56627
+Commerce City,Colorado,2011,47557
+Orland Park vi,Illinois,2011,57002
+Huntington Park,California,2011,58331
+Santee,California,2011,54525
+White Plains,New York,2011,57178
+Dubuque,Iowa,2011,57907
+Kokomo,Indiana,2011,58076
+Medford,Massachusetts,2011,56840
+Sarasota,Florida,2011,52520
+Weymouth Town,Massachusetts,2011,54176
+Bradenton,Florida,2011,49637
+Hendersonville,Tennessee,2011,52273
+Casper,Wyoming,2011,56079
+Bonita Springs,Florida,2011,45033
+Euless,Texas,2011,52057
+Midwest City,Oklahoma,2011,55399
+Richland,Washington,2011,50227
+Taunton,Massachusetts,2011,55921
+Casa Grande,Arizona,2011,48904
+St. Peters,Missouri,2011,53388
+Huntersville,North Carolina,2011,48035
+Grand Forks,North Dakota,2011,52758
+Hanford,California,2011,54551
+Shoreline,Washington,2011,53793
+Smyrna,Georgia,2011,51783
+Caldwell,Idaho,2011,47246
+Valdosta,Georgia,2011,55784
+Palm Beach Gardens,Florida,2011,49760
+Diamond Bar,California,2011,55846
+Pocatello,Idaho,2011,54690
+Tinley Park vi,Illinois,2011,57100
+Leander,Texas,2011,29115
+New Brunswick,New Jersey,2011,55294
+Fountain Valley,California,2011,55956
+Novato,California,2011,52682
+Parker,Colorado,2011,46093
+Dearborn Heights,Michigan,2011,57273
+Chicopee,Massachusetts,2011,55583
+Oak Lawn vi,Illinois,2011,56925
+Carson,Nevada,2011,54679
+Highland,California,2011,53668
+Lenexa,Kansas,2011,48858
+Hempstead vi,New York,2011,54186
+Blue Springs,Missouri,2011,52777
+Kettering,Ohio,2011,56007
+Lake Havasu City,Arizona,2011,52787
+Anderson,Indiana,2011,55883
+Port Arthur,Texas,2011,54906
+Manhattan,Kansas,2011,54145
+Southaven,Mississippi,2011,49746
+Berwyn,Illinois,2011,56794
+Cathedral City,California,2011,52100
+West Haven,Connecticut,2011,55505
+Tigard,Oregon,2011,49240
+Normal,Illinois,2011,53108
+Colton,California,2011,52716
+Stonecrest,Georgia,2011,50709
+Albany,Oregon,2011,50943
+Rosemead,California,2011,54030
+Paramount,California,2011,54334
+Decatur,Alabama,2011,55887
+Rocky Mount,North Carolina,2011,57415
+Mount Prospect vi,Illinois,2011,55265
+Brookhaven,Georgia,2011,50113
+Apple Valley,Minnesota,2011,49488
+St. Cloud,Florida,2011,39499
+Kingsport,Tennessee,2011,52927
+Harrisonburg,Virginia,2011,49932
+Grapevine,Texas,2011,47106
+Minnetonka,Minnesota,2011,50644
+Watsonville,California,2011,51584
+Leesburg,Virginia,2011,44510
+Elyria,Ohio,2011,54321
+Apex,North Carolina,2011,38884
+Revere,Massachusetts,2011,52653
+Burlington,North Carolina,2011,50952
+West Sacramento,California,2011,49111
+Yucaipa,California,2011,51960
+Bellevue,Nebraska,2011,51864
+DeSoto,Texas,2011,50208
+Apopka,Florida,2011,43711
+Hoboken,New Jersey,2011,50764
+Peabody,Massachusetts,2011,51633
+Palm Desert,California,2011,49248
+Wheaton,Illinois,2011,53385
+Milford city (bal,Connecticut,2011,51383
+Pinellas Park,Florida,2011,49737
+Delano,California,2011,53619
+West New York,New Jersey,2011,50501
+Pensacola,Florida,2011,51841
+Olympia,Washington,2011,47687
+Edina,Minnesota,2011,48682
+Elkhart,Indiana,2011,51929
+Oak Park vi,Illinois,2011,52016
+Glendora,California,2011,50618
+Perth Amboy,New Jersey,2011,51137
+Burien,Washington,2011,48813
+Kentwood,Michigan,2011,49185
+Aliso Viejo,California,2011,48908
+Summerville,South Carolina,2011,43880
+Placentia,California,2011,51510
+Logan,Utah,2011,49053
+Wylie,Texas,2011,43647
+La Crosse,Wisconsin,2011,51228
+Grand Island,Nebraska,2011,49394
+Coeur d'Alene,Idaho,2011,44998
+Florissant,Missouri,2011,52464
+Battle Creek,Michigan,2011,51985
+Hoffman Estates vi,Illinois,2011,52150
+Bentonville,Arkansas,2011,37190
+Coral Gables,Florida,2011,48048
+Smyrna,Tennessee,2011,41383
+Lacey,Washington,2011,43470
+Methuen Town,Massachusetts,2011,47789
+Plainfield,New Jersey,2011,49914
+Joplin,Missouri,2011,48339
+Collierville,Tennessee,2011,45944
+Cerritos,California,2011,49239
+Galveston,Texas,2011,47558
+Madison,Alabama,2011,44249
+Stillwater,Oklahoma,2011,46228
+Little Elm,Texas,2011,27789
+Lakewood,Ohio,2011,51657
+Newark,Ohio,2011,47718
+Maricopa,Arizona,2011,43869
+Enid,Oklahoma,2011,49518
+Troy,New York,2011,50012
+Saginaw,Michigan,2011,51021
+Niagara Falls,New York,2011,49893
+Charleston,West Virginia,2011,50988
+New York,New York,2012,8348032
+Los Angeles,California,2012,3852532
+Chicago,Illinois,2012,2719735
+Houston,Texas,2012,2160086
+Phoenix,Arizona,2012,1499839
+Philadelphia,Pennsylvania,2012,1551797
+San Antonio,Texas,2012,1383608
+San Diego,California,2012,1337149
+Dallas,Texas,2012,1242344
+San Jose,California,2012,983322
+Austin,Texas,2012,854841
+Jacksonville,Florida,2012,836997
+Fort Worth,Texas,2012,781059
+Columbus,Ohio,2012,812711
+San Francisco,California,2012,829027
+Charlotte,North Carolina,2012,773336
+Indianapolis city (bal,Indiana,2012,835379
+Seattle,Washington,2012,636495
+Denver,Colorado,2012,635277
+Washington,District of Columbia,2012,634725
+Boston,Massachusetts,2012,643003
+El Paso,Texas,2012,675205
+Detroit,Michigan,2012,700159
+Nashville-Davidson metropolitan government (bal,Tennessee,2012,625601
+Portland,Oregon,2012,604285
+Memphis,Tennessee,2012,659089
+Oklahoma City,Oklahoma,2012,601030
+Las Vegas,Nevada,2012,593411
+Louisville/Jefferson County metro government (bal,Kentucky,2012,604110
+Baltimore,Maryland,2012,622973
+Milwaukee,Wisconsin,2012,598581
+Albuquerque,New Mexico,2012,555106
+Tucson,Arizona,2012,531817
+Fresno,California,2012,505521
+Mesa,Arizona,2012,457061
+Sacramento,California,2012,474309
+Atlanta,Georgia,2012,448799
+Kansas City,Missouri,2012,464607
+Colorado Springs,Colorado,2012,432611
+Miami,Florida,2012,415270
+Raleigh,North Carolina,2012,423095
+Omaha,Nebraska,2012,456338
+Long Beach,California,2012,467064
+Virginia Beach,Virginia,2012,445038
+Oakland,California,2012,401228
+Minneapolis,Minnesota,2012,392775
+Tulsa,Oklahoma,2012,394875
+Arlington,Texas,2012,375906
+Tampa,Florida,2012,348655
+New Orleans,Louisiana,2012,369761
+Wichita,Kansas,2012,385753
+Cleveland,Ohio,2012,391500
+Bakersfield,California,2012,357858
+Aurora,Colorado,2012,339080
+Anaheim,California,2012,342526
+Urban Honolul,Hawaii,2012,346868
+Santa Ana,California,2012,330650
+Riverside,California,2012,312432
+Corpus Christi,Texas,2012,312415
+Lexington-Fayette urban c,Kentucky,2012,306075
+Stockton,California,2012,296666
+Henderson,Nevada,2012,263409
+St. Paul,Minnesota,2012,291244
+St. Louis,Missouri,2012,319387
+Cincinnati,Ohio,2012,296758
+Pittsburgh,Pennsylvania,2012,306470
+Greensboro,North Carolina,2012,276024
+Anchorage municip,Alaska,2012,298233
+Plano,Texas,2012,272240
+Lincoln,Nebraska,2012,265663
+Orlando,Florida,2012,249930
+Irvine,California,2012,229083
+Newark,New Jersey,2012,277590
+Toledo,Ohio,2012,283129
+Durham,North Carolina,2012,241107
+Chula Vista,California,2012,252457
+Fort Wayne,Indiana,2012,257615
+Jersey City,New Jersey,2012,256148
+St. Petersburg,Florida,2012,246671
+Laredo,Texas,2012,245877
+Madison,Wisconsin,2012,239872
+Chandler,Arizona,2012,237677
+Buffalo,New York,2012,260176
+Lubbock,Texas,2012,236055
+Scottsdale,Arizona,2012,225213
+Reno,Nevada,2012,229069
+Glendale,Arizona,2012,233564
+Gilbert,Arizona,2012,215880
+Winston-Salem,North Carolina,2012,233867
+North Las Vegas,Nevada,2012,221910
+Norfolk,Virginia,2012,246141
+Chesapeake,Virginia,2012,228075
+Garland,Texas,2012,233775
+Irving,Texas,2012,225812
+Hialeah,Florida,2012,232730
+Fremont,California,2012,221479
+Boise City,Idaho,2012,215681
+Richmond,Virginia,2012,210741
+Baton Rouge,Louisiana,2012,228834
+Spokane,Washington,2012,209294
+Des Moines,Iowa,2012,210230
+Tacoma,Washington,2012,201531
+San Bernardino,California,2012,212444
+Modesto,California,2012,205108
+Fontana,California,2012,201295
+Santa Clarita,California,2012,206285
+Birmingham,Alabama,2012,210749
+Oxnard,California,2012,201084
+Fayetteville,North Carolina,2012,208873
+Moreno Valley,California,2012,198218
+Rochester,New York,2012,210600
+Glendale,California,2012,193941
+Huntington Beach,California,2012,194237
+Salt Lake City,Utah,2012,189715
+Grand Rapids,Michigan,2012,190817
+Amarillo,Texas,2012,195389
+Yonkers,New York,2012,198075
+Aurora,Illinois,2012,199641
+Montgomery,Alabama,2012,203937
+Akron,Ohio,2012,198884
+Little Rock,Arkansas,2012,196504
+Huntsville,Alabama,2012,183588
+Augusta-Richmond County consolidated government (bal,Georgia,2012,196834
+Port St. Lucie,Florida,2012,167904
+Grand Prairie,Texas,2012,182089
+Columbus,Georgia,2012,198944
+Tallahassee,Florida,2012,186464
+Overland Park,Kansas,2012,178687
+Tempe,Arizona,2012,168585
+McKinney,Texas,2012,143506
+Mobile,Alabama,2012,193858
+Cape Coral,Florida,2012,160548
+Shreveport,Louisiana,2012,201790
+Frisco,Texas,2012,128403
+Knoxville,Tennessee,2012,181270
+Worcester,Massachusetts,2012,182694
+Brownsville,Texas,2012,179828
+Vancouver,Washington,2012,170056
+Fort Lauderdale,Florida,2012,170941
+Sioux Falls,South Dakota,2012,159833
+Ontario,California,2012,166665
+Chattanooga,Tennessee,2012,173652
+Providence,Rhode Island,2012,178890
+Newport News,Virginia,2012,180094
+Rancho Cucamonga,California,2012,170015
+Santa Rosa,California,2012,177263
+Oceanside,California,2012,171467
+Salem,Oregon,2012,157369
+Elk Grove,California,2012,158123
+Garden Grove,California,2012,173866
+Pembroke Pines,Florida,2012,160258
+Peoria,Arizona,2012,155352
+Eugene,Oregon,2012,158241
+Corona,California,2012,157608
+Cary,North Carolina,2012,146073
+Springfield,Missouri,2012,162015
+Fort Collins,Colorado,2012,149390
+Jackson,Mississippi,2012,174845
+Alexandria,Virginia,2012,147314
+Hayward,California,2012,149338
+Lancaster,California,2012,158302
+Lakewood,Colorado,2012,145418
+Clarksville,Tennessee,2012,142553
+Palmdale,California,2012,154942
+Salinas,California,2012,153901
+Springfield,Massachusetts,2012,154056
+Hollywood,Florida,2012,145022
+Pasadena,Texas,2012,152690
+Sunnyvale,California,2012,146474
+Macon-Bibb C,Georgia,2012,156610
+Kansas City,Kansas,2012,147482
+Pomona,California,2012,150484
+Escondido,California,2012,147604
+Killeen,Texas,2012,134234
+Naperville,Illinois,2012,144015
+Joliet,Illinois,2012,148227
+Bellevue,Washington,2012,132194
+Rockford,Illinois,2012,151267
+Savannah,Georgia,2012,142388
+Paterson,New Jersey,2012,146136
+Torrance,California,2012,146340
+Bridgeport,Connecticut,2012,147097
+McAllen,Texas,2012,136434
+Mesquite,Texas,2012,143297
+Syracuse,New York,2012,144462
+Midland,Texas,2012,119830
+Pasadena,California,2012,138163
+Murfreesboro,Tennessee,2012,113824
+Miramar,Florida,2012,128695
+Dayton,Ohio,2012,141909
+Fullerton,California,2012,138153
+Olathe,Kansas,2012,129945
+Orange,California,2012,139070
+Thornton,Colorado,2012,124400
+Roseville,California,2012,124311
+Denton,Texas,2012,123631
+Waco,Texas,2012,127543
+Surprise,Arizona,2012,122322
+Carrollton,Texas,2012,125410
+West Valley City,Utah,2012,132527
+Charleston,South Carolina,2012,125428
+Warren,Michigan,2012,134574
+Hampton,Virginia,2012,137083
+Gainesville,Florida,2012,125743
+Visalia,California,2012,126459
+Coral Springs,Florida,2012,126182
+Columbia,South Carolina,2012,131744
+Cedar Rapids,Iowa,2012,128306
+Sterling Heights,Michigan,2012,130671
+New Haven,Connecticut,2012,131117
+Stamford,Connecticut,2012,125054
+Concord,California,2012,124697
+Kent,Washington,2012,123155
+Santa Clara,California,2012,119420
+Elizabeth,New Jersey,2012,126605
+Round Rock,Texas,2012,106470
+Thousand Oaks,California,2012,127693
+Lafayette,Louisiana,2012,123559
+Athens-Clarke County unified government (bal,Georgia,2012,118643
+Topeka,Kansas,2012,128087
+Abilene,Texas,2012,119852
+Alameda,California,2012,75655
+Albany,Georgia,2012,77516
+Albany,New York,2012,98399
+Albany,Oregon,2012,51017
+Alhambra,California,2012,84157
+Aliso Viejo,California,2012,49487
+Allen,Texas,2012,89786
+Allentown,Pennsylvania,2012,118880
+Alpharetta,Georgia,2012,61580
+Ames,Iowa,2012,61426
+Anderson,Indiana,2012,55532
+Ankeny,Iowa,2012,48365
+Ann Arbor,Michigan,2012,116074
+Antioch,California,2012,105580
+Apex,North Carolina,2012,40546
+Apopka,Florida,2012,45056
+Apple Valley,Minnesota,2012,49723
+Apple Valley,California,2012,70405
+Appleton,Wisconsin,2012,73121
+Arcadia,California,2012,56850
+Arlington Heights vi,Illinois,2012,75938
+Arvada,Colorado,2012,110192
+Asheville,North Carolina,2012,85329
+Auburn,Alabama,2012,57183
+Auburn,Washington,2012,73390
+Avondale,Arizona,2012,78736
+Baldwin Park,California,2012,76213
+Bartlett,Tennessee,2012,58201
+Battle Creek,Michigan,2012,51868
+Bayonne,New Jersey,2012,64263
+Baytown,Texas,2012,73377
+Beaumont,Texas,2012,117001
+Beaverton,Oregon,2012,92574
+Bellevue,Nebraska,2012,52411
+Bellflower,California,2012,77219
+Bellingham,Washington,2012,82347
+Bend,Oregon,2012,78592
+Bentonville,Arkansas,2012,38712
+Berkeley,California,2012,115311
+Berwyn,Illinois,2012,56900
+Bethlehem,Pennsylvania,2012,75015
+Billings,Montana,2012,106772
+Bismarck,North Dakota,2012,64697
+Blaine,Minnesota,2012,59441
+Bloomington,Illinois,2012,77991
+Bloomington,Indiana,2012,82169
+Bloomington,Minnesota,2012,84868
+Blue Springs,Missouri,2012,53003
+Boca Raton,Florida,2012,87649
+Bolingbrook vi,Illinois,2012,73962
+Bonita Springs,Florida,2012,46337
+Bossier City,Louisiana,2012,65373
+Boulder,Colorado,2012,102169
+Bowie,Maryland,2012,56621
+Bowling Green,Kentucky,2012,60904
+Boynton Beach,Florida,2012,69974
+Bradenton,Florida,2012,50207
+Brentwood,California,2012,53523
+Bristol,Connecticut,2012,60635
+Brockton,Massachusetts,2012,94047
+Broken Arrow,Oklahoma,2012,102241
+Brookhaven,Georgia,2012,50908
+Brooklyn Park,Minnesota,2012,77907
+Broomfield,Colorado,2012,58963
+Bryan,Texas,2012,77820
+Buckeye,Arizona,2012,54391
+Buena Park,California,2012,82077
+Burbank,California,2012,104125
+Burien,Washington,2012,49553
+Burlington,North Carolina,2012,50985
+Burnsville,Minnesota,2012,60866
+Caldwell,Idaho,2012,47689
+Camarillo,California,2012,65678
+Cambridge,Massachusetts,2012,107911
+Camden,New Jersey,2012,76883
+Canton,Ohio,2012,72786
+Carlsbad,California,2012,108982
+Carmel,Indiana,2012,83615
+Carson,Nevada,2012,54319
+Carson,California,2012,92199
+Casa Grande,Arizona,2012,49468
+Casper,Wyoming,2012,57674
+Castle Rock,Colorado,2012,51017
+Cathedral City,California,2012,52509
+Cedar Park,Texas,2012,61521
+Centennial,Colorado,2012,104266
+Cerritos,California,2012,49414
+Champaign,Illinois,2012,83223
+Chapel Hill,North Carolina,2012,58649
+Charleston,West Virginia,2012,50861
+Cheyenne,Wyoming,2012,61420
+Chico,California,2012,87934
+Chicopee,Massachusetts,2012,55795
+Chino Hills,California,2012,76073
+Chino,California,2012,79982
+Cicero,Illinois,2012,84586
+Citrus Heights,California,2012,84413
+Clearwater,Florida,2012,109420
+Clifton,New Jersey,2012,84709
+Clovis,California,2012,98482
+Coconut Creek,Florida,2012,55132
+Coeur d'Alene,Idaho,2012,45510
+College Station,Texas,2012,97763
+Collierville,Tennessee,2012,46433
+Colton,California,2012,52962
+Columbia,Missouri,2012,113549
+Commerce City,Colorado,2012,48582
+Compton,California,2012,97393
+Concord,North Carolina,2012,82073
+Conroe,Texas,2012,69543
+Conway,Arkansas,2012,62733
+Coon Rapids,Minnesota,2012,61957
+Coral Gables,Florida,2012,49499
+Corvallis,Oregon,2012,55138
+Costa Mesa,California,2012,111830
+Council Bluffs,Iowa,2012,62143
+Cranston,Rhode Island,2012,80996
+Cupertino,California,2012,59800
+Daly City,California,2012,103961
+Danbury,Connecticut,2012,82793
+Davenport,Iowa,2012,101151
+Davie,Florida,2012,95806
+Davis,California,2012,65794
+Daytona Beach,Florida,2012,62178
+DeSoto,Texas,2012,51250
+Dearborn Heights,Michigan,2012,57115
+Dearborn,Michigan,2012,96879
+Decatur,Alabama,2012,55804
+Decatur,Illinois,2012,75451
+Deerfield Beach,Florida,2012,77414
+Delano,California,2012,52405
+Delray Beach,Florida,2012,62285
+Deltona,Florida,2012,85125
+Des Plaines,Illinois,2012,58994
+Diamond Bar,California,2012,56096
+Doral,Florida,2012,48355
+Dothan,Alabama,2012,67081
+Downey,California,2012,112629
+Dublin,California,2012,48708
+Dubuque,Iowa,2012,58163
+Duluth,Minnesota,2012,86157
+Eagan,Minnesota,2012,64881
+East Orange,New Jersey,2012,64179
+Eastvale,California,2012,55773
+Eau Claire,Wisconsin,2012,67338
+Eden Prairie,Minnesota,2012,62393
+Edina,Minnesota,2012,49201
+Edinburg,Texas,2012,86342
+Edmond,Oklahoma,2012,84936
+El Cajon,California,2012,101491
+El Monte,California,2012,114859
+Elgin,Illinois,2012,109665
+Elkhart,Indiana,2012,52004
+Elyria,Ohio,2012,54163
+Encinitas,California,2012,60894
+Enid,Oklahoma,2012,50025
+Erie,Pennsylvania,2012,101287
+Euless,Texas,2012,52767
+Evanston,Illinois,2012,75741
+Evansville,Indiana,2012,120263
+Everett,Washington,2012,104555
+Fairfield,California,2012,107471
+Fall River,Massachusetts,2012,88842
+Fargo,North Dakota,2012,110821
+Farmington Hills,Michigan,2012,80920
+Fayetteville,Arkansas,2012,76961
+Federal Way,Washington,2012,91997
+Fishers,Indiana,2012,82431
+Flagstaff,Arizona,2012,67931
+Flint,Michigan,2012,100185
+Florissant,Missouri,2012,52417
+Flower Mound,Texas,2012,67723
+Folsom,California,2012,73107
+Fort Myers,Florida,2012,65519
+Fort Smith,Arkansas,2012,87630
+Fountain Valley,California,2012,56338
+Framingham,Massachusetts,2012,70064
+Franklin,Tennessee,2012,66272
+Frederick,Maryland,2012,66404
+Gaithersburg,Maryland,2012,63044
+Galveston,Texas,2012,48118
+Gardena,California,2012,59392
+Gary,Indiana,2012,79188
+Gastonia,North Carolina,2012,72520
+Georgetown,Texas,2012,52466
+Gilroy,California,2012,50738
+Glendora,California,2012,50803
+Goodyear,Arizona,2012,67823
+Grand Forks,North Dakota,2012,53561
+Grand Island,Nebraska,2012,49903
+Grand Junction,Colorado,2012,59803
+Grapevine,Texas,2012,48441
+Great Falls,Montana,2012,59257
+Greeley,Colorado,2012,95339
+Green Bay,Wisconsin,2012,104657
+Greenville,North Carolina,2012,87642
+Greenville,South Carolina,2012,60030
+Greenwood,Indiana,2012,52863
+Gresham,Oregon,2012,108785
+Gulfport,Mississippi,2012,69765
+Hamilton,Ohio,2012,62213
+Hammond,Indiana,2012,79650
+Hanford,California,2012,54473
+Harlingen,Texas,2012,65818
+Harrisonburg,Virginia,2012,51315
+Hartford,Connecticut,2012,125277
+Haverhill,Massachusetts,2012,61865
+Hawthorne,California,2012,85400
+Hemet,California,2012,81039
+Hempstead vi,New York,2012,54987
+Hendersonville,Tennessee,2012,52916
+Hesperia,California,2012,91620
+High Point,North Carolina,2012,106541
+Highland,California,2012,53948
+Hillsboro,Oregon,2012,96364
+Hoboken,New Jersey,2012,51486
+Hoffman Estates vi,Illinois,2012,52316
+Homestead,Florida,2012,63787
+Hoover,Alabama,2012,82617
+Huntersville,North Carolina,2012,49280
+Huntington Park,California,2012,58537
+Idaho Falls,Idaho,2012,58155
+Independence,Missouri,2012,117305
+Indio,California,2012,82292
+Inglewood,California,2012,110938
+Iowa City,Iowa,2012,70169
+Jackson,Tennessee,2012,67034
+Jacksonville,North Carolina,2012,76188
+Janesville,Wisconsin,2012,63483
+Johns Creek,Georgia,2012,81856
+Johnson City,Tennessee,2012,64346
+Jonesboro,Arkansas,2012,70427
+Joplin,Missouri,2012,48470
+Jupiter,Florida,2012,57206
+Jurupa Valley,California,2012,98353
+Kalamazoo,Michigan,2012,75541
+Kenner,Louisiana,2012,66837
+Kennewick,Washington,2012,75941
+Kenosha,Wisconsin,2012,99908
+Kentwood,Michigan,2012,49755
+Kettering,Ohio,2012,55935
+Kingsport,Tennessee,2012,52751
+Kirkland,Washington,2012,83432
+Kissimmee,Florida,2012,63457
+Kokomo,Indiana,2012,58078
+La Crosse,Wisconsin,2012,51966
+La Habra,California,2012,61256
+La Mesa,California,2012,58112
+Lacey,Washington,2012,43989
+Lafayette,Indiana,2012,70161
+Laguna Niguel,California,2012,64153
+Lake Charles,Louisiana,2012,73496
+Lake Elsinore,California,2012,56052
+Lake Forest,California,2012,78756
+Lake Havasu City,Arizona,2012,52797
+Lakeland,Florida,2012,99035
+Lakeville,Minnesota,2012,57471
+Lakewood,California,2012,80682
+Lakewood,Ohio,2012,51399
+Lakewood,Washington,2012,58108
+Lancaster,Pennsylvania,2012,59473
+Lansing,Michigan,2012,114653
+Largo,Florida,2012,79646
+Las Cruces,New Mexico,2012,101092
+Lauderhill,Florida,2012,69023
+Lawrence,Kansas,2012,89950
+Lawrence,Massachusetts,2012,77922
+Lawton,Oklahoma,2012,98455
+Layton,Utah,2012,68879
+League City,Texas,2012,88262
+Leander,Texas,2012,30645
+Lee's Summit,Missouri,2012,92371
+Leesburg,Virginia,2012,46056
+Lehi,Utah,2012,51391
+Lenexa,Kansas,2012,49349
+Lewisville,Texas,2012,99643
+Little Elm,Texas,2012,29171
+Livermore,California,2012,83843
+Livonia,Michigan,2012,95920
+Lodi,California,2012,63073
+Logan,Utah,2012,49115
+Longmont,Colorado,2012,88891
+Longview,Texas,2012,81233
+Lorain,Ohio,2012,63746
+Loveland,Colorado,2012,70226
+Lowell,Massachusetts,2012,108805
+Lynchburg,Virginia,2012,77276
+Lynn,Massachusetts,2012,91452
+Lynwood,California,2012,70603
+Madera,California,2012,62311
+Madison,Alabama,2012,45135
+Malden,Massachusetts,2012,60468
+Manchester,New Hampshire,2012,110635
+Manhattan,Kansas,2012,56597
+Mansfield,Texas,2012,59493
+Manteca,California,2012,70846
+Maple Grove,Minnesota,2012,64505
+Margate,Florida,2012,54830
+Maricopa,Arizona,2012,44032
+Marietta,Georgia,2012,58281
+Marysville,Washington,2012,62298
+Medford,Massachusetts,2012,57276
+Medford,Oregon,2012,76104
+Melbourne,Florida,2012,76884
+Menifee,California,2012,81165
+Merced,California,2012,80265
+Meriden,Connecticut,2012,60687
+Meridian,Idaho,2012,82094
+Methuen Town,Massachusetts,2012,48123
+Miami Beach,Florida,2012,90830
+Miami Gardens,Florida,2012,111149
+Midwest City,Oklahoma,2012,56263
+Milford city (bal,Connecticut,2012,51560
+Millcreek,Utah,2012,59881
+Milpitas,California,2012,68880
+Minnetonka,Minnesota,2012,51235
+Mission Viejo,California,2012,94671
+Mission,Texas,2012,81064
+Missoula,Montana,2012,68343
+Missouri City,Texas,2012,68090
+Montebello,California,2012,63150
+Monterey Park,California,2012,60674
+Moore,Oklahoma,2012,57840
+Mount Pleasant,South Carolina,2012,71626
+Mount Prospect vi,Illinois,2012,55429
+Mount Vernon,New York,2012,67839
+Mountain View,California,2012,76514
+Muncie,Indiana,2012,69756
+Murrieta,California,2012,106491
+Nampa,Idaho,2012,83909
+Napa,California,2012,78201
+Nashua,New Hampshire,2012,86933
+National City,California,2012,59384
+New Bedford,Massachusetts,2012,94997
+New Braunfels,Texas,2012,60875
+New Britain,Connecticut,2012,73217
+New Brunswick,New Jersey,2012,55412
+New Rochelle,New York,2012,78324
+Newark,Ohio,2012,47807
+Newport Beach,California,2012,86565
+Newton,Massachusetts,2012,87054
+Niagara Falls,New York,2012,49659
+Noblesville,Indiana,2012,55389
+Normal,Illinois,2012,54016
+Norman,Oklahoma,2012,115629
+North Charleston,South Carolina,2012,102014
+North Little Rock,Arkansas,2012,64656
+North Miami,Florida,2012,60566
+North Port,Florida,2012,58448
+North Richland Hills,Texas,2012,65256
+Norwalk,California,2012,106019
+Norwalk,Connecticut,2012,87269
+Novato,California,2012,53229
+Novi,Michigan,2012,57043
+O'Fallon,Missouri,2012,82056
+Oak Lawn vi,Illinois,2012,57089
+Oak Park vi,Illinois,2012,52110
+Ocala,Florida,2012,56788
+Odessa,Texas,2012,105985
+Ogden,Utah,2012,83820
+Olympia,Washington,2012,48082
+Orem,Utah,2012,90579
+Orland Park vi,Illinois,2012,57278
+Oshkosh,Wisconsin,2012,66715
+Owensboro,Kentucky,2012,58129
+Palatine vi,Illinois,2012,69184
+Palm Bay,Florida,2012,104824
+Palm Beach Gardens,Florida,2012,50514
+Palm Coast,Florida,2012,77365
+Palm Desert,California,2012,49779
+Palo Alto,California,2012,66116
+Paramount,California,2012,54594
+Parker,Colorado,2012,47035
+Parma,Ohio,2012,80622
+Pasco,Washington,2012,67699
+Passaic,New Jersey,2012,69977
+Pawtucket,Rhode Island,2012,71569
+Peabody,Massachusetts,2012,51913
+Pearland,Texas,2012,99361
+Pensacola,Florida,2012,52145
+Peoria,Illinois,2012,115746
+Perris,California,2012,71256
+Perth Amboy,New Jersey,2012,51563
+Petaluma,California,2012,58692
+Pflugerville,Texas,2012,52014
+Pharr,Texas,2012,73469
+Pico Rivera,California,2012,63452
+Pinellas Park,Florida,2012,50002
+Pittsburg,California,2012,65534
+Placentia,California,2012,51859
+Plainfield,New Jersey,2012,50077
+Plantation,Florida,2012,87942
+Pleasanton,California,2012,72119
+Plymouth,Minnesota,2012,73103
+Pocatello,Idaho,2012,54770
+Pompano Beach,Florida,2012,102911
+Pontiac,Michigan,2012,60235
+Port Arthur,Texas,2012,54574
+Port Orange,Florida,2012,56976
+Porterville,California,2012,58826
+Portland,Maine,2012,66215
+Portsmouth,Virginia,2012,96467
+Provo,Utah,2012,115560
+Pueblo,Colorado,2012,107556
+Quincy,Massachusetts,2012,92979
+Racine,Wisconsin,2012,78191
+Rancho Cordova,California,2012,66733
+Rapid City,South Dakota,2012,70181
+Reading,Pennsylvania,2012,88165
+Redding,California,2012,90397
+Redlands,California,2012,69658
+Redmond,Washington,2012,56789
+Redondo Beach,California,2012,67459
+Redwood City,California,2012,79211
+Renton,Washington,2012,96024
+Revere,Massachusetts,2012,53270
+Rialto,California,2012,101315
+Richardson,Texas,2012,103705
+Richland,Washington,2012,51381
+Richmond,California,2012,106044
+Rio Rancho,New Mexico,2012,90431
+Roanoke,Virginia,2012,98092
+Rochester Hills,Michigan,2012,72453
+Rochester,Minnesota,2012,108893
+Rock Hill,South Carolina,2012,67781
+Rocklin,California,2012,58963
+Rockville,Maryland,2012,63306
+Rocky Mount,North Carolina,2012,56757
+Rogers,Arkansas,2012,59575
+Rosemead,California,2012,54239
+Roswell,Georgia,2012,93214
+Rowlett,Texas,2012,57786
+Royal Oak,Michigan,2012,58138
+Saginaw,Michigan,2012,50740
+Sammamish,Washington,2012,60024
+San Angelo,Texas,2012,95844
+San Buenaventura (Ventura),California,2012,109064
+San Clemente,California,2012,64613
+San Leandro,California,2012,86989
+San Marcos,California,2012,86863
+San Marcos,Texas,2012,49972
+San Mateo,California,2012,99859
+San Rafael,California,2012,58452
+San Ramon,California,2012,72874
+Sandy Springs,Georgia,2012,98879
+Sandy,Utah,2012,91782
+Sanford,Florida,2012,54912
+Santa Barbara,California,2012,89312
+Santa Cruz,California,2012,61963
+Santa Fe,New Mexico,2012,82325
+Santa Maria,California,2012,101149
+Santa Monica,California,2012,91369
+Santee,California,2012,55395
+Sarasota,Florida,2012,52953
+Schaumburg vi,Illinois,2012,74789
+Schenectady,New York,2012,66090
+Scranton,Pennsylvania,2012,76027
+Shawnee,Kansas,2012,63560
+Shoreline,Washington,2012,54508
+Simi Valley,California,2012,125319
+Sioux City,Iowa,2012,82686
+Skokie vi,Illinois,2012,65262
+Smyrna,Georgia,2012,52480
+Smyrna,Tennessee,2012,42106
+Somerville,Massachusetts,2012,77569
+South Bend,Indiana,2012,100990
+South Fulton,Georgia,2012,91005
+South Gate,California,2012,94616
+South Jordan,Utah,2012,55878
+South San Francisco,California,2012,65639
+Southaven,Mississippi,2012,50393
+Southfield,Michigan,2012,72713
+Sparks,Nevada,2012,92372
+Spokane Valley,Washington,2012,90658
+Springdale,Arkansas,2012,73724
+Springfield,Illinois,2012,117930
+Springfield,Ohio,2012,60077
+Springfield,Oregon,2012,59961
+St. Charles,Missouri,2012,66899
+St. Clair Shores,Michigan,2012,59986
+St. Cloud,Florida,2012,41201
+St. Cloud,Minnesota,2012,65945
+St. George,Utah,2012,75012
+St. Joseph,Missouri,2012,77327
+St. Peters,Missouri,2012,54035
+Stillwater,Oklahoma,2012,46695
+Stonecrest,Georgia,2012,51521
+Suffolk,Virginia,2012,85258
+Sugar Land,Texas,2012,111283
+Summerville,South Carolina,2012,44606
+Sunrise,Florida,2012,88591
+Tamarac,Florida,2012,62211
+Taunton,Massachusetts,2012,56042
+Taylor,Michigan,2012,62464
+Taylorsville,Utah,2012,60240
+Temecula,California,2012,104308
+Temple,Texas,2012,68745
+Terre Haute,Indiana,2012,61167
+Tigard,Oregon,2012,49820
+Tinley Park vi,Illinois,2012,57291
+Tracy,California,2012,84733
+Trenton,New Jersey,2012,84642
+Troy,Michigan,2012,82271
+Troy,New York,2012,49843
+Tulare,California,2012,60651
+Turlock,California,2012,69650
+Tuscaloosa,Alabama,2012,92807
+Tustin,California,2012,77600
+Tyler,Texas,2012,98986
+Union City,California,2012,71663
+Union City,New Jersey,2012,67827
+Upland,California,2012,74956
+Utica,New York,2012,61883
+Vacaville,California,2012,93673
+Valdosta,Georgia,2012,57159
+Vallejo,California,2012,117604
+Victoria,Texas,2012,64256
+Victorville,California,2012,119885
+Vineland,New Jersey,2012,60926
+Vista,California,2012,95495
+Walnut Creek,California,2012,65548
+Waltham,Massachusetts,2012,62029
+Warner Robins,Georgia,2012,71990
+Warwick,Rhode Island,2012,81683
+Waterbury,Connecticut,2012,110035
+Waterloo,Iowa,2012,68437
+Watsonville,California,2012,51885
+Waukegan,Illinois,2012,88778
+Waukesha,Wisconsin,2012,71716
+Wellington vi,Florida,2012,58597
+West Allis,Wisconsin,2012,60705
+West Covina,California,2012,107130
+West Des Moines,Iowa,2012,58128
+West Haven,Connecticut,2012,55283
+West Jordan,Utah,2012,108155
+West New York,New Jersey,2012,50852
+West Palm Beach,Florida,2012,102540
+West Sacramento,California,2012,49548
+Westland,Michigan,2012,83336
+Westminster,California,2012,91243
+Westminster,Colorado,2012,109101
+Weston,Florida,2012,67708
+Weymouth Town,Massachusetts,2012,55062
+Wheaton,Illinois,2012,53551
+White Plains,New York,2012,57256
+Whittier,California,2012,86004
+Wichita Falls,Texas,2012,104622
+Wilmington,Delaware,2012,71008
+Wilmington,North Carolina,2012,109645
+Woodbury,Minnesota,2012,64462
+Woodland,California,2012,56284
+Wylie,Texas,2012,44881
+Wyoming,Michigan,2012,73506
+Yakima,Washington,2012,92687
+Yorba Linda,California,2012,66308
+Youngstown,Ohio,2012,66053
+Yuba City,California,2012,65283
+Yucaipa,California,2012,52298
+Yuma,Arizona,2012,93751
+Abilene,Texas,2013,119792
+Akron,Ohio,2013,198901
+Alameda,California,2013,76511
+Albany,Georgia,2013,76393
+Albany,New York,2013,98487
+Albany,Oregon,2013,50941
+Albuquerque,New Mexico,2013,557619
+Alexandria,Virginia,2013,149674
+Alhambra,California,2013,84395
+Aliso Viejo,California,2013,50001
+Allen,Texas,2013,92138
+Allentown,Pennsylvania,2013,118832
+Alpharetta,Georgia,2013,61946
+Amarillo,Texas,2013,196243
+Ames,Iowa,2013,63046
+Anaheim,California,2013,344369
+Anchorage municip,Alaska,2013,301155
+Anderson,Indiana,2013,55561
+Ankeny,Iowa,2013,50783
+Ann Arbor,Michigan,2013,116818
+Antioch,California,2013,107384
+Apex,North Carolina,2013,42280
+Apopka,Florida,2013,46198
+Apple Valley,Minnesota,2013,49928
+Apple Valley,California,2013,70741
+Appleton,Wisconsin,2013,73588
+Arcadia,California,2013,57279
+Arlington Heights vi,Illinois,2013,76151
+Arlington,Texas,2013,379266
+Arvada,Colorado,2013,111846
+Asheville,North Carolina,2013,86367
+Athens-Clarke County unified government (bal,Georgia,2013,119629
+Atlanta,Georgia,2013,453791
+Auburn,Alabama,2013,58863
+Auburn,Washington,2013,74848
+Augusta-Richmond County consolidated government (bal,Georgia,2013,196479
+Aurora,Colorado,2013,345276
+Aurora,Illinois,2013,199826
+Austin,Texas,2013,875463
+Avondale,Arizona,2013,79778
+Bakersfield,California,2013,363449
+Baldwin Park,California,2013,76413
+Baltimore,Maryland,2013,622497
+Bartlett,Tennessee,2013,58211
+Baton Rouge,Louisiana,2013,228280
+Battle Creek,Michigan,2013,51787
+Bayonne,New Jersey,2013,64754
+Baytown,Texas,2013,75424
+Beaumont,Texas,2013,118052
+Beaverton,Oregon,2013,93306
+Bellevue,Nebraska,2013,52792
+Bellevue,Washington,2013,133823
+Bellflower,California,2013,77440
+Bellingham,Washington,2013,82638
+Bend,Oregon,2013,80879
+Bentonville,Arkansas,2013,40436
+Berkeley,California,2013,116968
+Berwyn,Illinois,2013,56938
+Bethlehem,Pennsylvania,2013,74836
+Billings,Montana,2013,108581
+Birmingham,Alabama,2013,211230
+Bismarck,North Dakota,2013,67035
+Blaine,Minnesota,2013,60513
+Bloomington,Illinois,2013,79245
+Bloomington,Indiana,2013,82476
+Bloomington,Minnesota,2013,85089
+Blue Springs,Missouri,2013,53174
+Boca Raton,Florida,2013,89701
+Boise City,Idaho,2013,217436
+Bolingbrook vi,Illinois,2013,73927
+Bonita Springs,Florida,2013,47659
+Bossier City,Louisiana,2013,66135
+Boston,Massachusetts,2013,653103
+Boulder,Colorado,2013,103640
+Bowie,Maryland,2013,57155
+Bowling Green,Kentucky,2013,62298
+Boynton Beach,Florida,2013,71237
+Bradenton,Florida,2013,51180
+Brentwood,California,2013,54943
+Bridgeport,Connecticut,2013,147726
+Bristol,Connecticut,2013,60542
+Brockton,Massachusetts,2013,94365
+Broken Arrow,Oklahoma,2013,103674
+Brookhaven,Georgia,2013,51446
+Brooklyn Park,Minnesota,2013,78476
+Broomfield,Colorado,2013,60149
+Brownsville,Texas,2013,180913
+Bryan,Texas,2013,78931
+Buckeye,Arizona,2013,56598
+Buena Park,California,2013,82766
+Buffalo,New York,2013,260041
+Burbank,California,2013,104430
+Burien,Washington,2013,49962
+Burlington,North Carolina,2013,51107
+Burnsville,Minnesota,2013,61148
+Caldwell,Idaho,2013,48963
+Camarillo,California,2013,65923
+Cambridge,Massachusetts,2013,112069
+Camden,New Jersey,2013,76462
+Canton,Ohio,2013,72558
+Cape Coral,Florida,2013,164323
+Carlsbad,California,2013,110723
+Carmel,Indiana,2013,85869
+Carrollton,Texas,2013,126459
+Carson,Nevada,2013,53736
+Carson,California,2013,92596
+Cary,North Carolina,2013,151257
+Casa Grande,Arizona,2013,49798
+Casper,Wyoming,2013,59475
+Castle Rock,Colorado,2013,52658
+Cathedral City,California,2013,52890
+Cedar Park,Texas,2013,64843
+Cedar Rapids,Iowa,2013,128663
+Centennial,Colorado,2013,106667
+Cerritos,California,2013,49547
+Champaign,Illinois,2013,84136
+Chandler,Arizona,2013,239900
+Chapel Hill,North Carolina,2013,58839
+Charleston,South Carolina,2013,127456
+Charleston,West Virginia,2013,50662
+Charlotte,North Carolina,2013,792183
+Chattanooga,Tennessee,2013,174830
+Chesapeake,Virginia,2013,230330
+Cheyenne,Wyoming,2013,62104
+Chicago,Illinois,2013,2726772
+Chico,California,2013,88392
+Chicopee,Massachusetts,2013,55882
+Chino Hills,California,2013,76333
+Chino,California,2013,80848
+Chula Vista,California,2013,256819
+Cicero,Illinois,2013,84633
+Cincinnati,Ohio,2013,297775
+Citrus Heights,California,2013,85037
+Clarksville,Tennessee,2013,142194
+Clearwater,Florida,2013,110170
+Cleveland,Ohio,2013,391759
+Clifton,New Jersey,2013,84923
+Clovis,California,2013,99548
+Coconut Creek,Florida,2013,56930
+Coeur d'Alene,Idaho,2013,46242
+College Station,Texas,2013,100620
+Collierville,Tennessee,2013,47356
+Colorado Springs,Colorado,2013,437981
+Colton,California,2013,53131
+Columbia,Missouri,2013,115441
+Columbia,South Carolina,2013,131526
+Columbus,Georgia,2013,203198
+Columbus,Ohio,2013,827824
+Commerce City,Colorado,2013,49797
+Compton,California,2013,97664
+Concord,California,2013,125926
+Concord,North Carolina,2013,83358
+Conroe,Texas,2013,70576
+Conway,Arkansas,2013,63274
+Coon Rapids,Minnesota,2013,62064
+Coral Gables,Florida,2013,50215
+Coral Springs,Florida,2013,127296
+Corona,California,2013,158986
+Corpus Christi,Texas,2013,317101
+Corvallis,Oregon,2013,54711
+Costa Mesa,California,2013,112307
+Council Bluffs,Iowa,2013,62103
+Cranston,Rhode Island,2013,80972
+Cupertino,California,2013,60238
+Dallas,Texas,2013,1259239
+Daly City,California,2013,105047
+Danbury,Connecticut,2013,83606
+Davenport,Iowa,2013,102046
+Davie,Florida,2013,97653
+Davis,California,2013,66233
+Dayton,Ohio,2013,142029
+Daytona Beach,Florida,2013,62941
+DeSoto,Texas,2013,51640
+Dearborn Heights,Michigan,2013,56656
+Dearborn,Michigan,2013,96071
+Decatur,Alabama,2013,55439
+Decatur,Illinois,2013,74964
+Deerfield Beach,Florida,2013,78028
+Delano,California,2013,52342
+Delray Beach,Florida,2013,64207
+Deltona,Florida,2013,85575
+Denton,Texas,2013,125100
+Denver,Colorado,2013,649513
+Des Moines,Iowa,2013,212035
+Des Plaines,Illinois,2013,59136
+Detroit,Michigan,2013,691883
+Diamond Bar,California,2013,56256
+Doral,Florida,2013,50552
+Dothan,Alabama,2013,67546
+Downey,California,2013,112934
+Dublin,California,2013,52048
+Dubuque,Iowa,2013,58486
+Duluth,Minnesota,2013,86035
+Durham,North Carolina,2013,247002
+Eagan,Minnesota,2013,65411
+East Orange,New Jersey,2013,64237
+Eastvale,California,2013,56482
+Eau Claire,Wisconsin,2013,67893
+Eden Prairie,Minnesota,2013,62679
+Edina,Minnesota,2013,49503
+Edinburg,Texas,2013,88470
+Edmond,Oklahoma,2013,86988
+El Cajon,California,2013,102274
+El Monte,California,2013,115447
+El Paso,Texas,2013,675222
+Elgin,Illinois,2013,110128
+Elizabeth,New Jersey,2013,127305
+Elk Grove,California,2013,160314
+Elkhart,Indiana,2013,52182
+Elyria,Ohio,2013,54118
+Encinitas,California,2013,61571
+Enid,Oklahoma,2013,50802
+Erie,Pennsylvania,2013,100533
+Escondido,California,2013,148860
+Eugene,Oregon,2013,158451
+Euless,Texas,2013,53156
+Evanston,Illinois,2013,76013
+Evansville,Indiana,2013,120296
+Everett,Washington,2013,105175
+Fairfield,California,2013,109130
+Fall River,Massachusetts,2013,88993
+Fargo,North Dakota,2013,113676
+Farmington Hills,Michigan,2013,81492
+Fayetteville,Arkansas,2013,78651
+Fayetteville,North Carolina,2013,211051
+Federal Way,Washington,2013,92723
+Fishers,Indiana,2013,84468
+Flagstaff,Arizona,2013,68110
+Flint,Michigan,2013,99427
+Florissant,Missouri,2013,52304
+Flower Mound,Texas,2013,68318
+Folsom,California,2013,72857
+Fontana,California,2013,202804
+Fort Collins,Colorado,2013,152462
+Fort Lauderdale,Florida,2013,172329
+Fort Myers,Florida,2013,67820
+Fort Smith,Arkansas,2013,87400
+Fort Wayne,Indiana,2013,259354
+Fort Worth,Texas,2013,796175
+Fountain Valley,California,2013,56632
+Framingham,Massachusetts,2013,70417
+Franklin,Tennessee,2013,68845
+Frederick,Maryland,2013,66833
+Fremont,California,2013,224888
+Fresno,California,2013,509104
+Frisco,Texas,2013,136733
+Fullerton,California,2013,138716
+Gainesville,Florida,2013,126104
+Gaithersburg,Maryland,2013,65688
+Galveston,Texas,2013,48687
+Garden Grove,California,2013,174518
+Gardena,California,2013,59826
+Garland,Texas,2013,234783
+Gary,Indiana,2013,78586
+Gastonia,North Carolina,2013,72820
+Georgetown,Texas,2013,54807
+Gilbert,Arizona,2013,221598
+Gilroy,California,2013,51924
+Glendale,Arizona,2013,236885
+Glendale,California,2013,195450
+Glendora,California,2013,51142
+Goodyear,Arizona,2013,70390
+Grand Forks,North Dakota,2013,54896
+Grand Island,Nebraska,2013,50330
+Grand Junction,Colorado,2013,59968
+Grand Prairie,Texas,2013,183994
+Grand Rapids,Michigan,2013,192991
+Grapevine,Texas,2013,50138
+Great Falls,Montana,2013,59528
+Greeley,Colorado,2013,96594
+Green Bay,Wisconsin,2013,104630
+Greensboro,North Carolina,2013,279244
+Greenville,North Carolina,2013,88879
+Greenville,South Carolina,2013,60488
+Greenwood,Indiana,2013,53721
+Gresham,Oregon,2013,109240
+Gulfport,Mississippi,2013,70782
+Hamilton,Ohio,2013,62281
+Hammond,Indiana,2013,79027
+Hampton,Virginia,2013,137243
+Hanford,California,2013,54707
+Harlingen,Texas,2013,65739
+Harrisonburg,Virginia,2013,51550
+Hartford,Connecticut,2013,125142
+Haverhill,Massachusetts,2013,62283
+Hawthorne,California,2013,85926
+Hayward,California,2013,151709
+Hemet,California,2013,81743
+Hempstead vi,New York,2013,55478
+Henderson,Nevada,2013,268450
+Hendersonville,Tennessee,2013,53824
+Hesperia,California,2013,91850
+Hialeah,Florida,2013,234616
+High Point,North Carolina,2013,107559
+Highland,California,2013,54169
+Hillsboro,Oregon,2013,98192
+Hoboken,New Jersey,2013,52187
+Hoffman Estates vi,Illinois,2013,52415
+Hollywood,Florida,2013,146081
+Homestead,Florida,2013,64897
+Hoover,Alabama,2013,83247
+Houston,Texas,2013,2198280
+Huntersville,North Carolina,2013,50534
+Huntington Beach,California,2013,197212
+Huntington Park,California,2013,58768
+Huntsville,Alabama,2013,185841
+Idaho Falls,Idaho,2013,58338
+Independence,Missouri,2013,117275
+Indianapolis city (bal,Indiana,2013,844081
+Indio,California,2013,83427
+Inglewood,California,2013,111055
+Iowa City,Iowa,2013,71453
+Irvine,California,2013,236134
+Irving,Texas,2013,229053
+Jackson,Mississippi,2013,172943
+Jackson,Tennessee,2013,67464
+Jacksonville,Florida,2013,842762
+Jacksonville,North Carolina,2013,75503
+Janesville,Wisconsin,2013,63655
+Jersey City,New Jersey,2013,257243
+Johns Creek,Georgia,2013,82467
+Johnson City,Tennessee,2013,64693
+Joliet,Illinois,2013,147910
+Jonesboro,Arkansas,2013,71582
+Joplin,Missouri,2013,48882
+Jupiter,Florida,2013,58510
+Jurupa Valley,California,2013,99479
+Kalamazoo,Michigan,2013,75796
+Kansas City,Kansas,2013,148942
+Kansas City,Missouri,2013,467243
+Kenner,Louisiana,2013,66891
+Kennewick,Washington,2013,76598
+Kenosha,Wisconsin,2013,99756
+Kent,Washington,2013,124522
+Kentwood,Michigan,2013,50361
+Kettering,Ohio,2013,55809
+Killeen,Texas,2013,136322
+Kingsport,Tennessee,2013,52828
+Kirkland,Washington,2013,84539
+Kissimmee,Florida,2013,64956
+Knoxville,Tennessee,2013,182177
+Kokomo,Indiana,2013,58071
+La Crosse,Wisconsin,2013,51891
+La Habra,California,2013,61527
+La Mesa,California,2013,58582
+Lacey,Washington,2013,44809
+Lafayette,Indiana,2013,70975
+Lafayette,Louisiana,2013,124840
+Laguna Niguel,California,2013,64415
+Lake Charles,Louisiana,2013,73708
+Lake Elsinore,California,2013,57730
+Lake Forest,California,2013,79156
+Lake Havasu City,Arizona,2013,52794
+Lakeland,Florida,2013,100366
+Lakeville,Minnesota,2013,58705
+Lakewood,California,2013,80911
+Lakewood,Colorado,2013,146909
+Lakewood,Ohio,2013,51259
+Lakewood,Washington,2013,58142
+Lancaster,California,2013,159136
+Lancaster,Pennsylvania,2013,59468
+Lansing,Michigan,2013,114736
+Laredo,Texas,2013,249822
+Largo,Florida,2013,80332
+Las Cruces,New Mexico,2013,101307
+Las Vegas,Nevada,2013,599777
+Lauderhill,Florida,2013,69548
+Lawrence,Kansas,2013,91179
+Lawrence,Massachusetts,2013,78401
+Lawton,Oklahoma,2013,97018
+Layton,Utah,2013,70962
+League City,Texas,2013,90839
+Leander,Texas,2013,32804
+Lee's Summit,Missouri,2013,92969
+Leesburg,Virginia,2013,47695
+Lehi,Utah,2013,55099
+Lenexa,Kansas,2013,50278
+Lewisville,Texas,2013,101065
+Lexington-Fayette urban c,Kentucky,2013,310010
+Lincoln,Nebraska,2013,268937
+Little Elm,Texas,2013,33130
+Little Rock,Arkansas,2013,197084
+Livermore,California,2013,85476
+Livonia,Michigan,2013,95244
+Lodi,California,2013,63166
+Logan,Utah,2013,49079
+Long Beach,California,2013,468303
+Longmont,Colorado,2013,90217
+Longview,Texas,2013,81319
+Lorain,Ohio,2013,63725
+Los Angeles,California,2013,3883916
+Louisville/Jefferson County metro government (bal,Kentucky,2013,610339
+Loveland,Colorado,2013,71135
+Lowell,Massachusetts,2013,109768
+Lubbock,Texas,2013,239411
+Lynchburg,Virginia,2013,77950
+Lynn,Massachusetts,2013,92048
+Lynwood,California,2013,71197
+Macon-Bibb C,Georgia,2013,155036
+Madera,California,2013,62695
+Madison,Alabama,2013,45880
+Madison,Wisconsin,2013,243246
+Malden,Massachusetts,2013,60817
+Manchester,New Hampshire,2013,110758
+Manhattan,Kansas,2013,56104
+Mansfield,Texas,2013,61072
+Manteca,California,2013,71740
+Maple Grove,Minnesota,2013,65449
+Margate,Florida,2013,55271
+Maricopa,Arizona,2013,44817
+Marietta,Georgia,2013,58937
+Marysville,Washington,2013,63144
+McAllen,Texas,2013,137649
+McKinney,Texas,2013,149207
+Medford,Massachusetts,2013,57424
+Medford,Oregon,2013,76759
+Melbourne,Florida,2013,77426
+Memphis,Tennessee,2013,657877
+Menifee,California,2013,83210
+Merced,California,2013,80758
+Meriden,Connecticut,2013,60510
+Meridian,Idaho,2013,85060
+Mesa,Arizona,2013,464980
+Mesquite,Texas,2013,143565
+Methuen Town,Massachusetts,2013,48706
+Miami Beach,Florida,2013,91424
+Miami Gardens,Florida,2013,111939
+Miami,Florida,2013,419829
+Midland,Texas,2013,124223
+Midwest City,Oklahoma,2013,56866
+Milford city (bal,Connecticut,2013,51668
+Millcreek,Utah,2013,60285
+Milpitas,California,2013,69975
+Milwaukee,Wisconsin,2013,599965
+Minneapolis,Minnesota,2013,400108
+Minnetonka,Minnesota,2013,51444
+Miramar,Florida,2013,130127
+Mission Viejo,California,2013,96069
+Mission,Texas,2013,81711
+Missoula,Montana,2013,68946
+Missouri City,Texas,2013,69296
+Mobile,Alabama,2013,193555
+Modesto,California,2013,206182
+Montebello,California,2013,63321
+Monterey Park,California,2013,60840
+Montgomery,Alabama,2013,202426
+Moore,Oklahoma,2013,58358
+Moreno Valley,California,2013,200224
+Mount Pleasant,South Carolina,2013,74377
+Mount Prospect vi,Illinois,2013,55620
+Mount Vernon,New York,2013,68135
+Mountain View,California,2013,77978
+Muncie,Indiana,2013,69715
+Murfreesboro,Tennessee,2013,116872
+Murrieta,California,2013,107379
+Nampa,Idaho,2013,86351
+Napa,California,2013,78777
+Naperville,Illinois,2013,144912
+Nashua,New Hampshire,2013,87335
+Nashville-Davidson metropolitan government (bal,Tennessee,2013,636267
+National City,California,2013,59799
+New Bedford,Massachusetts,2013,95073
+New Braunfels,Texas,2013,63005
+New Britain,Connecticut,2013,73055
+New Brunswick,New Jersey,2013,55907
+New Haven,Connecticut,2013,130915
+New Orleans,Louisiana,2013,378623
+New Rochelle,New York,2013,79270
+New York,New York,2013,8398739
+Newark,New Jersey,2013,278152
+Newark,Ohio,2013,48033
+Newport Beach,California,2013,86940
+Newport News,Virginia,2013,181320
+Newton,Massachusetts,2013,87508
+Niagara Falls,New York,2013,49459
+Noblesville,Indiana,2013,56704
+Norfolk,Virginia,2013,245449
+Normal,Illinois,2013,54662
+Norman,Oklahoma,2013,118136
+North Charleston,South Carolina,2013,104096
+North Las Vegas,Nevada,2013,225435
+North Little Rock,Arkansas,2013,65939
+North Miami,Florida,2013,60954
+North Port,Florida,2013,59157
+North Richland Hills,Texas,2013,67250
+Norwalk,California,2013,106192
+Norwalk,Connecticut,2013,87743
+Novato,California,2013,54155
+Novi,Michigan,2013,58127
+O'Fallon,Missouri,2013,83071
+Oak Lawn vi,Illinois,2013,57191
+Oak Park vi,Illinois,2013,52275
+Oakland,California,2013,406844
+Ocala,Florida,2013,56808
+Oceanside,California,2013,173088
+Odessa,Texas,2013,110287
+Ogden,Utah,2013,84130
+Oklahoma City,Oklahoma,2013,611999
+Olathe,Kansas,2013,131789
+Olympia,Washington,2013,48469
+Omaha,Nebraska,2013,459091
+Ontario,California,2013,167166
+Orange,California,2013,139705
+Orem,Utah,2013,91327
+Orland Park vi,Illinois,2013,58527
+Orlando,Florida,2013,255156
+Oshkosh,Wisconsin,2013,66811
+Overland Park,Kansas,2013,180948
+Owensboro,Kentucky,2013,58341
+Oxnard,California,2013,202858
+Palatine vi,Illinois,2013,69407
+Palm Bay,Florida,2013,105341
+Palm Beach Gardens,Florida,2013,51413
+Palm Coast,Florida,2013,78413
+Palm Desert,California,2013,50370
+Palmdale,California,2013,156614
+Palo Alto,California,2013,66655
+Paramount,California,2013,54882
+Parker,Colorado,2013,48354
+Parma,Ohio,2013,80454
+Pasadena,California,2013,139391
+Pasadena,Texas,2013,153580
+Pasco,Washington,2013,68442
+Passaic,New Jersey,2013,70098
+Paterson,New Jersey,2013,146089
+Pawtucket,Rhode Island,2013,71617
+Peabody,Massachusetts,2013,52243
+Pearland,Texas,2013,102955
+Pembroke Pines,Florida,2013,162160
+Pensacola,Florida,2013,52268
+Peoria,Arizona,2013,156371
+Peoria,Illinois,2013,116599
+Perris,California,2013,72343
+Perth Amboy,New Jersey,2013,51737
+Petaluma,California,2013,59306
+Pflugerville,Texas,2013,53858
+Pharr,Texas,2013,74375
+Philadelphia,Pennsylvania,2013,1558371
+Phoenix,Arizona,2013,1527336
+Pico Rivera,California,2013,63636
+Pinellas Park,Florida,2013,50339
+Pittsburg,California,2013,66668
+Pittsburgh,Pennsylvania,2013,307022
+Placentia,California,2013,52136
+Plainfield,New Jersey,2013,50333
+Plano,Texas,2013,274587
+Plantation,Florida,2013,90077
+Pleasanton,California,2013,74060
+Plymouth,Minnesota,2013,74101
+Pocatello,Idaho,2013,54470
+Pomona,California,2013,151137
+Pompano Beach,Florida,2013,104218
+Pontiac,Michigan,2013,60388
+Port Arthur,Texas,2013,54746
+Port Orange,Florida,2013,57510
+Port St. Lucie,Florida,2013,169438
+Porterville,California,2013,59038
+Portland,Maine,2013,66388
+Portland,Oregon,2013,609970
+Portsmouth,Virginia,2013,96071
+Providence,Rhode Island,2013,178784
+Provo,Utah,2013,116127
+Pueblo,Colorado,2013,107760
+Quincy,Massachusetts,2013,93484
+Racine,Wisconsin,2013,78074
+Raleigh,North Carolina,2013,431102
+Rancho Cordova,California,2013,67740
+Rancho Cucamonga,California,2013,170910
+Rapid City,South Dakota,2013,71167
+Reading,Pennsylvania,2013,88295
+Redding,California,2013,90775
+Redlands,California,2013,69837
+Redmond,Washington,2013,57657
+Redondo Beach,California,2013,67666
+Redwood City,California,2013,81075
+Reno,Nevada,2013,231161
+Renton,Washington,2013,97183
+Revere,Massachusetts,2013,53731
+Rialto,California,2013,101603
+Richardson,Texas,2013,105180
+Richland,Washington,2013,52169
+Richmond,California,2013,107119
+Richmond,Virginia,2013,213815
+Rio Rancho,New Mexico,2013,91329
+Riverside,California,2013,315667
+Roanoke,Virginia,2013,98860
+Rochester Hills,Michigan,2013,73118
+Rochester,Minnesota,2013,110408
+Rochester,New York,2013,210454
+Rock Hill,South Carolina,2013,68438
+Rockford,Illinois,2013,150629
+Rocklin,California,2013,59622
+Rockville,Maryland,2013,63852
+Rocky Mount,North Carolina,2013,56335
+Rogers,Arkansas,2013,60576
+Rosemead,California,2013,54435
+Roseville,California,2013,126659
+Roswell,Georgia,2013,93669
+Round Rock,Texas,2013,109507
+Rowlett,Texas,2013,58116
+Royal Oak,Michigan,2013,58565
+Sacramento,California,2013,478360
+Saginaw,Michigan,2013,50287
+Salem,Oregon,2013,158843
+Salinas,California,2013,155097
+Salt Lake City,Utah,2013,191661
+Sammamish,Washington,2013,61063
+San Angelo,Texas,2013,97068
+San Antonio,Texas,2013,1408787
+San Bernardino,California,2013,213111
+San Buenaventura (Ventura),California,2013,109419
+San Clemente,California,2013,64862
+San Diego,California,2013,1355951
+San Francisco,California,2013,839841
+San Jose,California,2013,1001253
+San Leandro,California,2013,88102
+San Marcos,California,2013,89494
+San Marcos,Texas,2013,54350
+San Mateo,California,2013,101385
+San Rafael,California,2013,59005
+San Ramon,California,2013,73595
+Sandy Springs,Georgia,2013,99381
+Sandy,Utah,2013,92459
+Sanford,Florida,2013,56260
+Santa Ana,California,2013,333887
+Santa Barbara,California,2013,90127
+Santa Clara,California,2013,120590
+Santa Clarita,California,2013,207123
+Santa Cruz,California,2013,62749
+Santa Fe,New Mexico,2013,82822
+Santa Maria,California,2013,102112
+Santa Monica,California,2013,92115
+Santa Rosa,California,2013,178933
+Santee,California,2013,56179
+Sarasota,Florida,2013,53151
+Savannah,Georgia,2013,142660
+Schaumburg vi,Illinois,2013,74935
+Schenectady,New York,2013,65841
+Scottsdale,Arizona,2013,228952
+Scranton,Pennsylvania,2013,75838
+Seattle,Washington,2013,654224
+Shawnee,Kansas,2013,64241
+Shoreline,Washington,2013,54857
+Shreveport,Louisiana,2013,199923
+Simi Valley,California,2013,125939
+Sioux City,Iowa,2013,82610
+Sioux Falls,South Dakota,2013,163472
+Skokie vi,Illinois,2013,65355
+Smyrna,Georgia,2013,53235
+Smyrna,Tennessee,2013,43497
+Somerville,Massachusetts,2013,78526
+South Bend,Indiana,2013,101165
+South Fulton,Georgia,2013,91749
+South Gate,California,2013,94737
+South Jordan,Utah,2013,59185
+South San Francisco,California,2013,66308
+Southaven,Mississippi,2013,50963
+Southfield,Michigan,2013,73232
+Sparks,Nevada,2013,93296
+Spokane Valley,Washington,2013,91345
+Spokane,Washington,2013,209745
+Springdale,Arkansas,2013,75136
+Springfield,Illinois,2013,117637
+Springfield,Massachusetts,2013,154186
+Springfield,Missouri,2013,163810
+Springfield,Ohio,2013,59870
+Springfield,Oregon,2013,60007
+St. Charles,Missouri,2013,68065
+St. Clair Shores,Michigan,2013,60187
+St. Cloud,Florida,2013,42532
+St. Cloud,Minnesota,2013,66103
+St. George,Utah,2013,76284
+St. Joseph,Missouri,2013,77221
+St. Louis,Missouri,2013,318459
+St. Paul,Minnesota,2013,295045
+St. Peters,Missouri,2013,54798
+St. Petersburg,Florida,2013,248492
+Stamford,Connecticut,2013,126318
+Sterling Heights,Michigan,2013,131528
+Stillwater,Oklahoma,2013,47404
+Stockton,California,2013,297172
+Stonecrest,Georgia,2013,52071
+Suffolk,Virginia,2013,85765
+Sugar Land,Texas,2013,113501
+Summerville,South Carolina,2013,45846
+Sunnyvale,California,2013,148121
+Sunrise,Florida,2013,89776
+Surprise,Arizona,2013,125114
+Syracuse,New York,2013,145096
+Tacoma,Washington,2013,202130
+Tallahassee,Florida,2013,185783
+Tamarac,Florida,2013,62724
+Tampa,Florida,2013,352426
+Taunton,Massachusetts,2013,56164
+Taylor,Michigan,2013,61960
+Taylorsville,Utah,2013,60563
+Temecula,California,2013,106102
+Tempe,Arizona,2013,170807
+Temple,Texas,2013,69531
+Terre Haute,Indiana,2013,60903
+Thornton,Colorado,2013,127096
+Thousand Oaks,California,2013,128287
+Tigard,Oregon,2013,50368
+Tinley Park vi,Illinois,2013,57404
+Toledo,Ohio,2013,282303
+Topeka,Kansas,2013,127726
+Torrance,California,2013,146791
+Tracy,California,2013,84892
+Trenton,New Jersey,2013,84524
+Troy,Michigan,2013,83011
+Troy,New York,2013,49913
+Tucson,Arizona,2013,532956
+Tulare,California,2013,60951
+Tulsa,Oklahoma,2013,398649
+Turlock,California,2013,70200
+Tuscaloosa,Alabama,2013,94378
+Tustin,California,2013,78166
+Tyler,Texas,2013,99784
+Union City,California,2013,72586
+Union City,New Jersey,2013,68222
+Upland,California,2013,75229
+Urban Honolul,Hawaii,2013,349275
+Utica,New York,2013,61683
+Vacaville,California,2013,94047
+Valdosta,Georgia,2013,56094
+Vallejo,California,2013,118575
+Vancouver,Washington,2013,171594
+Victoria,Texas,2013,64992
+Victorville,California,2013,120783
+Vineland,New Jersey,2013,60879
+Virginia Beach,Virginia,2013,447732
+Visalia,California,2013,127379
+Vista,California,2013,96418
+Waco,Texas,2013,129065
+Walnut Creek,California,2013,66840
+Waltham,Massachusetts,2013,62311
+Warner Robins,Georgia,2013,72727
+Warren,Michigan,2013,135305
+Warwick,Rhode Island,2013,81535
+Washington,District of Columbia,2013,650431
+Waterbury,Connecticut,2013,109751
+Waterloo,Iowa,2013,68606
+Watsonville,California,2013,52420
+Waukegan,Illinois,2013,88884
+Waukesha,Wisconsin,2013,71779
+Wellington vi,Florida,2013,60313
+West Allis,Wisconsin,2013,60815
+West Covina,California,2013,107424
+West Des Moines,Iowa,2013,59708
+West Haven,Connecticut,2013,55132
+West Jordan,Utah,2013,109812
+West New York,New Jersey,2013,51256
+West Palm Beach,Florida,2013,103443
+West Sacramento,California,2013,50009
+West Valley City,Utah,2013,133814
+Westland,Michigan,2013,82664
+Westminster,California,2013,91660
+Westminster,Colorado,2013,110458
+Weston,Florida,2013,68349
+Weymouth Town,Massachusetts,2013,55458
+Wheaton,Illinois,2013,53751
+White Plains,New York,2013,57659
+Whittier,California,2013,86383
+Wichita Falls,Texas,2013,104955
+Wichita,Kansas,2013,387240
+Wilmington,Delaware,2013,71167
+Wilmington,North Carolina,2013,111671
+Winston-Salem,North Carolina,2013,235741
+Woodbury,Minnesota,2013,65519
+Woodland,California,2013,56731
+Worcester,Massachusetts,2013,183458
+Wylie,Texas,2013,45535
+Wyoming,Michigan,2013,74306
+Yakima,Washington,2013,92765
+Yonkers,New York,2013,198809
+Yorba Linda,California,2013,66845
+Youngstown,Ohio,2013,65473
+Yuba City,California,2013,65549
+Yucaipa,California,2013,52579
+Yuma,Arizona,2013,93075
+Abilene,Texas,2014,120647
+Akron,Ohio,2014,198937
+Alameda,California,2014,77550
+Albany,Georgia,2014,75914
+Albany,New York,2014,98370
+Albany,Oregon,2014,51352
+Albuquerque,New Mexico,2014,557702
+Alexandria,Virginia,2014,151431
+Alhambra,California,2014,84865
+Aliso Viejo,California,2014,50014
+Allen,Texas,2014,94168
+Allentown,Pennsylvania,2014,119181
+Alpharetta,Georgia,2014,62704
+Amarillo,Texas,2014,197188
+Ames,Iowa,2014,64765
+Anaheim,California,2014,345223
+Anchorage municip,Alaska,2014,299927
+Anderson,Indiana,2014,55358
+Ankeny,Iowa,2014,53299
+Ann Arbor,Michigan,2014,118733
+Antioch,California,2014,109119
+Apex,North Carolina,2014,43960
+Apopka,Florida,2014,47761
+Apple Valley,Minnesota,2014,50204
+Apple Valley,California,2014,71193
+Appleton,Wisconsin,2014,74000
+Arcadia,California,2014,57593
+Arlington Heights vi,Illinois,2014,76190
+Arlington,Texas,2014,383074
+Arvada,Colorado,2014,113679
+Asheville,North Carolina,2014,87855
+Athens-Clarke County unified government (bal,Georgia,2014,119131
+Atlanta,Georgia,2014,460998
+Auburn,Alabama,2014,60421
+Auburn,Washington,2014,76139
+Augusta-Richmond County consolidated government (bal,Georgia,2014,196473
+Aurora,Colorado,2014,352391
+Aurora,Illinois,2014,200245
+Austin,Texas,2014,901734
+Avondale,Arizona,2014,80772
+Bakersfield,California,2014,367705
+Baldwin Park,California,2014,76450
+Baltimore,Maryland,2014,623165
+Bartlett,Tennessee,2014,58334
+Baton Rouge,Louisiana,2014,227774
+Battle Creek,Michigan,2014,51773
+Bayonne,New Jersey,2014,65397
+Baytown,Texas,2014,76040
+Beaumont,Texas,2014,117769
+Beaverton,Oregon,2014,94751
+Bellevue,Nebraska,2014,52715
+Bellevue,Washington,2014,136445
+Bellflower,California,2014,77587
+Bellingham,Washington,2014,83440
+Bend,Oregon,2014,83493
+Bentonville,Arkansas,2014,41966
+Berkeley,California,2014,118735
+Berwyn,Illinois,2014,56812
+Bethlehem,Pennsylvania,2014,74955
+Billings,Montana,2014,108458
+Birmingham,Alabama,2014,211109
+Bismarck,North Dakota,2014,68915
+Blaine,Minnesota,2014,61408
+Bloomington,Illinois,2014,78881
+Bloomington,Indiana,2014,83184
+Bloomington,Minnesota,2014,85068
+Blue Springs,Missouri,2014,53489
+Boca Raton,Florida,2014,91296
+Boise City,Idaho,2014,219471
+Bolingbrook vi,Illinois,2014,74065
+Bonita Springs,Florida,2014,49361
+Bossier City,Louisiana,2014,67009
+Boston,Massachusetts,2014,663017
+Boulder,Colorado,2014,105482
+Bowie,Maryland,2014,57811
+Bowling Green,Kentucky,2014,62999
+Boynton Beach,Florida,2014,73097
+Bradenton,Florida,2014,52259
+Brentwood,California,2014,56894
+Bridgeport,Connecticut,2014,147892
+Bristol,Connecticut,2014,60576
+Brockton,Massachusetts,2014,94863
+Broken Arrow,Oklahoma,2014,105028
+Brookhaven,Georgia,2014,51959
+Brooklyn Park,Minnesota,2014,78827
+Broomfield,Colorado,2014,61769
+Brownsville,Texas,2014,182009
+Bryan,Texas,2014,80674
+Buckeye,Arizona,2014,59097
+Buena Park,California,2014,82694
+Buffalo,New York,2014,259584
+Burbank,California,2014,104508
+Burien,Washington,2014,50364
+Burlington,North Carolina,2014,51270
+Burnsville,Minnesota,2014,61321
+Caldwell,Idaho,2014,50129
+Camarillo,California,2014,66570
+Cambridge,Massachusetts,2014,113019
+Camden,New Jersey,2014,75856
+Canton,Ohio,2014,72281
+Cape Coral,Florida,2014,168345
+Carlsbad,California,2014,111688
+Carmel,Indiana,2014,86459
+Carrollton,Texas,2014,128245
+Carson,Nevada,2014,54096
+Carson,California,2014,92767
+Cary,North Carolina,2014,155379
+Casa Grande,Arizona,2014,51405
+Casper,Wyoming,2014,59660
+Castle Rock,Colorado,2014,55163
+Cathedral City,California,2014,53238
+Cedar Park,Texas,2014,67223
+Cedar Rapids,Iowa,2014,129499
+Centennial,Colorado,2014,107478
+Cerritos,California,2014,49586
+Champaign,Illinois,2014,84967
+Chandler,Arizona,2014,240893
+Chapel Hill,North Carolina,2014,59096
+Charleston,South Carolina,2014,129654
+Charleston,West Virginia,2014,50142
+Charlotte,North Carolina,2014,807589
+Chattanooga,Tennessee,2014,174461
+Chesapeake,Virginia,2014,233380
+Cheyenne,Wyoming,2014,62259
+Chicago,Illinois,2014,2728524
+Chico,California,2014,89545
+Chicopee,Massachusetts,2014,56233
+Chino Hills,California,2014,76571
+Chino,California,2014,84367
+Chula Vista,California,2014,260069
+Cicero,Illinois,2014,84438
+Cincinnati,Ohio,2014,298509
+Citrus Heights,California,2014,85793
+Clarksville,Tennessee,2014,145842
+Clearwater,Florida,2014,111065
+Cleveland,Ohio,2014,390850
+Clifton,New Jersey,2014,85177
+Clovis,California,2014,101853
+Coconut Creek,Florida,2014,58519
+Coeur d'Alene,Idaho,2014,47626
+College Station,Texas,2014,103497
+Collierville,Tennessee,2014,48757
+Colorado Springs,Colorado,2014,441960
+Colton,California,2014,53741
+Columbia,Missouri,2014,117034
+Columbia,South Carolina,2014,131785
+Columbus,Georgia,2014,200552
+Columbus,Ohio,2014,841740
+Commerce City,Colorado,2014,51551
+Compton,California,2014,97717
+Concord,California,2014,127176
+Concord,North Carolina,2014,85345
+Conroe,Texas,2014,73692
+Conway,Arkansas,2014,64099
+Coon Rapids,Minnesota,2014,62163
+Coral Gables,Florida,2014,50637
+Coral Springs,Florida,2014,128366
+Corona,California,2014,160656
+Corpus Christi,Texas,2014,320863
+Corvallis,Oregon,2014,55522
+Costa Mesa,California,2014,112577
+Council Bluffs,Iowa,2014,62390
+Cranston,Rhode Island,2014,81189
+Cupertino,California,2014,60646
+Dallas,Texas,2014,1279679
+Daly City,California,2014,105972
+Danbury,Connecticut,2014,83722
+Davenport,Iowa,2014,102360
+Davie,Florida,2014,99257
+Davis,California,2014,66576
+Dayton,Ohio,2014,141118
+Daytona Beach,Florida,2014,63544
+DeSoto,Texas,2014,52118
+Dearborn Heights,Michigan,2014,56602
+Dearborn,Michigan,2014,95985
+Decatur,Alabama,2014,55246
+Decatur,Illinois,2014,74163
+Deerfield Beach,Florida,2014,78598
+Delano,California,2014,52468
+Delray Beach,Florida,2014,65040
+Deltona,Florida,2014,86293
+Denton,Texas,2014,128309
+Denver,Colorado,2014,664870
+Des Moines,Iowa,2014,214390
+Des Plaines,Illinois,2014,59138
+Detroit,Michigan,2014,682669
+Diamond Bar,California,2014,56318
+Doral,Florida,2014,54177
+Dothan,Alabama,2014,68009
+Downey,California,2014,113195
+Dublin,California,2014,54581
+Dubuque,Iowa,2014,58573
+Duluth,Minnesota,2014,86089
+Durham,North Carolina,2014,253316
+Eagan,Minnesota,2014,66008
+East Orange,New Jersey,2014,64285
+Eastvale,California,2014,57734
+Eau Claire,Wisconsin,2014,67747
+Eden Prairie,Minnesota,2014,63349
+Edina,Minnesota,2014,49710
+Edinburg,Texas,2014,90505
+Edmond,Oklahoma,2014,88656
+El Cajon,California,2014,102777
+El Monte,California,2014,115685
+El Paso,Texas,2014,677745
+Elgin,Illinois,2014,111054
+Elizabeth,New Jersey,2014,127698
+Elk Grove,California,2014,162800
+Elkhart,Indiana,2014,52315
+Elyria,Ohio,2014,54083
+Encinitas,California,2014,62048
+Enid,Oklahoma,2014,51134
+Erie,Pennsylvania,2014,99712
+Escondido,California,2014,149799
+Eugene,Oregon,2014,160284
+Euless,Texas,2014,53587
+Evanston,Illinois,2014,76034
+Evansville,Indiana,2014,120154
+Everett,Washington,2014,106580
+Fairfield,California,2014,110735
+Fall River,Massachusetts,2014,89153
+Fargo,North Dakota,2014,115648
+Farmington Hills,Michigan,2014,81749
+Fayetteville,Arkansas,2014,80424
+Fayetteville,North Carolina,2014,210079
+Federal Way,Washington,2014,93532
+Fishers,Indiana,2014,86924
+Flagstaff,Arizona,2014,68633
+Flint,Michigan,2014,98565
+Florissant,Missouri,2014,52213
+Flower Mound,Texas,2014,69443
+Folsom,California,2014,75039
+Fontana,California,2014,204152
+Fort Collins,Colorado,2014,156458
+Fort Lauderdale,Florida,2014,175228
+Fort Myers,Florida,2014,70470
+Fort Smith,Arkansas,2014,87154
+Fort Wayne,Indiana,2014,260614
+Fort Worth,Texas,2014,815135
+Fountain Valley,California,2014,56715
+Framingham,Massachusetts,2014,70787
+Franklin,Tennessee,2014,70533
+Frederick,Maryland,2014,68288
+Fremont,California,2014,228397
+Fresno,California,2014,514452
+Frisco,Texas,2014,144878
+Fullerton,California,2014,138949
+Gainesville,Florida,2014,127340
+Gaithersburg,Maryland,2014,66540
+Galveston,Texas,2014,49296
+Garden Grove,California,2014,174556
+Gardena,California,2014,59895
+Garland,Texas,2014,235761
+Gary,Indiana,2014,78059
+Gastonia,North Carolina,2014,73222
+Georgetown,Texas,2014,58937
+Gilbert,Arizona,2014,227294
+Gilroy,California,2014,52576
+Glendale,Arizona,2014,240020
+Glendale,California,2014,198420
+Glendora,California,2014,51097
+Goodyear,Arizona,2014,72347
+Grand Forks,North Dakota,2014,55800
+Grand Island,Nebraska,2014,50894
+Grand Junction,Colorado,2014,59856
+Grand Prairie,Texas,2014,185970
+Grand Rapids,Michigan,2014,194352
+Grapevine,Texas,2014,50805
+Great Falls,Montana,2014,59343
+Greeley,Colorado,2014,98649
+Green Bay,Wisconsin,2014,104671
+Greensboro,North Carolina,2014,282275
+Greenville,North Carolina,2014,89292
+Greenville,South Carolina,2014,61363
+Greenwood,Indiana,2014,54512
+Gresham,Oregon,2014,110034
+Gulfport,Mississippi,2014,71150
+Hamilton,Ohio,2014,62398
+Hammond,Indiana,2014,78479
+Hampton,Virginia,2014,137597
+Hanford,California,2014,55059
+Harlingen,Texas,2014,65610
+Harrisonburg,Virginia,2014,52558
+Hartford,Connecticut,2014,124683
+Haverhill,Massachusetts,2014,62620
+Hawthorne,California,2014,86831
+Hayward,California,2014,154350
+Hemet,California,2014,82578
+Hempstead vi,New York,2014,55496
+Henderson,Nevada,2014,274474
+Hendersonville,Tennessee,2014,54856
+Hesperia,California,2014,92169
+Hialeah,Florida,2014,235145
+High Point,North Carolina,2014,108796
+Highland,California,2014,54353
+Hillsboro,Oregon,2014,99873
+Hoboken,New Jersey,2014,52480
+Hoffman Estates vi,Illinois,2014,52368
+Hollywood,Florida,2014,147039
+Homestead,Florida,2014,65951
+Hoover,Alabama,2014,83661
+Houston,Texas,2014,2240982
+Huntersville,North Carolina,2014,51595
+Huntington Beach,California,2014,199757
+Huntington Park,California,2014,58952
+Huntsville,Alabama,2014,187659
+Idaho Falls,Idaho,2014,58630
+Independence,Missouri,2014,117504
+Indianapolis city (bal,Indiana,2014,849634
+Indio,California,2014,85221
+Inglewood,California,2014,110971
+Iowa City,Iowa,2014,72838
+Irvine,California,2014,247283
+Irving,Texas,2014,232736
+Jackson,Mississippi,2014,172030
+Jackson,Tennessee,2014,67072
+Jacksonville,Florida,2014,852560
+Jacksonville,North Carolina,2014,74034
+Janesville,Wisconsin,2014,63841
+Jersey City,New Jersey,2014,258794
+Johns Creek,Georgia,2014,82762
+Johnson City,Tennessee,2014,65097
+Joliet,Illinois,2014,147767
+Jonesboro,Arkansas,2014,72282
+Joplin,Missouri,2014,49385
+Jupiter,Florida,2014,60788
+Jurupa Valley,California,2014,100099
+Kalamazoo,Michigan,2014,76104
+Kansas City,Kansas,2014,150187
+Kansas City,Missouri,2014,470678
+Kenner,Louisiana,2014,66833
+Kennewick,Washington,2014,77366
+Kenosha,Wisconsin,2014,99785
+Kent,Washington,2014,125794
+Kentwood,Michigan,2014,50873
+Kettering,Ohio,2014,55565
+Killeen,Texas,2014,137657
+Kingsport,Tennessee,2014,52838
+Kirkland,Washington,2014,86078
+Kissimmee,Florida,2014,66541
+Knoxville,Tennessee,2014,183031
+Kokomo,Indiana,2014,58027
+La Crosse,Wisconsin,2014,52148
+La Habra,California,2014,61734
+La Mesa,California,2014,58892
+Lacey,Washington,2014,45316
+Lafayette,Indiana,2014,71012
+Lafayette,Louisiana,2014,126000
+Laguna Niguel,California,2014,65129
+Lake Charles,Louisiana,2014,74325
+Lake Elsinore,California,2014,60149
+Lake Forest,California,2014,79740
+Lake Havasu City,Arizona,2014,53042
+Lakeland,Florida,2014,102082
+Lakeville,Minnesota,2014,59991
+Lakewood,California,2014,80977
+Lakewood,Colorado,2014,149481
+Lakewood,Ohio,2014,51092
+Lakewood,Washington,2014,58582
+Lancaster,California,2014,159753
+Lancaster,Pennsylvania,2014,59483
+Lansing,Michigan,2014,115102
+Laredo,Texas,2014,253017
+Largo,Florida,2014,80761
+Las Cruces,New Mexico,2014,101275
+Las Vegas,Nevada,2014,608275
+Lauderhill,Florida,2014,70133
+Lawrence,Kansas,2014,92719
+Lawrence,Massachusetts,2014,79208
+Lawton,Oklahoma,2014,96691
+Layton,Utah,2014,72353
+League City,Texas,2014,94205
+Leander,Texas,2014,35332
+Lee's Summit,Missouri,2014,93731
+Leesburg,Virginia,2014,49326
+Lehi,Utah,2014,57011
+Lenexa,Kansas,2014,50926
+Lewisville,Texas,2014,102841
+Lexington-Fayette urban c,Kentucky,2014,311955
+Lincoln,Nebraska,2014,273945
+Little Elm,Texas,2014,35793
+Little Rock,Arkansas,2014,197533
+Livermore,California,2014,87058
+Livonia,Michigan,2014,95238
+Lodi,California,2014,63637
+Logan,Utah,2014,49074
+Long Beach,California,2014,469539
+Longmont,Colorado,2014,90635
+Longview,Texas,2014,81351
+Lorain,Ohio,2014,63759
+Los Angeles,California,2014,3913260
+Louisville/Jefferson County metro government (bal,Kentucky,2014,612509
+Loveland,Colorado,2014,72248
+Lowell,Massachusetts,2014,110541
+Lubbock,Texas,2014,244071
+Lynchburg,Virginia,2014,78155
+Lynn,Massachusetts,2014,92599
+Lynwood,California,2014,71259
+Macon-Bibb C,Georgia,2014,154333
+Madera,California,2014,63196
+Madison,Alabama,2014,46574
+Madison,Wisconsin,2014,245870
+Malden,Massachusetts,2014,61093
+Manchester,New Hampshire,2014,110951
+Manhattan,Kansas,2014,55685
+Mansfield,Texas,2014,62494
+Manteca,California,2014,73121
+Maple Grove,Minnesota,2014,66976
+Margate,Florida,2014,55686
+Maricopa,Arizona,2014,45546
+Marietta,Georgia,2014,59672
+Marysville,Washington,2014,64929
+McAllen,Texas,2014,139027
+McKinney,Texas,2014,157139
+Medford,Massachusetts,2014,57572
+Medford,Oregon,2014,77723
+Melbourne,Florida,2014,78312
+Memphis,Tennessee,2014,655936
+Menifee,California,2014,84708
+Merced,California,2014,81198
+Meriden,Connecticut,2014,60409
+Meridian,Idaho,2014,89151
+Mesa,Arizona,2014,473390
+Mesquite,Texas,2014,144495
+Methuen Town,Massachusetts,2014,49388
+Miami Beach,Florida,2014,91452
+Miami Gardens,Florida,2014,112036
+Miami,Florida,2014,429365
+Midland,Texas,2014,128446
+Midwest City,Oklahoma,2014,57125
+Milford city (bal,Connecticut,2014,51988
+Millcreek,Utah,2014,60211
+Milpitas,California,2014,73608
+Milwaukee,Wisconsin,2014,600743
+Minneapolis,Minnesota,2014,407122
+Minnetonka,Minnesota,2014,51565
+Miramar,Florida,2014,134504
+Mission Viejo,California,2014,96716
+Mission,Texas,2014,82482
+Missoula,Montana,2014,69683
+Missouri City,Texas,2014,71054
+Mobile,Alabama,2014,192979
+Modesto,California,2014,207781
+Montebello,California,2014,63380
+Monterey Park,California,2014,60890
+Montgomery,Alabama,2014,201435
+Moore,Oklahoma,2014,59018
+Moreno Valley,California,2014,201874
+Mount Pleasant,South Carolina,2014,77400
+Mount Prospect vi,Illinois,2014,55798
+Mount Vernon,New York,2014,68224
+Mountain View,California,2014,79185
+Muncie,Indiana,2014,69611
+Murfreesboro,Tennessee,2014,120562
+Murrieta,California,2014,108089
+Nampa,Idaho,2014,87876
+Napa,California,2014,79449
+Naperville,Illinois,2014,146228
+Nashua,New Hampshire,2014,87664
+Nashville-Davidson metropolitan government (bal,Tennessee,2014,645820
+National City,California,2014,60168
+New Bedford,Massachusetts,2014,95132
+New Braunfels,Texas,2014,65890
+New Britain,Connecticut,2014,73055
+New Brunswick,New Jersey,2014,55899
+New Haven,Connecticut,2014,130618
+New Orleans,Louisiana,2014,383930
+New Rochelle,New York,2014,79355
+New York,New York,2014,8437387
+Newark,New Jersey,2014,278991
+Newark,Ohio,2014,48286
+Newport Beach,California,2014,86773
+Newport News,Virginia,2014,181576
+Newton,Massachusetts,2014,88295
+Niagara Falls,New York,2014,49215
+Noblesville,Indiana,2014,57589
+Norfolk,Virginia,2014,246587
+Normal,Illinois,2014,54514
+Norman,Oklahoma,2014,117693
+North Charleston,South Carolina,2014,106832
+North Las Vegas,Nevada,2014,228806
+North Little Rock,Arkansas,2014,66664
+North Miami,Florida,2014,60909
+North Port,Florida,2014,60380
+North Richland Hills,Texas,2014,68443
+Norwalk,California,2014,106282
+Norwalk,Connecticut,2014,88047
+Novato,California,2014,54879
+Novi,Michigan,2014,58639
+O'Fallon,Missouri,2014,84170
+Oak Lawn vi,Illinois,2014,57134
+Oak Park vi,Illinois,2014,52167
+Oakland,California,2014,413156
+Ocala,Florida,2014,57187
+Oceanside,California,2014,174259
+Odessa,Texas,2014,114620
+Ogden,Utah,2014,84360
+Oklahoma City,Oklahoma,2014,621583
+Olathe,Kansas,2014,132839
+Olympia,Washington,2014,49325
+Omaha,Nebraska,2014,461386
+Ontario,California,2014,168199
+Orange,California,2014,139189
+Orem,Utah,2014,91375
+Orland Park vi,Illinois,2014,58657
+Orlando,Florida,2014,262507
+Oshkosh,Wisconsin,2014,66672
+Overland Park,Kansas,2014,184011
+Owensboro,Kentucky,2014,58398
+Oxnard,California,2014,204626
+Palatine vi,Illinois,2014,69465
+Palm Bay,Florida,2014,106252
+Palm Beach Gardens,Florida,2014,52575
+Palm Coast,Florida,2014,80039
+Palm Desert,California,2014,50933
+Palmdale,California,2014,156929
+Palo Alto,California,2014,66901
+Paramount,California,2014,54949
+Parker,Colorado,2014,49501
+Parma,Ohio,2014,80166
+Pasadena,California,2014,139665
+Pasadena,Texas,2014,154509
+Pasco,Washington,2014,69563
+Passaic,New Jersey,2014,70267
+Paterson,New Jersey,2014,145970
+Pawtucket,Rhode Island,2014,71691
+Peabody,Massachusetts,2014,52489
+Pearland,Texas,2014,106192
+Pembroke Pines,Florida,2014,164103
+Pensacola,Florida,2014,52433
+Peoria,Arizona,2014,157780
+Peoria,Illinois,2014,115916
+Perris,California,2014,73561
+Perth Amboy,New Jersey,2014,51853
+Petaluma,California,2014,59725
+Pflugerville,Texas,2014,54779
+Pharr,Texas,2014,75636
+Philadelphia,Pennsylvania,2014,1565604
+Phoenix,Arizona,2014,1556552
+Pico Rivera,California,2014,63696
+Pinellas Park,Florida,2014,51219
+Pittsburg,California,2014,68003
+Pittsburgh,Pennsylvania,2014,306092
+Placentia,California,2014,52150
+Plainfield,New Jersey,2014,50430
+Plano,Texas,2014,278062
+Plantation,Florida,2014,91007
+Pleasanton,California,2014,77504
+Plymouth,Minnesota,2014,75188
+Pocatello,Idaho,2014,54423
+Pomona,California,2014,152325
+Pompano Beach,Florida,2014,105549
+Pontiac,Michigan,2014,60408
+Port Arthur,Texas,2014,54565
+Port Orange,Florida,2014,58993
+Port St. Lucie,Florida,2014,172721
+Porterville,California,2014,59184
+Portland,Maine,2014,66835
+Portland,Oregon,2014,620647
+Portsmouth,Virginia,2014,95826
+Providence,Rhode Island,2014,179217
+Provo,Utah,2014,115397
+Pueblo,Colorado,2014,107921
+Quincy,Massachusetts,2014,93730
+Racine,Wisconsin,2014,77905
+Raleigh,North Carolina,2014,439347
+Rancho Cordova,California,2014,69420
+Rancho Cucamonga,California,2014,173355
+Rapid City,South Dakota,2014,72431
+Reading,Pennsylvania,2014,88204
+Redding,California,2014,91151
+Redlands,California,2014,70264
+Redmond,Washington,2014,59482
+Redondo Beach,California,2014,67728
+Redwood City,California,2014,82793
+Reno,Nevada,2014,234301
+Renton,Washington,2014,98709
+Revere,Massachusetts,2014,53844
+Rialto,California,2014,102107
+Richardson,Texas,2014,109163
+Richland,Washington,2014,52871
+Richmond,California,2014,107969
+Richmond,Virginia,2014,217003
+Rio Rancho,New Mexico,2014,91957
+Riverside,California,2014,317887
+Roanoke,Virginia,2014,99443
+Rochester Hills,Michigan,2014,73367
+Rochester,Minnesota,2014,111183
+Rochester,New York,2014,209626
+Rock Hill,South Carolina,2014,69334
+Rockford,Illinois,2014,149415
+Rocklin,California,2014,60080
+Rockville,Maryland,2014,65480
+Rocky Mount,North Carolina,2014,55919
+Rogers,Arkansas,2014,62003
+Rosemead,California,2014,54482
+Roseville,California,2014,128304
+Roswell,Georgia,2014,93610
+Round Rock,Texas,2014,112613
+Rowlett,Texas,2014,58503
+Royal Oak,Michigan,2014,58768
+Sacramento,California,2014,483006
+Saginaw,Michigan,2014,49811
+Salem,Oregon,2014,160721
+Salinas,California,2014,155913
+Salt Lake City,Utah,2014,191398
+Sammamish,Washington,2014,62252
+San Angelo,Texas,2014,98592
+San Antonio,Texas,2014,1435839
+San Bernardino,California,2014,213588
+San Buenaventura (Ventura),California,2014,109641
+San Clemente,California,2014,64979
+San Diego,California,2014,1376725
+San Francisco,California,2014,851116
+San Jose,California,2014,1014418
+San Leandro,California,2014,89239
+San Marcos,California,2014,92471
+San Marcos,Texas,2014,58907
+San Mateo,California,2014,102773
+San Rafael,California,2014,59146
+San Ramon,California,2014,74375
+Sandy Springs,Georgia,2014,101386
+Sandy,Utah,2014,93215
+Sanford,Florida,2014,57624
+Santa Ana,California,2014,333669
+Santa Barbara,California,2014,90880
+Santa Clara,California,2014,122097
+Santa Clarita,California,2014,208180
+Santa Cruz,California,2014,63197
+Santa Fe,New Mexico,2014,83058
+Santa Maria,California,2014,103096
+Santa Monica,California,2014,92180
+Santa Rosa,California,2014,180921
+Santee,California,2014,56867
+Sarasota,Florida,2014,54019
+Savannah,Georgia,2014,143949
+Schaumburg vi,Illinois,2014,74940
+Schenectady,New York,2014,65863
+Scottsdale,Arizona,2014,234053
+Scranton,Pennsylvania,2014,75449
+Seattle,Washington,2014,670925
+Shawnee,Kansas,2014,64452
+Shoreline,Washington,2014,55317
+Shreveport,Louisiana,2014,197740
+Simi Valley,California,2014,126338
+Sioux City,Iowa,2014,82546
+Sioux Falls,South Dakota,2014,167048
+Skokie vi,Illinois,2014,65263
+Smyrna,Georgia,2014,54582
+Smyrna,Tennessee,2014,45709
+Somerville,Massachusetts,2014,78939
+South Bend,Indiana,2014,101411
+South Fulton,Georgia,2014,92495
+South Gate,California,2014,94831
+South Jordan,Utah,2014,62501
+South San Francisco,California,2014,66895
+Southaven,Mississippi,2014,51724
+Southfield,Michigan,2014,73448
+Sparks,Nevada,2014,94547
+Spokane Valley,Washington,2014,92751
+Spokane,Washington,2014,210612
+Springdale,Arkansas,2014,76264
+Springfield,Illinois,2014,117501
+Springfield,Massachusetts,2014,154513
+Springfield,Missouri,2014,164854
+Springfield,Ohio,2014,59730
+Springfield,Oregon,2014,60160
+St. Charles,Missouri,2014,68479
+St. Clair Shores,Michigan,2014,60091
+St. Cloud,Florida,2014,44631
+St. Cloud,Minnesota,2014,66554
+St. George,Utah,2014,77960
+St. Joseph,Missouri,2014,76995
+St. Louis,Missouri,2014,317395
+St. Paul,Minnesota,2014,297674
+St. Peters,Missouri,2014,55984
+St. Petersburg,Florida,2014,252282
+Stamford,Connecticut,2014,127974
+Sterling Heights,Michigan,2014,132148
+Stillwater,Oklahoma,2014,48439
+Stockton,California,2014,300670
+Stonecrest,Georgia,2014,52599
+Suffolk,Virginia,2014,86892
+Sugar Land,Texas,2014,116815
+Summerville,South Carolina,2014,47256
+Sunnyvale,California,2014,149856
+Sunrise,Florida,2014,90687
+Surprise,Arizona,2014,127982
+Syracuse,New York,2014,144385
+Tacoma,Washington,2014,203762
+Tallahassee,Florida,2014,187286
+Tamarac,Florida,2014,63198
+Tampa,Florida,2014,358754
+Taunton,Massachusetts,2014,56718
+Taylor,Michigan,2014,62075
+Taylorsville,Utah,2014,60396
+Temecula,California,2014,108713
+Tempe,Arizona,2014,175730
+Temple,Texas,2014,70187
+Terre Haute,Indiana,2014,60763
+Thornton,Colorado,2014,129584
+Thousand Oaks,California,2014,128729
+Tigard,Oregon,2014,50686
+Tinley Park vi,Illinois,2014,57409
+Toledo,Ohio,2014,280672
+Topeka,Kansas,2014,127496
+Torrance,California,2014,147001
+Tracy,California,2014,85715
+Trenton,New Jersey,2014,84067
+Troy,Michigan,2014,83407
+Troy,New York,2014,49959
+Tucson,Arizona,2014,534870
+Tulare,California,2014,61508
+Tulsa,Oklahoma,2014,400162
+Turlock,California,2014,70812
+Tuscaloosa,Alabama,2014,96147
+Tustin,California,2014,80203
+Tyler,Texas,2014,101515
+Union City,California,2014,73526
+Union City,New Jersey,2014,68301
+Upland,California,2014,75599
+Urban Honolul,Hawaii,2014,349627
+Utica,New York,2014,61297
+Vacaville,California,2014,95436
+Valdosta,Georgia,2014,56312
+Vallejo,California,2014,119644
+Vancouver,Washington,2014,173442
+Victoria,Texas,2014,65946
+Victorville,California,2014,121213
+Vineland,New Jersey,2014,60899
+Virginia Beach,Virginia,2014,448913
+Visalia,California,2014,128594
+Vista,California,2014,97225
+Waco,Texas,2014,129925
+Walnut Creek,California,2014,67538
+Waltham,Massachusetts,2014,63097
+Warner Robins,Georgia,2014,73342
+Warren,Michigan,2014,135665
+Warwick,Rhode Island,2014,81699
+Washington,District of Columbia,2014,662513
+Waterbury,Connecticut,2014,109551
+Waterloo,Iowa,2014,68584
+Watsonville,California,2014,52975
+Waukegan,Illinois,2014,88788
+Waukesha,Wisconsin,2014,72015
+Wellington vi,Florida,2014,61523
+West Allis,Wisconsin,2014,60779
+West Covina,California,2014,107552
+West Des Moines,Iowa,2014,61802
+West Haven,Connecticut,2014,55293
+West Jordan,Utah,2014,110503
+West New York,New Jersey,2014,51540
+West Palm Beach,Florida,2014,104350
+West Sacramento,California,2014,51688
+West Valley City,Utah,2014,134506
+Westland,Michigan,2014,82638
+Westminster,California,2014,91609
+Westminster,Colorado,2014,111567
+Weston,Florida,2014,68950
+Weymouth Town,Massachusetts,2014,55737
+Wheaton,Illinois,2014,53759
+White Plains,New York,2014,57748
+Whittier,California,2014,86563
+Wichita Falls,Texas,2014,105216
+Wichita,Kansas,2014,388465
+Wilmington,Delaware,2014,71169
+Wilmington,North Carolina,2014,113309
+Winston-Salem,North Carolina,2014,238508
+Woodbury,Minnesota,2014,66624
+Woodland,California,2014,57354
+Worcester,Massachusetts,2014,184698
+Wylie,Texas,2014,46702
+Wyoming,Michigan,2014,74984
+Yakima,Washington,2014,92859
+Yonkers,New York,2014,199434
+Yorba Linda,California,2014,67418
+Youngstown,Ohio,2014,65145
+Yuba City,California,2014,65773
+Yucaipa,California,2014,52774
+Yuma,Arizona,2014,93728
+Abilene,Texas,2015,121694
+Akron,Ohio,2015,198524
+Alameda,California,2015,78467
+Albany,Georgia,2015,74864
+Albany,New York,2015,98234
+Albany,Oregon,2015,51657
+Albuquerque,New Mexico,2015,558325
+Alexandria,Virginia,2015,153863
+Alhambra,California,2015,84950
+Aliso Viejo,California,2015,49988
+Allen,Texas,2015,98190
+Allentown,Pennsylvania,2015,120068
+Alpharetta,Georgia,2015,63338
+Amarillo,Texas,2015,197889
+Ames,Iowa,2015,65662
+Anaheim,California,2015,348967
+Anchorage municip,Alaska,2015,297613
+Anderson,Indiana,2015,55121
+Ankeny,Iowa,2015,56109
+Ann Arbor,Michigan,2015,119931
+Antioch,California,2015,110326
+Apex,North Carolina,2015,45554
+Apopka,Florida,2015,49040
+Apple Valley,Minnesota,2015,50965
+Apple Valley,California,2015,71809
+Appleton,Wisconsin,2015,74173
+Arcadia,California,2015,57934
+Arlington Heights vi,Illinois,2015,76045
+Arlington,Texas,2015,389101
+Arvada,Colorado,2015,115409
+Asheville,North Carolina,2015,89387
+Athens-Clarke County unified government (bal,Georgia,2015,122252
+Atlanta,Georgia,2015,468707
+Auburn,Alabama,2015,61818
+Auburn,Washington,2015,77409
+Augusta-Richmond County consolidated government (bal,Georgia,2015,196663
+Aurora,Colorado,2015,359679
+Aurora,Illinois,2015,200416
+Austin,Texas,2015,921545
+Avondale,Arizona,2015,81976
+Bakersfield,California,2015,372295
+Baldwin Park,California,2015,76523
+Baltimore,Maryland,2015,622150
+Bartlett,Tennessee,2015,58641
+Baton Rouge,Louisiana,2015,227044
+Battle Creek,Michigan,2015,51553
+Bayonne,New Jersey,2015,65317
+Baytown,Texas,2015,76435
+Beaumont,Texas,2015,118591
+Beaverton,Oregon,2015,95897
+Bellevue,Nebraska,2015,52976
+Bellevue,Washington,2015,139918
+Bellflower,California,2015,77875
+Bellingham,Washington,2015,85063
+Bend,Oregon,2015,86238
+Bentonville,Arkansas,2015,44713
+Berkeley,California,2015,120739
+Berwyn,Illinois,2015,56477
+Bethlehem,Pennsylvania,2015,74953
+Billings,Montana,2015,109638
+Birmingham,Alabama,2015,211703
+Bismarck,North Dakota,2015,71282
+Blaine,Minnesota,2015,62396
+Bloomington,Illinois,2015,78393
+Bloomington,Indiana,2015,83601
+Bloomington,Minnesota,2015,85219
+Blue Springs,Missouri,2015,54016
+Boca Raton,Florida,2015,93520
+Boise City,Idaho,2015,220938
+Bolingbrook vi,Illinois,2015,74174
+Bonita Springs,Florida,2015,51820
+Bossier City,Louisiana,2015,68077
+Boston,Massachusetts,2015,670791
+Boulder,Colorado,2015,107793
+Bowie,Maryland,2015,58287
+Bowling Green,Kentucky,2015,64411
+Boynton Beach,Florida,2015,73950
+Bradenton,Florida,2015,53832
+Brentwood,California,2015,58825
+Bridgeport,Connecticut,2015,147460
+Bristol,Connecticut,2015,60513
+Brockton,Massachusetts,2015,95433
+Broken Arrow,Oklahoma,2015,106931
+Brookhaven,Georgia,2015,52673
+Brooklyn Park,Minnesota,2015,79279
+Broomfield,Colorado,2015,64856
+Brownsville,Texas,2015,181984
+Bryan,Texas,2015,82124
+Buckeye,Arizona,2015,61633
+Buena Park,California,2015,82863
+Buffalo,New York,2015,258339
+Burbank,California,2015,104613
+Burien,Washington,2015,50720
+Burlington,North Carolina,2015,51667
+Burnsville,Minnesota,2015,61216
+Caldwell,Idaho,2015,51543
+Camarillo,California,2015,67263
+Cambridge,Massachusetts,2015,113497
+Camden,New Jersey,2015,75371
+Canton,Ohio,2015,71816
+Cape Coral,Florida,2015,173468
+Carlsbad,California,2015,112785
+Carmel,Indiana,2015,87805
+Carrollton,Texas,2015,132890
+Carson,Nevada,2015,54069
+Carson,California,2015,92860
+Cary,North Carolina,2015,159661
+Casa Grande,Arizona,2015,52751
+Casper,Wyoming,2015,59990
+Castle Rock,Colorado,2015,57093
+Cathedral City,California,2015,53572
+Cedar Park,Texas,2015,69612
+Cedar Rapids,Iowa,2015,130635
+Centennial,Colorado,2015,109170
+Cerritos,California,2015,49617
+Champaign,Illinois,2015,86166
+Chandler,Arizona,2015,243679
+Chapel Hill,North Carolina,2015,59047
+Charleston,South Carolina,2015,132632
+Charleston,West Virginia,2015,49466
+Charlotte,North Carolina,2015,825733
+Chattanooga,Tennessee,2015,175851
+Chesapeake,Virginia,2015,235168
+Cheyenne,Wyoming,2015,62904
+Chicago,Illinois,2015,2726215
+Chico,California,2015,90487
+Chicopee,Massachusetts,2015,55789
+Chino Hills,California,2015,77904
+Chino,California,2015,85253
+Chula Vista,California,2015,264490
+Cicero,Illinois,2015,83935
+Cincinnati,Ohio,2015,299338
+Citrus Heights,California,2015,86666
+Clarksville,Tennessee,2015,148180
+Clearwater,Florida,2015,112876
+Cleveland,Ohio,2015,389248
+Clifton,New Jersey,2015,85232
+Clovis,California,2015,103807
+Coconut Creek,Florida,2015,59211
+Coeur d'Alene,Idaho,2015,48767
+College Station,Texas,2015,109034
+Collierville,Tennessee,2015,48981
+Colorado Springs,Colorado,2015,449189
+Colton,California,2015,54334
+Columbia,Missouri,2015,118699
+Columbia,South Carolina,2015,133584
+Columbus,Georgia,2015,198674
+Columbus,Ohio,2015,855012
+Commerce City,Colorado,2015,53245
+Compton,California,2015,97746
+Concord,California,2015,128319
+Concord,North Carolina,2015,87444
+Conroe,Texas,2015,76269
+Conway,Arkansas,2015,64442
+Coon Rapids,Minnesota,2015,62267
+Coral Gables,Florida,2015,50771
+Coral Springs,Florida,2015,129653
+Corona,California,2015,163391
+Corpus Christi,Texas,2015,324795
+Corvallis,Oregon,2015,56341
+Costa Mesa,California,2015,112930
+Council Bluffs,Iowa,2015,62567
+Cranston,Rhode Island,2015,81248
+Cupertino,California,2015,60571
+Dallas,Texas,2015,1301794
+Daly City,California,2015,106610
+Danbury,Connecticut,2015,84252
+Davenport,Iowa,2015,102434
+Davie,Florida,2015,101311
+Davis,California,2015,67362
+Dayton,Ohio,2015,140834
+Daytona Beach,Florida,2015,64953
+DeSoto,Texas,2015,52700
+Dearborn Heights,Michigan,2015,56317
+Dearborn,Michigan,2015,95475
+Decatur,Alabama,2015,55007
+Decatur,Illinois,2015,73287
+Deerfield Beach,Florida,2015,79353
+Delano,California,2015,52528
+Delray Beach,Florida,2015,66243
+Deltona,Florida,2015,87745
+Denton,Texas,2015,131204
+Denver,Colorado,2015,683665
+Des Moines,Iowa,2015,215372
+Des Plaines,Illinois,2015,58856
+Detroit,Michigan,2015,679305
+Diamond Bar,California,2015,56484
+Doral,Florida,2015,56075
+Dothan,Alabama,2015,68198
+Downey,California,2015,113398
+Dublin,California,2015,57543
+Dubuque,Iowa,2015,58602
+Duluth,Minnesota,2015,85969
+Durham,North Carolina,2015,258581
+Eagan,Minnesota,2015,66229
+East Orange,New Jersey,2015,64448
+Eastvale,California,2015,59704
+Eau Claire,Wisconsin,2015,67765
+Eden Prairie,Minnesota,2015,63626
+Edina,Minnesota,2015,50265
+Edinburg,Texas,2015,91994
+Edmond,Oklahoma,2015,90168
+El Cajon,California,2015,103248
+El Monte,California,2015,115908
+El Paso,Texas,2015,677253
+Elgin,Illinois,2015,112018
+Elizabeth,New Jersey,2015,127746
+Elk Grove,California,2015,166090
+Elkhart,Indiana,2015,52532
+Elyria,Ohio,2015,53924
+Encinitas,California,2015,62631
+Enid,Oklahoma,2015,51509
+Erie,Pennsylvania,2015,99024
+Escondido,California,2015,150824
+Eugene,Oregon,2015,162960
+Euless,Texas,2015,54183
+Evanston,Illinois,2015,75671
+Evansville,Indiana,2015,119442
+Everett,Washington,2015,107219
+Fairfield,California,2015,112411
+Fall River,Massachusetts,2015,89313
+Fargo,North Dakota,2015,118027
+Farmington Hills,Michigan,2015,81538
+Fayetteville,Arkansas,2015,82346
+Fayetteville,North Carolina,2015,209624
+Federal Way,Washington,2015,95359
+Fishers,Indiana,2015,88708
+Flagstaff,Arizona,2015,70015
+Flint,Michigan,2015,97761
+Florissant,Missouri,2015,52117
+Flower Mound,Texas,2015,70844
+Folsom,California,2015,76026
+Fontana,California,2015,206377
+Fort Collins,Colorado,2015,160605
+Fort Lauderdale,Florida,2015,177407
+Fort Myers,Florida,2015,73466
+Fort Smith,Arkansas,2015,87697
+Fort Wayne,Indiana,2015,262235
+Fort Worth,Texas,2015,835950
+Fountain Valley,California,2015,56704
+Framingham,Massachusetts,2015,70937
+Franklin,Tennessee,2015,72501
+Frederick,Maryland,2015,69409
+Fremont,California,2015,231697
+Fresno,California,2015,518670
+Frisco,Texas,2015,154157
+Fullerton,California,2015,140131
+Gainesville,Florida,2015,129159
+Gaithersburg,Maryland,2015,67115
+Galveston,Texas,2015,49741
+Garden Grove,California,2015,174522
+Gardena,California,2015,60014
+Garland,Texas,2015,237331
+Gary,Indiana,2015,77206
+Gastonia,North Carolina,2015,74061
+Georgetown,Texas,2015,63463
+Gilbert,Arizona,2015,232401
+Gilroy,California,2015,53292
+Glendale,Arizona,2015,243184
+Glendale,California,2015,199452
+Glendora,California,2015,51820
+Goodyear,Arizona,2015,74817
+Grand Forks,North Dakota,2015,56527
+Grand Island,Nebraska,2015,50971
+Grand Junction,Colorado,2015,60595
+Grand Prairie,Texas,2015,188577
+Grand Rapids,Michigan,2015,195073
+Grapevine,Texas,2015,51469
+Great Falls,Montana,2015,59270
+Greeley,Colorado,2015,101607
+Green Bay,Wisconsin,2015,104820
+Greensboro,North Carolina,2015,284808
+Greenville,North Carolina,2015,90557
+Greenville,South Carolina,2015,63454
+Greenwood,Indiana,2015,55337
+Gresham,Oregon,2015,110387
+Gulfport,Mississippi,2015,71314
+Hamilton,Ohio,2015,62332
+Hammond,Indiana,2015,77603
+Hampton,Virginia,2015,136187
+Hanford,California,2015,55585
+Harlingen,Texas,2015,65350
+Harrisonburg,Virginia,2015,52755
+Hartford,Connecticut,2015,124338
+Haverhill,Massachusetts,2015,62881
+Hawthorne,California,2015,87790
+Hayward,California,2015,157890
+Hemet,California,2015,83351
+Hempstead vi,New York,2015,55418
+Henderson,Nevada,2015,282423
+Hendersonville,Tennessee,2015,55588
+Hesperia,California,2015,92765
+Hialeah,Florida,2015,236339
+High Point,North Carolina,2015,110285
+Highland,California,2015,54585
+Hillsboro,Oregon,2015,102594
+Hoboken,New Jersey,2015,52856
+Hoffman Estates vi,Illinois,2015,52133
+Hollywood,Florida,2015,148357
+Homestead,Florida,2015,66911
+Hoover,Alabama,2015,84242
+Houston,Texas,2015,2286630
+Huntersville,North Carolina,2015,52830
+Huntington Beach,California,2015,200855
+Huntington Park,California,2015,58997
+Huntsville,Alabama,2015,190147
+Idaho Falls,Idaho,2015,59192
+Independence,Missouri,2015,117241
+Indianapolis city (bal,Indiana,2015,853238
+Indio,California,2015,87036
+Inglewood,California,2015,110860
+Iowa City,Iowa,2015,73496
+Irvine,California,2015,255614
+Irving,Texas,2015,237358
+Jackson,Mississippi,2015,170943
+Jackson,Tennessee,2015,66739
+Jacksonville,Florida,2015,865835
+Jacksonville,North Carolina,2015,74104
+Janesville,Wisconsin,2015,63875
+Jersey City,New Jersey,2015,260332
+Johns Creek,Georgia,2015,82985
+Johnson City,Tennessee,2015,65472
+Joliet,Illinois,2015,147626
+Jonesboro,Arkansas,2015,73712
+Joplin,Missouri,2015,49764
+Jupiter,Florida,2015,62828
+Jurupa Valley,California,2015,101474
+Kalamazoo,Michigan,2015,75832
+Kansas City,Kansas,2015,151635
+Kansas City,Missouri,2015,475069
+Kenner,Louisiana,2015,66961
+Kennewick,Washington,2015,78772
+Kenosha,Wisconsin,2015,99559
+Kent,Washington,2015,127324
+Kentwood,Michigan,2015,51367
+Kettering,Ohio,2015,55394
+Killeen,Texas,2015,140263
+Kingsport,Tennessee,2015,52778
+Kirkland,Washington,2015,87410
+Kissimmee,Florida,2015,68597
+Knoxville,Tennessee,2015,184334
+Kokomo,Indiana,2015,57853
+La Crosse,Wisconsin,2015,52036
+La Habra,California,2015,61804
+La Mesa,California,2015,59754
+Lacey,Washington,2015,46122
+Lafayette,Indiana,2015,71153
+Lafayette,Louisiana,2015,126875
+Laguna Niguel,California,2015,65466
+Lake Charles,Louisiana,2015,75477
+Lake Elsinore,California,2015,61996
+Lake Forest,California,2015,82051
+Lake Havasu City,Arizona,2015,53422
+Lakeland,Florida,2015,103607
+Lakeville,Minnesota,2015,60819
+Lakewood,California,2015,81028
+Lakewood,Colorado,2015,152122
+Lakewood,Ohio,2015,50819
+Lakewood,Washington,2015,58883
+Lancaster,California,2015,159973
+Lancaster,Pennsylvania,2015,59508
+Lansing,Michigan,2015,115358
+Laredo,Texas,2015,255538
+Largo,Florida,2015,81834
+Las Cruces,New Mexico,2015,101179
+Las Vegas,Nevada,2015,617840
+Lauderhill,Florida,2015,70912
+Lawrence,Kansas,2015,94104
+Lawrence,Massachusetts,2015,79732
+Lawton,Oklahoma,2015,95994
+Layton,Utah,2015,73931
+League City,Texas,2015,97965
+Leander,Texas,2015,39076
+Lee's Summit,Missouri,2015,94858
+Leesburg,Virginia,2015,50917
+Lehi,Utah,2015,59033
+Lenexa,Kansas,2015,52425
+Lewisville,Texas,2015,103744
+Lexington-Fayette urban c,Kentucky,2015,316002
+Lincoln,Nebraska,2015,277178
+Little Elm,Texas,2015,38810
+Little Rock,Arkansas,2015,198135
+Livermore,California,2015,88246
+Livonia,Michigan,2015,94830
+Lodi,California,2015,64231
+Logan,Utah,2015,49826
+Long Beach,California,2015,470708
+Longmont,Colorado,2015,92317
+Longview,Texas,2015,81899
+Lorain,Ohio,2015,63641
+Los Angeles,California,2015,3943215
+Louisville/Jefferson County metro government (bal,Kentucky,2015,615247
+Loveland,Colorado,2015,74608
+Lowell,Massachusetts,2015,111149
+Lubbock,Texas,2015,247644
+Lynchburg,Virginia,2015,79271
+Lynn,Massachusetts,2015,93247
+Lynwood,California,2015,71485
+Macon-Bibb C,Georgia,2015,153948
+Madera,California,2015,63672
+Madison,Alabama,2015,47107
+Madison,Wisconsin,2015,248714
+Malden,Massachusetts,2015,61258
+Manchester,New Hampshire,2015,111039
+Manhattan,Kansas,2015,56481
+Mansfield,Texas,2015,64624
+Manteca,California,2015,74998
+Maple Grove,Minnesota,2015,68429
+Margate,Florida,2015,56755
+Maricopa,Arizona,2015,46109
+Marietta,Georgia,2015,59973
+Marysville,Washington,2015,66582
+McAllen,Texas,2015,140323
+McKinney,Texas,2015,163458
+Medford,Massachusetts,2015,57811
+Medford,Oregon,2015,78944
+Melbourne,Florida,2015,79386
+Memphis,Tennessee,2015,654876
+Menifee,California,2015,86616
+Merced,California,2015,81878
+Meriden,Connecticut,2015,60089
+Meridian,Idaho,2015,92147
+Mesa,Arizona,2015,482108
+Mesquite,Texas,2015,144977
+Methuen Town,Massachusetts,2015,49802
+Miami Beach,Florida,2015,91908
+Miami Gardens,Florida,2015,112739
+Miami,Florida,2015,439404
+Midland,Texas,2015,133523
+Midwest City,Oklahoma,2015,57315
+Milford city (bal,Connecticut,2015,52146
+Millcreek,Utah,2015,60186
+Milpitas,California,2015,77537
+Milwaukee,Wisconsin,2015,600627
+Minneapolis,Minnesota,2015,411150
+Minnetonka,Minnesota,2015,51758
+Miramar,Florida,2015,136454
+Mission Viejo,California,2015,96664
+Mission,Texas,2015,83246
+Missoula,Montana,2015,70747
+Missouri City,Texas,2015,73519
+Mobile,Alabama,2015,192377
+Modesto,California,2015,209366
+Montebello,California,2015,63457
+Monterey Park,California,2015,60989
+Montgomery,Alabama,2015,200993
+Moore,Oklahoma,2015,60170
+Moreno Valley,California,2015,202958
+Mount Pleasant,South Carolina,2015,81074
+Mount Prospect vi,Illinois,2015,55562
+Mount Vernon,New York,2015,68288
+Mountain View,California,2015,80378
+Muncie,Indiana,2015,69134
+Murfreesboro,Tennessee,2015,125585
+Murrieta,California,2015,109451
+Nampa,Idaho,2015,89494
+Napa,California,2015,79744
+Naperville,Illinois,2015,147012
+Nashua,New Hampshire,2015,88293
+Nashville-Davidson metropolitan government (bal,Tennessee,2015,656572
+National City,California,2015,60774
+New Bedford,Massachusetts,2015,95111
+New Braunfels,Texas,2015,70118
+New Britain,Connecticut,2015,73219
+New Brunswick,New Jersey,2015,56033
+New Haven,Connecticut,2015,130391
+New Orleans,Louisiana,2015,389791
+New Rochelle,New York,2015,79431
+New York,New York,2015,8468181
+Newark,New Jersey,2015,279629
+Newark,Ohio,2015,48591
+Newport Beach,California,2015,86697
+Newport News,Virginia,2015,180948
+Newton,Massachusetts,2015,88614
+Niagara Falls,New York,2015,48896
+Noblesville,Indiana,2015,58609
+Norfolk,Virginia,2015,246534
+Normal,Illinois,2015,54291
+Norman,Oklahoma,2015,119745
+North Charleston,South Carolina,2015,108697
+North Las Vegas,Nevada,2015,232689
+North Little Rock,Arkansas,2015,66402
+North Miami,Florida,2015,61085
+North Port,Florida,2015,62312
+North Richland Hills,Texas,2015,69167
+Norwalk,California,2015,106365
+Norwalk,Connecticut,2015,88287
+Novato,California,2015,55437
+Novi,Michigan,2015,58925
+O'Fallon,Missouri,2015,85037
+Oak Lawn vi,Illinois,2015,56860
+Oak Park vi,Illinois,2015,52443
+Oakland,California,2015,418263
+Ocala,Florida,2015,57744
+Oceanside,California,2015,175188
+Odessa,Texas,2015,118614
+Ogden,Utah,2015,85253
+Oklahoma City,Oklahoma,2015,632193
+Olathe,Kansas,2015,134279
+Olympia,Washington,2015,49846
+Omaha,Nebraska,2015,463472
+Ontario,California,2015,170332
+Orange,California,2015,140313
+Orem,Utah,2015,93770
+Orland Park vi,Illinois,2015,58605
+Orlando,Florida,2015,270622
+Oshkosh,Wisconsin,2015,66571
+Overland Park,Kansas,2015,186224
+Owensboro,Kentucky,2015,58999
+Oxnard,California,2015,206408
+Palatine vi,Illinois,2015,69350
+Palm Bay,Florida,2015,108213
+Palm Beach Gardens,Florida,2015,53616
+Palm Coast,Florida,2015,81908
+Palm Desert,California,2015,51570
+Palmdale,California,2015,157196
+Palo Alto,California,2015,66832
+Paramount,California,2015,55017
+Parker,Colorado,2015,51021
+Parma,Ohio,2015,80048
+Pasadena,California,2015,141211
+Pasadena,Texas,2015,154624
+Pasco,Washington,2015,70371
+Passaic,New Jersey,2015,70228
+Paterson,New Jersey,2015,145911
+Pawtucket,Rhode Island,2015,71758
+Peabody,Massachusetts,2015,52661
+Pearland,Texas,2015,111553
+Pembroke Pines,Florida,2015,165809
+Pensacola,Florida,2015,52471
+Peoria,Arizona,2015,160432
+Peoria,Illinois,2015,115150
+Perris,California,2015,74708
+Perth Amboy,New Jersey,2015,51734
+Petaluma,California,2015,60287
+Pflugerville,Texas,2015,57320
+Pharr,Texas,2015,76751
+Philadelphia,Pennsylvania,2015,1571258
+Phoenix,Arizona,2015,1584927
+Pico Rivera,California,2015,63754
+Pinellas Park,Florida,2015,51820
+Pittsburg,California,2015,69273
+Pittsburgh,Pennsylvania,2015,304211
+Placentia,California,2015,52260
+Plainfield,New Jersey,2015,50596
+Plano,Texas,2015,283416
+Plantation,Florida,2015,91933
+Pleasanton,California,2015,79277
+Plymouth,Minnesota,2015,76058
+Pocatello,Idaho,2015,54790
+Pomona,California,2015,152553
+Pompano Beach,Florida,2015,106973
+Pontiac,Michigan,2015,60198
+Port Arthur,Texas,2015,55449
+Port Orange,Florida,2015,60171
+Port St. Lucie,Florida,2015,177784
+Porterville,California,2015,59952
+Portland,Maine,2015,66829
+Portland,Oregon,2015,631539
+Portsmouth,Virginia,2015,96308
+Providence,Rhode Island,2015,179359
+Provo,Utah,2015,114590
+Pueblo,Colorado,2015,109031
+Quincy,Massachusetts,2015,93807
+Racine,Wisconsin,2015,77581
+Raleigh,North Carolina,2015,449427
+Rancho Cordova,California,2015,70666
+Rancho Cucamonga,California,2015,174367
+Rapid City,South Dakota,2015,72792
+Reading,Pennsylvania,2015,88083
+Redding,California,2015,90990
+Redlands,California,2015,70690
+Redmond,Washington,2015,60831
+Redondo Beach,California,2015,67847
+Redwood City,California,2015,85318
+Reno,Nevada,2015,238335
+Renton,Washington,2015,100571
+Revere,Massachusetts,2015,54012
+Rialto,California,2015,102572
+Richardson,Texas,2015,110871
+Richland,Washington,2015,54045
+Richmond,California,2015,109082
+Richmond,Virginia,2015,220847
+Rio Rancho,New Mexico,2015,93108
+Riverside,California,2015,320673
+Roanoke,Virginia,2015,99733
+Rochester Hills,Michigan,2015,73633
+Rochester,Minnesota,2015,112091
+Rochester,New York,2015,208709
+Rock Hill,South Carolina,2015,70837
+Rockford,Illinois,2015,148496
+Rocklin,California,2015,60945
+Rockville,Maryland,2015,66782
+Rocky Mount,North Carolina,2015,55052
+Rogers,Arkansas,2015,63507
+Rosemead,California,2015,54510
+Roseville,California,2015,129961
+Roswell,Georgia,2015,93826
+Round Rock,Texas,2015,115871
+Rowlett,Texas,2015,60387
+Royal Oak,Michigan,2015,58750
+Sacramento,California,2015,488353
+Saginaw,Michigan,2015,49243
+Salem,Oregon,2015,163251
+Salinas,California,2015,156512
+Salt Lake City,Utah,2015,191737
+Sammamish,Washington,2015,63338
+San Angelo,Texas,2015,99716
+San Antonio,Texas,2015,1464531
+San Bernardino,California,2015,214709
+San Buenaventura (Ventura),California,2015,109839
+San Clemente,California,2015,65193
+San Diego,California,2015,1388674
+San Francisco,California,2015,863836
+San Jose,California,2015,1026099
+San Leandro,California,2015,90539
+San Marcos,California,2015,93338
+San Marcos,Texas,2015,60302
+San Mateo,California,2015,103581
+San Rafael,California,2015,59095
+San Ramon,California,2015,75163
+Sandy Springs,Georgia,2015,104791
+Sandy,Utah,2015,94421
+Sanford,Florida,2015,58251
+Santa Ana,California,2015,333736
+Santa Barbara,California,2015,91334
+Santa Clara,California,2015,126154
+Santa Clarita,California,2015,209247
+Santa Cruz,California,2015,64119
+Santa Fe,New Mexico,2015,83395
+Santa Maria,California,2015,104532
+Santa Monica,California,2015,92545
+Santa Rosa,California,2015,181968
+Santee,California,2015,57530
+Sarasota,Florida,2015,54963
+Savannah,Georgia,2015,145221
+Schaumburg vi,Illinois,2015,74700
+Schenectady,New York,2015,65547
+Scottsdale,Arizona,2015,241197
+Scranton,Pennsylvania,2015,77160
+Seattle,Washington,2015,688156
+Shawnee,Kansas,2015,64984
+Shoreline,Washington,2015,55657
+Shreveport,Louisiana,2015,196508
+Simi Valley,California,2015,126290
+Sioux City,Iowa,2015,82665
+Sioux Falls,South Dakota,2015,170206
+Skokie vi,Illinois,2015,64937
+Smyrna,Georgia,2015,55749
+Smyrna,Tennessee,2015,46922
+Somerville,Massachusetts,2015,79662
+South Bend,Indiana,2015,101585
+South Fulton,Georgia,2015,93505
+South Gate,California,2015,95723
+South Jordan,Utah,2015,66100
+South San Francisco,California,2015,67297
+Southaven,Mississippi,2015,52500
+Southfield,Michigan,2015,73404
+Sparks,Nevada,2015,95765
+Spokane Valley,Washington,2015,94329
+Spokane,Washington,2015,212179
+Springdale,Arkansas,2015,77557
+Springfield,Illinois,2015,117231
+Springfield,Massachusetts,2015,154740
+Springfield,Missouri,2015,166231
+Springfield,Ohio,2015,59442
+Springfield,Oregon,2015,60439
+St. Charles,Missouri,2015,69038
+St. Clair Shores,Michigan,2015,59920
+St. Cloud,Florida,2015,46726
+St. Cloud,Minnesota,2015,67324
+St. George,Utah,2015,79586
+St. Joseph,Missouri,2015,76566
+St. Louis,Missouri,2015,315878
+St. Paul,Minnesota,2015,300010
+St. Peters,Missouri,2015,56714
+St. Petersburg,Florida,2015,255206
+Stamford,Connecticut,2015,128407
+Sterling Heights,Michigan,2015,132051
+Stillwater,Oklahoma,2015,49090
+Stockton,California,2015,303926
+Stonecrest,Georgia,2015,53333
+Suffolk,Virginia,2015,88127
+Sugar Land,Texas,2015,118304
+Summerville,South Carolina,2015,49107
+Sunnyvale,California,2015,151715
+Sunrise,Florida,2015,91940
+Surprise,Arizona,2015,130449
+Syracuse,New York,2015,143827
+Tacoma,Washington,2015,206801
+Tallahassee,Florida,2015,188894
+Tamarac,Florida,2015,63951
+Tampa,Florida,2015,367413
+Taunton,Massachusetts,2015,56879
+Taylor,Michigan,2015,61771
+Taylorsville,Utah,2015,60327
+Temecula,California,2015,111185
+Tempe,Arizona,2015,179221
+Temple,Texas,2015,71772
+Terre Haute,Indiana,2015,60561
+Thornton,Colorado,2015,132301
+Thousand Oaks,California,2015,128796
+Tigard,Oregon,2015,51070
+Tinley Park vi,Illinois,2015,57249
+Toledo,Ohio,2015,279816
+Topeka,Kansas,2015,127422
+Torrance,California,2015,147155
+Tracy,California,2015,86884
+Trenton,New Jersey,2015,83566
+Troy,Michigan,2015,83500
+Troy,New York,2015,49772
+Tucson,Arizona,2015,535772
+Tulare,California,2015,62003
+Tulsa,Oklahoma,2015,403733
+Turlock,California,2015,71713
+Tuscaloosa,Alabama,2015,97988
+Tustin,California,2015,80174
+Tyler,Texas,2015,102711
+Union City,California,2015,74348
+Union City,New Jersey,2015,68120
+Upland,California,2015,76039
+Urban Honolul,Hawaii,2015,351684
+Utica,New York,2015,60911
+Vacaville,California,2015,96301
+Valdosta,Georgia,2015,55822
+Vallejo,California,2015,120558
+Vancouver,Washington,2015,176430
+Victoria,Texas,2015,67221
+Victorville,California,2015,121599
+Vineland,New Jersey,2015,60606
+Virginia Beach,Virginia,2015,450474
+Visalia,California,2015,129529
+Vista,California,2015,99885
+Waco,Texas,2015,131882
+Walnut Creek,California,2015,68765
+Waltham,Massachusetts,2015,62981
+Warner Robins,Georgia,2015,73461
+Warren,Michigan,2015,135377
+Warwick,Rhode Island,2015,81128
+Washington,District of Columbia,2015,675254
+Waterbury,Connecticut,2015,109018
+Waterloo,Iowa,2015,68526
+Watsonville,California,2015,53548
+Waukegan,Illinois,2015,88371
+Waukesha,Wisconsin,2015,72381
+Wellington vi,Florida,2015,62623
+West Allis,Wisconsin,2015,60734
+West Covina,California,2015,107677
+West Des Moines,Iowa,2015,63489
+West Haven,Connecticut,2015,54876
+West Jordan,Utah,2015,111394
+West New York,New Jersey,2015,52552
+West Palm Beach,Florida,2015,106893
+West Sacramento,California,2015,52465
+West Valley City,Utah,2015,135981
+Westland,Michigan,2015,82312
+Westminster,California,2015,91656
+Westminster,Colorado,2015,112475
+Weston,Florida,2015,69699
+Weymouth Town,Massachusetts,2015,55807
+Wheaton,Illinois,2015,53724
+White Plains,New York,2015,58032
+Whittier,California,2015,86812
+Wichita Falls,Texas,2015,103960
+Wichita,Kansas,2015,389437
+Wilmington,Delaware,2015,71112
+Wilmington,North Carolina,2015,115024
+Winston-Salem,North Carolina,2015,239696
+Woodbury,Minnesota,2015,67462
+Woodland,California,2015,58378
+Worcester,Massachusetts,2015,184910
+Wylie,Texas,2015,47657
+Wyoming,Michigan,2015,75289
+Yakima,Washington,2015,93058
+Yonkers,New York,2015,199721
+Yorba Linda,California,2015,67608
+Youngstown,Ohio,2015,64704
+Yuba City,California,2015,66187
+Yucaipa,California,2015,53034
+Yuma,Arizona,2015,94287
+Abilene,Texas,2016,121856
+Akron,Ohio,2016,198021
+Alameda,California,2016,79061
+Albany,Georgia,2016,73930
+Albany,New York,2016,97939
+Albany,Oregon,2016,52689
+Albuquerque,New Mexico,2016,559626
+Alexandria,Virginia,2016,157045
+Alhambra,California,2016,85358
+Aliso Viejo,California,2016,51368
+Allen,Texas,2016,99512
+Allentown,Pennsylvania,2016,120371
+Alpharetta,Georgia,2016,65403
+Amarillo,Texas,2016,198867
+Ames,Iowa,2016,65881
+Anaheim,California,2016,350848
+Anchorage municip,Alaska,2016,297216
+Anderson,Indiana,2016,55082
+Ankeny,Iowa,2016,58621
+Ann Arbor,Michigan,2016,121035
+Antioch,California,2016,111074
+Apex,North Carolina,2016,47449
+Apopka,Florida,2016,50381
+Apple Valley,Minnesota,2016,51963
+Apple Valley,California,2016,72332
+Appleton,Wisconsin,2016,74433
+Arcadia,California,2016,58359
+Arlington Heights vi,Illinois,2016,75864
+Arlington,Texas,2016,394780
+Arvada,Colorado,2016,117726
+Asheville,North Carolina,2016,91145
+Athens-Clarke County unified government (bal,Georgia,2016,123559
+Atlanta,Georgia,2016,478916
+Auburn,Alabama,2016,62882
+Auburn,Washington,2016,78660
+Augusta-Richmond County consolidated government (bal,Georgia,2016,197146
+Aurora,Colorado,2016,362941
+Aurora,Illinois,2016,200945
+Austin,Texas,2016,939768
+Avondale,Arizona,2016,83347
+Bakersfield,California,2016,375844
+Baldwin Park,California,2016,76337
+Baltimore,Maryland,2016,615849
+Bartlett,Tennessee,2016,58853
+Baton Rouge,Louisiana,2016,226397
+Battle Creek,Michigan,2016,51451
+Bayonne,New Jersey,2016,65351
+Baytown,Texas,2016,76544
+Beaumont,Texas,2016,119109
+Beaverton,Oregon,2016,97720
+Bellevue,Nebraska,2016,53328
+Bellevue,Washington,2016,141927
+Bellflower,California,2016,77681
+Bellingham,Washington,2016,87038
+Bend,Oregon,2016,90611
+Bentonville,Arkansas,2016,47127
+Berkeley,California,2016,121487
+Berwyn,Illinois,2016,56037
+Bethlehem,Pennsylvania,2016,75255
+Billings,Montana,2016,109647
+Birmingham,Alabama,2016,211436
+Bismarck,North Dakota,2016,72435
+Blaine,Minnesota,2016,63251
+Bloomington,Illinois,2016,78343
+Bloomington,Indiana,2016,84396
+Bloomington,Minnesota,2016,85495
+Blue Springs,Missouri,2016,54397
+Boca Raton,Florida,2016,96456
+Boise City,Idaho,2016,224728
+Bolingbrook vi,Illinois,2016,74427
+Bonita Springs,Florida,2016,54355
+Bossier City,Louisiana,2016,68037
+Boston,Massachusetts,2016,680470
+Boulder,Colorado,2016,108288
+Bowie,Maryland,2016,58485
+Bowling Green,Kentucky,2016,65663
+Boynton Beach,Florida,2016,75826
+Bradenton,Florida,2016,55037
+Brentwood,California,2016,60599
+Bridgeport,Connecticut,2016,146353
+Bristol,Connecticut,2016,60289
+Brockton,Massachusetts,2016,95391
+Broken Arrow,Oklahoma,2016,107968
+Brookhaven,Georgia,2016,53152
+Brooklyn Park,Minnesota,2016,79899
+Broomfield,Colorado,2016,66474
+Brownsville,Texas,2016,182888
+Bryan,Texas,2016,83357
+Buckeye,Arizona,2016,64649
+Buena Park,California,2016,83113
+Buffalo,New York,2016,256960
+Burbank,California,2016,104266
+Burien,Washington,2016,51435
+Burlington,North Carolina,2016,51995
+Burnsville,Minnesota,2016,61335
+Caldwell,Idaho,2016,53098
+Camarillo,California,2016,67270
+Cambridge,Massachusetts,2016,115730
+Camden,New Jersey,2016,73974
+Canton,Ohio,2016,71273
+Cape Coral,Florida,2016,178362
+Carlsbad,California,2016,113423
+Carmel,Indiana,2016,90762
+Carrollton,Texas,2016,133470
+Carson,Nevada,2016,54147
+Carson,California,2016,92710
+Cary,North Carolina,2016,162426
+Casa Grande,Arizona,2016,54339
+Casper,Wyoming,2016,58896
+Castle Rock,Colorado,2016,59195
+Cathedral City,California,2016,54003
+Cedar Park,Texas,2016,72602
+Cedar Rapids,Iowa,2016,131169
+Centennial,Colorado,2016,109793
+Cerritos,California,2016,50436
+Champaign,Illinois,2016,87156
+Chandler,Arizona,2016,247845
+Chapel Hill,North Carolina,2016,59688
+Charleston,South Carolina,2016,134620
+Charleston,West Virginia,2016,48784
+Charlotte,North Carolina,2016,842937
+Chattanooga,Tennessee,2016,177104
+Chesapeake,Virginia,2016,237591
+Cheyenne,Wyoming,2016,63483
+Chicago,Illinois,2016,2718946
+Chico,California,2016,91733
+Chicopee,Massachusetts,2016,55342
+Chino Hills,California,2016,78542
+Chino,California,2016,87576
+Chula Vista,California,2016,266610
+Cicero,Illinois,2016,83275
+Cincinnati,Ohio,2016,299707
+Citrus Heights,California,2016,87292
+Clarksville,Tennessee,2016,149203
+Clearwater,Florida,2016,114157
+Cleveland,Ohio,2016,387708
+Clifton,New Jersey,2016,85141
+Clovis,California,2016,106366
+Coconut Creek,Florida,2016,59822
+Coeur d'Alene,Idaho,2016,49825
+College Station,Texas,2016,111238
+Collierville,Tennessee,2016,49456
+Colorado Springs,Colorado,2016,458531
+Colton,California,2016,54553
+Columbia,Missouri,2016,120494
+Columbia,South Carolina,2016,134079
+Columbus,Georgia,2016,196198
+Columbus,Ohio,2016,866918
+Commerce City,Colorado,2016,54631
+Compton,California,2016,97410
+Concord,California,2016,129014
+Concord,North Carolina,2016,89729
+Conroe,Texas,2016,82054
+Conway,Arkansas,2016,64862
+Coon Rapids,Minnesota,2016,62381
+Coral Gables,Florida,2016,50919
+Coral Springs,Florida,2016,131237
+Corona,California,2016,166306
+Corpus Christi,Texas,2016,325947
+Corvallis,Oregon,2016,57220
+Costa Mesa,California,2016,113092
+Council Bluffs,Iowa,2016,62490
+Cranston,Rhode Island,2016,81188
+Cupertino,California,2016,60955
+Dallas,Texas,2016,1324477
+Daly City,California,2016,106941
+Danbury,Connecticut,2016,84995
+Davenport,Iowa,2016,102395
+Davie,Florida,2016,103358
+Davis,California,2016,67980
+Dayton,Ohio,2016,140858
+Daytona Beach,Florida,2016,67085
+DeSoto,Texas,2016,53192
+Dearborn Heights,Michigan,2016,56082
+Dearborn,Michigan,2016,95018
+Decatur,Alabama,2016,54678
+Decatur,Illinois,2016,72550
+Deerfield Beach,Florida,2016,79986
+Delano,California,2016,52610
+Delray Beach,Florida,2016,67591
+Deltona,Florida,2016,89360
+Denton,Texas,2016,134266
+Denver,Colorado,2016,696618
+Des Moines,Iowa,2016,216487
+Des Plaines,Illinois,2016,58478
+Detroit,Michigan,2016,676883
+Diamond Bar,California,2016,56656
+Doral,Florida,2016,58360
+Dothan,Alabama,2016,68211
+Downey,California,2016,113066
+Dublin,California,2016,59561
+Dubuque,Iowa,2016,58287
+Duluth,Minnesota,2016,86058
+Durham,North Carolina,2016,265355
+Eagan,Minnesota,2016,66356
+East Orange,New Jersey,2016,64425
+Eastvale,California,2016,61289
+Eau Claire,Wisconsin,2016,68276
+Eden Prairie,Minnesota,2016,64023
+Edina,Minnesota,2016,51448
+Edinburg,Texas,2016,93053
+Edmond,Oklahoma,2016,91469
+El Cajon,California,2016,103573
+El Monte,California,2016,115657
+El Paso,Texas,2016,681485
+Elgin,Illinois,2016,112322
+Elizabeth,New Jersey,2016,128074
+Elk Grove,California,2016,169243
+Elkhart,Indiana,2016,52487
+Elyria,Ohio,2016,53877
+Encinitas,California,2016,62980
+Enid,Oklahoma,2016,50837
+Erie,Pennsylvania,2016,98239
+Escondido,California,2016,151383
+Eugene,Oregon,2016,166016
+Euless,Texas,2016,54902
+Evanston,Illinois,2016,75302
+Evansville,Indiana,2016,118915
+Everett,Washington,2016,109098
+Fairfield,California,2016,114545
+Fall River,Massachusetts,2016,89288
+Fargo,North Dakota,2016,120126
+Farmington Hills,Michigan,2016,81561
+Fayetteville,Arkansas,2016,83598
+Fayetteville,North Carolina,2016,211126
+Federal Way,Washington,2016,97241
+Fishers,Indiana,2016,89868
+Flagstaff,Arizona,2016,71227
+Flint,Michigan,2016,97026
+Florissant,Missouri,2016,51700
+Flower Mound,Texas,2016,73334
+Folsom,California,2016,77088
+Fontana,California,2016,208971
+Fort Collins,Colorado,2016,162583
+Fort Lauderdale,Florida,2016,178884
+Fort Myers,Florida,2016,76736
+Fort Smith,Arkansas,2016,87615
+Fort Wayne,Indiana,2016,263777
+Fort Worth,Texas,2016,856902
+Fountain Valley,California,2016,56503
+Framingham,Massachusetts,2016,71469
+Franklin,Tennessee,2016,74635
+Frederick,Maryland,2016,69952
+Fremont,California,2016,233378
+Fresno,California,2016,521986
+Frisco,Texas,2016,163841
+Fullerton,California,2016,140648
+Gainesville,Florida,2016,131474
+Gaithersburg,Maryland,2016,67636
+Galveston,Texas,2016,50238
+Garden Grove,California,2016,174805
+Gardena,California,2016,59961
+Garland,Texas,2016,236500
+Gary,Indiana,2016,76539
+Gastonia,North Carolina,2016,75037
+Georgetown,Texas,2016,66934
+Gilbert,Arizona,2016,237137
+Gilroy,California,2016,55409
+Glendale,Arizona,2016,246000
+Glendale,California,2016,200444
+Glendora,California,2016,51947
+Goodyear,Arizona,2016,77413
+Grand Forks,North Dakota,2016,56740
+Grand Island,Nebraska,2016,51286
+Grand Junction,Colorado,2016,61354
+Grand Prairie,Texas,2016,192300
+Grand Rapids,Michigan,2016,196546
+Grapevine,Texas,2016,52100
+Great Falls,Montana,2016,58879
+Greeley,Colorado,2016,104575
+Green Bay,Wisconsin,2016,104719
+Greensboro,North Carolina,2016,289597
+Greenville,North Carolina,2016,91045
+Greenville,South Carolina,2016,66964
+Greenwood,Indiana,2016,56416
+Gresham,Oregon,2016,111813
+Gulfport,Mississippi,2016,71490
+Hamilton,Ohio,2016,62244
+Hammond,Indiana,2016,77104
+Hampton,Virginia,2016,135238
+Hanford,California,2016,55647
+Harlingen,Texas,2016,65413
+Harrisonburg,Virginia,2016,53701
+Hartford,Connecticut,2016,123679
+Haverhill,Massachusetts,2016,63236
+Hawthorne,California,2016,87835
+Hayward,California,2016,159147
+Hemet,California,2016,84175
+Hempstead vi,New York,2016,55380
+Henderson,Nevada,2016,289784
+Hendersonville,Tennessee,2016,56551
+Hesperia,California,2016,93383
+Hialeah,Florida,2016,236886
+High Point,North Carolina,2016,111685
+Highland,California,2016,54786
+Hillsboro,Oregon,2016,105371
+Hoboken,New Jersey,2016,53673
+Hoffman Estates vi,Illinois,2016,51871
+Hollywood,Florida,2016,151685
+Homestead,Florida,2016,68835
+Hoover,Alabama,2016,84546
+Houston,Texas,2016,2309752
+Huntersville,North Carolina,2016,55120
+Huntington Beach,California,2016,200541
+Huntington Park,California,2016,58780
+Huntsville,Alabama,2016,192260
+Idaho Falls,Idaho,2016,60160
+Independence,Missouri,2016,117232
+Indianapolis city (bal,Indiana,2016,857488
+Indio,California,2016,88340
+Inglewood,California,2016,110470
+Iowa City,Iowa,2016,74551
+Irvine,California,2016,265721
+Irving,Texas,2016,240086
+Jackson,Mississippi,2016,169080
+Jackson,Tennessee,2016,66738
+Jacksonville,Florida,2016,880495
+Jacksonville,North Carolina,2016,72530
+Janesville,Wisconsin,2016,64029
+Jersey City,New Jersey,2016,260626
+Johns Creek,Georgia,2016,83914
+Johnson City,Tennessee,2016,66114
+Joliet,Illinois,2016,148001
+Jonesboro,Arkansas,2016,74696
+Joplin,Missouri,2016,50167
+Jupiter,Florida,2016,64085
+Jurupa Valley,California,2016,103248
+Kalamazoo,Michigan,2016,75833
+Kansas City,Kansas,2016,152617
+Kansas City,Missouri,2016,481626
+Kenner,Louisiana,2016,67159
+Kennewick,Washington,2016,80153
+Kenosha,Wisconsin,2016,99485
+Kent,Washington,2016,128316
+Kentwood,Michigan,2016,51753
+Kettering,Ohio,2016,55261
+Killeen,Texas,2016,143045
+Kingsport,Tennessee,2016,52539
+Kirkland,Washington,2016,88062
+Kissimmee,Florida,2016,69284
+Knoxville,Tennessee,2016,185193
+Kokomo,Indiana,2016,57644
+La Crosse,Wisconsin,2016,51851
+La Habra,California,2016,61634
+La Mesa,California,2016,59824
+Lacey,Washington,2016,47366
+Lafayette,Indiana,2016,72024
+Lafayette,Louisiana,2016,127156
+Laguna Niguel,California,2016,65234
+Lake Charles,Louisiana,2016,76218
+Lake Elsinore,California,2016,63861
+Lake Forest,California,2016,83135
+Lake Havasu City,Arizona,2016,53829
+Lakeland,Florida,2016,105917
+Lakeville,Minnesota,2016,62039
+Lakewood,California,2016,80997
+Lakewood,Colorado,2016,154117
+Lakewood,Ohio,2016,50542
+Lakewood,Washington,2016,59741
+Lancaster,California,2016,159831
+Lancaster,Pennsylvania,2016,59546
+Lansing,Michigan,2016,116635
+Laredo,Texas,2016,258102
+Largo,Florida,2016,84046
+Las Cruces,New Mexico,2016,101357
+Las Vegas,Nevada,2016,626950
+Lauderhill,Florida,2016,71480
+Lawrence,Kansas,2016,95648
+Lawrence,Massachusetts,2016,79870
+Lawton,Oklahoma,2016,94133
+Layton,Utah,2016,75489
+League City,Texas,2016,101800
+Leander,Texas,2016,43864
+Lee's Summit,Missouri,2016,96012
+Leesburg,Virginia,2016,52471
+Lehi,Utah,2016,61675
+Lenexa,Kansas,2016,53011
+Lewisville,Texas,2016,104735
+Lexington-Fayette urban c,Kentucky,2016,319738
+Lincoln,Nebraska,2016,281254
+Little Elm,Texas,2016,43105
+Little Rock,Arkansas,2016,198673
+Livermore,California,2016,89535
+Livonia,Michigan,2016,94471
+Lodi,California,2016,64509
+Logan,Utah,2016,50712
+Long Beach,California,2016,469435
+Longmont,Colorado,2016,93310
+Longview,Texas,2016,81619
+Lorain,Ohio,2016,63707
+Los Angeles,California,2016,3969262
+Louisville/Jefferson County metro government (bal,Kentucky,2016,617462
+Loveland,Colorado,2016,76103
+Lowell,Massachusetts,2016,111250
+Lubbock,Texas,2016,251086
+Lynchburg,Virginia,2016,80038
+Lynn,Massachusetts,2016,93406
+Lynwood,California,2016,71087
+Macon-Bibb C,Georgia,2016,153180
+Madera,California,2016,64193
+Madison,Alabama,2016,48099
+Madison,Wisconsin,2016,252485
+Malden,Massachusetts,2016,61159
+Manchester,New Hampshire,2016,111659
+Manhattan,Kansas,2016,55237
+Mansfield,Texas,2016,66217
+Manteca,California,2016,76716
+Maple Grove,Minnesota,2016,69711
+Margate,Florida,2016,57849
+Maricopa,Arizona,2016,46913
+Marietta,Georgia,2016,60815
+Marysville,Washington,2016,67630
+McAllen,Texas,2016,142418
+McKinney,Texas,2016,173336
+Medford,Massachusetts,2016,57849
+Medford,Oregon,2016,80111
+Melbourne,Florida,2016,80746
+Memphis,Tennessee,2016,653184
+Menifee,California,2016,88286
+Merced,California,2016,82353
+Meriden,Connecticut,2016,59734
+Meridian,Idaho,2016,96280
+Mesa,Arizona,2016,491041
+Mesquite,Texas,2016,144681
+Methuen Town,Massachusetts,2016,49972
+Miami Beach,Florida,2016,92042
+Miami Gardens,Florida,2016,113128
+Miami,Florida,2016,454293
+Midland,Texas,2016,135019
+Midwest City,Oklahoma,2016,57462
+Milford city (bal,Connecticut,2016,52550
+Millcreek,Utah,2016,60367
+Milpitas,California,2016,77878
+Milwaukee,Wisconsin,2016,597123
+Minneapolis,Minnesota,2016,415239
+Minnetonka,Minnesota,2016,52473
+Miramar,Florida,2016,138925
+Mission Viejo,California,2016,96299
+Mission,Texas,2016,83788
+Missoula,Montana,2016,72231
+Missouri City,Texas,2016,74190
+Mobile,Alabama,2016,191885
+Modesto,California,2016,211334
+Montebello,California,2016,63226
+Monterey Park,California,2016,60930
+Montgomery,Alabama,2016,200360
+Moore,Oklahoma,2016,61081
+Moreno Valley,California,2016,204742
+Mount Pleasant,South Carolina,2016,83950
+Mount Prospect vi,Illinois,2016,55196
+Mount Vernon,New York,2016,68234
+Mountain View,California,2016,80852
+Muncie,Indiana,2016,69174
+Murfreesboro,Tennessee,2016,131242
+Murrieta,California,2016,111606
+Nampa,Idaho,2016,91052
+Napa,California,2016,79781
+Naperville,Illinois,2016,147243
+Nashua,New Hampshire,2016,88664
+Nashville-Davidson metropolitan government (bal,Tennessee,2016,663339
+National City,California,2016,61038
+New Bedford,Massachusetts,2016,95070
+New Braunfels,Texas,2016,73343
+New Britain,Connecticut,2016,72817
+New Brunswick,New Jersey,2016,56215
+New Haven,Connecticut,2016,130424
+New Orleans,Louisiana,2016,391977
+New Rochelle,New York,2016,79446
+New York,New York,2016,8475976
+Newark,New Jersey,2016,280628
+Newark,Ohio,2016,48944
+Newport Beach,California,2016,86647
+Newport News,Virginia,2016,180179
+Newton,Massachusetts,2016,88604
+Niagara Falls,New York,2016,48643
+Noblesville,Indiana,2016,60186
+Norfolk,Virginia,2016,245843
+Normal,Illinois,2016,54404
+Norman,Oklahoma,2016,121512
+North Charleston,South Carolina,2016,109859
+North Las Vegas,Nevada,2016,236694
+North Little Rock,Arkansas,2016,66179
+North Miami,Florida,2016,61101
+North Port,Florida,2016,64455
+North Richland Hills,Texas,2016,69999
+Norwalk,California,2016,106002
+Norwalk,Connecticut,2016,88487
+Novato,California,2016,55939
+Novi,Michigan,2016,59617
+O'Fallon,Missouri,2016,86438
+Oak Lawn vi,Illinois,2016,56494
+Oak Park vi,Illinois,2016,52102
+Oakland,California,2016,420798
+Ocala,Florida,2016,58510
+Oceanside,California,2016,175495
+Odessa,Texas,2016,117325
+Ogden,Utah,2016,86704
+Oklahoma City,Oklahoma,2016,640144
+Olathe,Kansas,2016,135883
+Olympia,Washington,2016,50728
+Omaha,Nebraska,2016,465554
+Ontario,California,2016,172709
+Orange,California,2016,140434
+Orem,Utah,2016,96865
+Orland Park vi,Illinois,2016,58997
+Orlando,Florida,2016,278130
+Oshkosh,Wisconsin,2016,66517
+Overland Park,Kansas,2016,189272
+Owensboro,Kentucky,2016,59261
+Oxnard,California,2016,207754
+Palatine vi,Illinois,2016,69010
+Palm Bay,Florida,2016,110385
+Palm Beach Gardens,Florida,2016,54709
+Palm Coast,Florida,2016,84089
+Palm Desert,California,2016,52096
+Palmdale,California,2016,156992
+Palo Alto,California,2016,67406
+Paramount,California,2016,54840
+Parker,Colorado,2016,52614
+Parma,Ohio,2016,79646
+Pasadena,California,2016,141833
+Pasadena,Texas,2016,154632
+Pasco,Washington,2016,71618
+Passaic,New Jersey,2016,70086
+Paterson,New Jersey,2016,145682
+Pawtucket,Rhode Island,2016,71798
+Peabody,Massachusetts,2016,52809
+Pearland,Texas,2016,116332
+Pembroke Pines,Florida,2016,168315
+Pensacola,Florida,2016,52667
+Peoria,Arizona,2016,164212
+Peoria,Illinois,2016,114189
+Perris,California,2016,76168
+Perth Amboy,New Jersey,2016,51802
+Petaluma,California,2016,60486
+Pflugerville,Texas,2016,59595
+Pharr,Texas,2016,77846
+Philadelphia,Pennsylvania,2016,1576390
+Phoenix,Arizona,2016,1613581
+Pico Rivera,California,2016,63542
+Pinellas Park,Florida,2016,52469
+Pittsburg,California,2016,70797
+Pittsburgh,Pennsylvania,2016,304814
+Placentia,California,2016,52221
+Plainfield,New Jersey,2016,50416
+Plano,Texas,2016,286576
+Plantation,Florida,2016,92798
+Pleasanton,California,2016,82314
+Plymouth,Minnesota,2016,77377
+Pocatello,Idaho,2016,54986
+Pomona,California,2016,152637
+Pompano Beach,Florida,2016,109402
+Pontiac,Michigan,2016,60154
+Port Arthur,Texas,2016,55670
+Port Orange,Florida,2016,61502
+Port St. Lucie,Florida,2016,183684
+Porterville,California,2016,59948
+Portland,Maine,2016,66898
+Portland,Oregon,2016,643136
+Portsmouth,Virginia,2016,95094
+Providence,Rhode Island,2016,179720
+Provo,Utah,2016,116573
+Pueblo,Colorado,2016,110173
+Quincy,Massachusetts,2016,94133
+Racine,Wisconsin,2016,77455
+Raleigh,North Carolina,2016,459194
+Rancho Cordova,California,2016,72183
+Rancho Cucamonga,California,2016,175975
+Rapid City,South Dakota,2016,73435
+Reading,Pennsylvania,2016,88145
+Redding,California,2016,91210
+Redlands,California,2016,71108
+Redmond,Washington,2016,62863
+Redondo Beach,California,2016,67905
+Redwood City,California,2016,85328
+Reno,Nevada,2016,242476
+Renton,Washington,2016,101638
+Revere,Massachusetts,2016,54021
+Rialto,California,2016,102992
+Richardson,Texas,2016,113890
+Richland,Washington,2016,54742
+Richmond,California,2016,109652
+Richmond,Virginia,2016,225332
+Rio Rancho,New Mexico,2016,94500
+Riverside,California,2016,323877
+Roanoke,Virginia,2016,99572
+Rochester Hills,Michigan,2016,73852
+Rochester,Minnesota,2016,113927
+Rochester,New York,2016,207729
+Rock Hill,South Carolina,2016,72088
+Rockford,Illinois,2016,147781
+Rocklin,California,2016,62666
+Rockville,Maryland,2016,66985
+Rocky Mount,North Carolina,2016,55041
+Rogers,Arkansas,2016,65143
+Rosemead,California,2016,54423
+Roseville,California,2016,132699
+Roswell,Georgia,2016,94525
+Round Rock,Texas,2016,120705
+Rowlett,Texas,2016,62340
+Royal Oak,Michigan,2016,59225
+Sacramento,California,2016,494324
+Saginaw,Michigan,2016,48919
+Salem,Oregon,2016,166599
+Salinas,California,2016,157144
+Salt Lake City,Utah,2016,194182
+Sammamish,Washington,2016,63891
+San Angelo,Texas,2016,99809
+San Antonio,Texas,2016,1488512
+San Bernardino,California,2016,215431
+San Buenaventura (Ventura),California,2016,110127
+San Clemente,California,2016,65256
+San Diego,California,2016,1403865
+San Francisco,California,2016,872795
+San Jose,California,2016,1030359
+San Leandro,California,2016,90666
+San Marcos,California,2016,95116
+San Marcos,Texas,2016,61521
+San Mateo,California,2016,104420
+San Rafael,California,2016,58932
+San Ramon,California,2016,75708
+Sandy Springs,Georgia,2016,105553
+Sandy,Utah,2016,96293
+Sanford,Florida,2016,58897
+Santa Ana,California,2016,334175
+Santa Barbara,California,2016,91579
+Santa Clara,California,2016,126561
+Santa Clarita,California,2016,209668
+Santa Cruz,California,2016,64452
+Santa Fe,New Mexico,2016,83811
+Santa Maria,California,2016,105896
+Santa Monica,California,2016,92330
+Santa Rosa,California,2016,182475
+Santee,California,2016,57754
+Sarasota,Florida,2016,56446
+Savannah,Georgia,2016,145883
+Schaumburg vi,Illinois,2016,74650
+Schenectady,New York,2016,65086
+Scottsdale,Arizona,2016,248100
+Scranton,Pennsylvania,2016,77264
+Seattle,Washington,2016,710510
+Shawnee,Kansas,2016,65347
+Shoreline,Washington,2016,55751
+Shreveport,Louisiana,2016,194222
+Simi Valley,California,2016,126196
+Sioux City,Iowa,2016,82670
+Sioux Falls,South Dakota,2016,173682
+Skokie vi,Illinois,2016,64494
+Smyrna,Georgia,2016,56419
+Smyrna,Tennessee,2016,48504
+Somerville,Massachusetts,2016,80902
+South Bend,Indiana,2016,101884
+South Fulton,Georgia,2016,95239
+South Gate,California,2016,95396
+South Jordan,Utah,2016,68595
+South San Francisco,California,2016,67286
+Southaven,Mississippi,2016,53161
+Southfield,Michigan,2016,73485
+Sparks,Nevada,2016,98105
+Spokane Valley,Washington,2016,95794
+Spokane,Washington,2016,214990
+Springdale,Arkansas,2016,78735
+Springfield,Illinois,2016,116540
+Springfield,Massachusetts,2016,154278
+Springfield,Missouri,2016,166672
+Springfield,Ohio,2016,58893
+Springfield,Oregon,2016,61549
+St. Charles,Missouri,2016,69314
+St. Clair Shores,Michigan,2016,59799
+St. Cloud,Florida,2016,48505
+St. Cloud,Minnesota,2016,67768
+St. George,Utah,2016,81684
+St. Joseph,Missouri,2016,76562
+St. Louis,Missouri,2016,312389
+St. Paul,Minnesota,2016,303155
+St. Peters,Missouri,2016,57126
+St. Petersburg,Florida,2016,259556
+Stamford,Connecticut,2016,129042
+Sterling Heights,Michigan,2016,132528
+Stillwater,Oklahoma,2016,49724
+Stockton,California,2016,306407
+Stonecrest,Georgia,2016,54066
+Suffolk,Virginia,2016,89322
+Sugar Land,Texas,2016,118560
+Summerville,South Carolina,2016,50077
+Sunnyvale,California,2016,153633
+Sunrise,Florida,2016,93681
+Surprise,Arizona,2016,132971
+Syracuse,New York,2016,143181
+Tacoma,Washington,2016,210268
+Tallahassee,Florida,2016,189221
+Tamarac,Florida,2016,64962
+Tampa,Florida,2016,376170
+Taunton,Massachusetts,2016,56958
+Taylor,Michigan,2016,61563
+Taylorsville,Utah,2016,60407
+Temecula,California,2016,112451
+Tempe,Arizona,2016,185004
+Temple,Texas,2016,73012
+Terre Haute,Indiana,2016,60655
+Thornton,Colorado,2016,134718
+Thousand Oaks,California,2016,128715
+Tigard,Oregon,2016,51960
+Tinley Park vi,Illinois,2016,56985
+Toledo,Ohio,2016,278780
+Topeka,Kansas,2016,126989
+Torrance,California,2016,146660
+Tracy,California,2016,89081
+Trenton,New Jersey,2016,83387
+Troy,Michigan,2016,84095
+Troy,New York,2016,49593
+Tucson,Arizona,2016,537831
+Tulare,California,2016,62651
+Tulsa,Oklahoma,2016,404182
+Turlock,California,2016,72511
+Tuscaloosa,Alabama,2016,98990
+Tustin,California,2016,80357
+Tyler,Texas,2016,103954
+Union City,California,2016,75438
+Union City,New Jersey,2016,68373
+Upland,California,2016,76451
+Urban Honolul,Hawaii,2016,351883
+Utica,New York,2016,60616
+Vacaville,California,2016,98104
+Valdosta,Georgia,2016,55843
+Vallejo,California,2016,121064
+Vancouver,Washington,2016,178627
+Victoria,Texas,2016,67446
+Victorville,California,2016,121912
+Vineland,New Jersey,2016,60339
+Virginia Beach,Virginia,2016,451136
+Visalia,California,2016,130874
+Vista,California,2016,101040
+Waco,Texas,2016,133517
+Walnut Creek,California,2016,69235
+Waltham,Massachusetts,2016,62923
+Warner Robins,Georgia,2016,74412
+Warren,Michigan,2016,135233
+Warwick,Rhode Island,2016,80977
+Washington,District of Columbia,2016,686575
+Waterbury,Connecticut,2016,108473
+Waterloo,Iowa,2016,68028
+Watsonville,California,2016,53808
+Waukegan,Illinois,2016,88174
+Waukesha,Wisconsin,2016,72416
+Wellington vi,Florida,2016,64226
+West Allis,Wisconsin,2016,60353
+West Covina,California,2016,107607
+West Des Moines,Iowa,2016,64573
+West Haven,Connecticut,2016,54644
+West Jordan,Utah,2016,113380
+West New York,New Jersey,2016,52615
+West Palm Beach,Florida,2016,108790
+West Sacramento,California,2016,52946
+West Valley City,Utah,2016,136751
+Westland,Michigan,2016,82089
+Westminster,California,2016,91602
+Westminster,Colorado,2016,113034
+Weston,Florida,2016,70333
+Weymouth Town,Massachusetts,2016,55914
+Wheaton,Illinois,2016,53514
+White Plains,New York,2016,58002
+Whittier,California,2016,86732
+Wichita Falls,Texas,2016,104203
+Wichita,Kansas,2016,390549
+Wilmington,Delaware,2016,70919
+Wilmington,North Carolina,2016,118722
+Winston-Salem,North Carolina,2016,241656
+Woodbury,Minnesota,2016,68526
+Woodland,California,2016,59056
+Worcester,Massachusetts,2016,185139
+Wylie,Texas,2016,48859
+Wyoming,Michigan,2016,75654
+Yakima,Washington,2016,93572
+Yonkers,New York,2016,200083
+Yorba Linda,California,2016,68136
+Youngstown,Ohio,2016,64358
+Yuba City,California,2016,66308
+Yucaipa,California,2016,53246
+Yuma,Arizona,2016,95386
