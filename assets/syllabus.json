@@ -165,12 +165,12 @@
                 },
                 {
                     "title":"Download H1B petition data (~20MB)",
-                    "link":"assets/datasets/h1b_kaggle_sample.csv",
+                    "link":"https://bostoncollege.instructure.com/files/66307760/download?download_frd=1",
                     "required":true
                 },
                 {
                     "title":"Download State Population data (<1MB)",
-                    "link":"assets/datasets/state-city-population.csv",
+                    "link":"https://bostoncollege.instructure.com/files/66307761/download?download_frd=1",
                     "required":true
                 },
 
