@@ -261,6 +261,47 @@
             ]
         },           
        
+
+        {
+            "title": "D3 Update Pattern",
+            "desc":"What do we do when new data comes in? This lab will tackle the general update pattern for populating new data to an existing visualization, which is at the heart of the D3 library design.",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Chapter 9. Updates, Transitions, and Motion, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch09.html#updates-chapter9",
+                    "required": true
+                },
+                {
+                    "title":"Chapter 12. Selections, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch12.html#selections",
+                    "required":true
+                },
+                {
+                    "title":"How Selections Work, Mike Bostock, 2013",
+                    "link":"https://bost.ocks.org/mike/selection/",
+                    "required": false
+                }
+                
+            ]
+        },       
+        {
+            "title": "D3 Brushing and Linking",
+            "desc":"The fundamental guiding principle for interactive visualization is \"Overview first, zoom and filter, then details-on-demand\". In this lab, we will implement the principle using a focus + context technique.",
+            "type":"lab",
+            "readings":[
+                {
+                    "title":"Chapter 10.Interactivity, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch10.html#interactivity",
+                    "required": true
+                },
+                {
+                    "title":"Chapter 11.Using Paths, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch11.html#using_paths",
+                    "required":true
+                }
+            ]
+        }, 
         {
             "title": "Task Analysis and Evaluation",
             "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
@@ -284,30 +325,6 @@
 
             ]
         },
-        {
-            "title": "D3 Update Pattern",
-            "desc":"What do we do when new data comes in? This lab will tackle the general update pattern for populating new data to an existing visualization, which is at the heart of the D3 library design.",
-            "type":"lab",
-            "readings":[
-                {
-                    "title":"Chapter 9. Updates, Transitions, and Motion, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
-                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch09.html#updates-chapter9",
-                    "required": true
-                },
-                {
-                    "title":"Chapter 12. Selections, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
-                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch12.html#selections",
-                    "required":true
-                },
-                {
-                    "title":"How Selections Work, Mike Bostock, 2013",
-                    "link":"https://bost.ocks.org/mike/selection/",
-                    "required": false
-                }
-                
-            ]
-        },        
-         
         {
             "title": "Interaction",
             "desc":"How can we explore complex and multi-faceted data in a limited screen space? In this lecture, we will discuss different interaction techniques that allow us to dynamically filter data and coordinate multiple views.",
@@ -336,23 +353,7 @@
             ]
         },     
         
-        {
-            "title": "D3 Brushing and Linking",
-            "desc":"The fundamental guiding principle for interactive visualization is \"Overview first, zoom and filter, then details-on-demand\". In this lab, we will implement the principle using a focus + context technique.",
-            "type":"lab",
-            "readings":[
-                {
-                    "title":"Chapter 10.Interactivity, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
-                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch10.html#interactivity",
-                    "required": true
-                },
-                {
-                    "title":"Chapter 11.Using Paths, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
-                    "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch11.html#using_paths",
-                    "required":true
-                }
-            ]
-        },
+       
         {
             "title": "No Class - Fall Break",
             "type": "noclass",
