@@ -281,6 +281,11 @@
                     "title":"How Selections Work, Mike Bostock, 2013",
                     "link":"https://bost.ocks.org/mike/selection/",
                     "required": false
+                },
+                {
+                    "title":"Thinking with Joins",
+                    "link":"https://bost.ocks.org/mike/join/",
+                    "required":false
                 }
                 
             ]
@@ -321,11 +326,6 @@
                     "title":"Chapter 4. Analysis: Four Levels for Validation, Visualization Analysis and Design, Tamara Munzner, 2014",
                     "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C004.xhtml",
                     "required": false
-                },
-                {
-                    "title":"Thinking with Joins",
-                    "link":"https://bost.ocks.org/mike/join/",
-                    "required":false
                 }
 
             ]
