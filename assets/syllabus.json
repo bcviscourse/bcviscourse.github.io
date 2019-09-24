@@ -303,6 +303,11 @@
                     "title":"How Selections Work, Mike Bostock, 2013",
                     "link":"https://bost.ocks.org/mike/selection/",
                     "required": false
+                },
+                {
+                    "title":"Thinking with Joins",
+                    "link":"https://bost.ocks.org/mike/join/",
+                    "required":false
                 }
                 
             ]
