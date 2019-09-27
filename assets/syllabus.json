@@ -304,6 +304,11 @@
                     "title":"Chapter 11.Using Paths, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
                     "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch11.html#using_paths",
                     "required":true
+                },
+                {
+                    "title":"Towards Reusable Charts",
+                    "link":"https://bost.ocks.org/mike/chart/",
+                    "required": true
                 }
             ]
         }, 
