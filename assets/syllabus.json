@@ -406,6 +406,11 @@
                     "title":"Creating a Unique Visualization",
                     "link":"http://jsdatav.is/chap07.html#creating-a-unique-visualization",
                     "required": true
+                },
+                {
+                    "title":"SVG Beyond Mere Shapes — Nadieh Bremer",
+                    "link":"https://www.youtube.com/watch?v=AwlA3SaChHE",
+                    "required":true
                 }
             ]
         },     
@@ -574,14 +579,9 @@
             "desc":"In this lecture, we will get a glimpse of the state of the art and various research topics in visualization research, as well as what practitioners are doing in the wild.",
             "readings":[
                 {
-                    "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
-                    "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
+                    "title":"3rd Wave Data Visualization",
+                    "link":"https://www.youtube.com/watch?v=itChfcTx7ao",
                     "required": true
-                },
-                {
-                    "title":"Visualizing Uncertainty, Fundamentals of Data Visualization, Wilke, 2018",
-                    "link":"https://serialmentor.com/dataviz/visualizing-uncertainty.html",
-                    "required": false
                 }
             ]
         },{
