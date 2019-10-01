@@ -83,7 +83,7 @@ function renderDaySchedule(d){
         <div class="content">
             <p class="desc">${d.desc}</p>
             <p class="readings">
-                ${renderReadings(d.readings)}
+                ${d.readings.length>0?renderReadings(d.readings):'<strong>No Readings!</strong>'}
             </p>
         </div>
         `;

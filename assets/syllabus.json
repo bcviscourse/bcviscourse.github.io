@@ -312,29 +312,7 @@
                 }
             ]
         }, 
-        {
-            "title": "Task Analysis and Evaluation",
-            "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
-            "type":"lecture",
-            "readings":[
-                {
-                    "title":"Chapter 3. Why: Task Abstraction, Visualization Analysis and Design, Tamara Munzner, 2014",
-                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C003.xhtml",
-                    "required": true
-                },
-                {
-                    "title":"Thinking Aloud: The #1 Usability Tool",
-                    "link":"https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
-                    "required":true
-                },
-                {
-                    "title":"Chapter 4. Analysis: Four Levels for Validation, Visualization Analysis and Design, Tamara Munzner, 2014",
-                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C004.xhtml",
-                    "required": false
-                }
-
-            ]
-        },
+       
         {
             "title": "Interaction",
             "desc":"How can we explore complex and multi-faceted data in a limited screen space? In this lecture, we will discuss different interaction techniques that allow us to dynamically filter data and coordinate multiple views.",
@@ -363,15 +341,6 @@
             ]
         },     
         
-       
-        {
-            "title": "No Class - Fall Break",
-            "type": "noclass",
-            "desc":"",
-            "readings":[
-            ]
-        },
-                 
         {
             "title": "D3 Layouts",
             "desc":"Advanced visualizations beyond simple statistical charts often require complex layouts. In this lab, students will learn to use space more effectively by experimenting with commonly used layouts.",
@@ -388,7 +357,39 @@
                     "required": true
                 }
             ]
-        },    
+        }, 
+        {
+            "title": "No Class - Fall Break",
+            "type": "noclass",
+            "desc":"",
+            "readings":[
+            ]
+        },
+                 
+
+        {
+            "title": "Task Analysis and Evaluation",
+            "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
+            "type":"lecture",
+            "readings":[
+                {
+                    "title":"Chapter 3. Why: Task Abstraction, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C003.xhtml",
+                    "required": true
+                },
+                {
+                    "title":"Thinking Aloud: The #1 Usability Tool",
+                    "link":"https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+                    "required":true
+                },
+                {
+                    "title":"Chapter 4. Analysis: Four Levels for Validation, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C004.xhtml",
+                    "required": false
+                }
+
+            ]
+        },   
         {
             "title": "No Class - IEEE VIS Conference Travel",
             "type": "noclass",
@@ -404,11 +405,6 @@
                 {
                     "title":"Creating a Unique Visualization",
                     "link":"http://jsdatav.is/chap07.html#creating-a-unique-visualization",
-                    "required": true
-                },
-                {
-                    "title":"The D3.js Graph Gallery",
-                    "link":"https://www.d3-graph-gallery.com/index.html",
                     "required": true
                 }
             ]
@@ -453,16 +449,6 @@
             "desc":"To support complex tasks or to see multiple perspectives on data, we need more than one visualization. In this lab, students will learn how to coordinate multiple visualizations.",
             "type":"lab",
             "readings":[
-                {
-                    "title":"Towards Reusable Charts",
-                    "link":"https://bost.ocks.org/mike/chart/",
-                    "required": true
-                },
-                {
-                    "title":"Javascript Closures",
-                    "link":"https://www.w3schools.com/js/js_function_closures.asp",
-                    "required":true
-                }
             ]
         },
       
