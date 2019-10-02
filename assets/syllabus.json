@@ -309,6 +309,11 @@
                     "title":"Towards Reusable Charts",
                     "link":"https://bost.ocks.org/mike/chart/",
                     "required": true
+                },
+                {
+                    "title":"d3-dispatch (just the intro)",
+                    "link":"https://github.com/d3/d3-dispatch",
+                    "required":true
                 }
             ]
         }, 
