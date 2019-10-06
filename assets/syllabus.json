@@ -352,12 +352,12 @@
             "type":"lab",
             "readings":[
                 {
-                    "title":"Chapter 13.Layouts, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "title":"Chapter 13. Layouts, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
                     "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch13.html#chapter11-layouts",
                     "required": true
                 },
                 {
-                    "title":"Chapter 14.Geomapping, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
+                    "title":"Chapter 14. Geomapping, Interactive Data Visualization for the Web, 2nd Edition, Scott Murray, 2017",
                     "link":"https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/ch14.html#geomapping_chapter",
                     "required": true
                 }
@@ -370,27 +370,25 @@
             "readings":[
             ]
         },
-                 
-
         {
             "title": "Task Analysis and Evaluation",
             "desc":"Effective visualization depends on specific tasks to be performed on. In this lecture, we will look at a formal methodology to translate high-level goals into low-level tasks, as well as different evaluation methods.",
             "type":"lecture",
             "readings":[
                 {
-                    "title":"Chapter 3. Why: Task Abstraction, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "title":"Chapter 3. Why: Task Abstraction (3.1 - 3.5 only), Visualization Analysis and Design, Tamara Munzner, 2014",
                     "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C003.xhtml",
+                    "required": true
+                },
+                {
+                    "title":"Chapter 4. Analysis: Four Levels for Validation, Visualization Analysis and Design, Tamara Munzner, 2014",
+                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C004.xhtml",
                     "required": true
                 },
                 {
                     "title":"Thinking Aloud: The #1 Usability Tool",
                     "link":"https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
-                    "required":true
-                },
-                {
-                    "title":"Chapter 4. Analysis: Four Levels for Validation, Visualization Analysis and Design, Tamara Munzner, 2014",
-                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C004.xhtml",
-                    "required": false
+                    "required":false
                 }
 
             ]
