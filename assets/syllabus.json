@@ -394,9 +394,9 @@
             ]
         },   
         {
-            "title": "No Class - IEEE VIS Conference Travel",
+            "title": "Extended Office Hour for HW3",
             "type": "noclass",
-            "desc":"TBD: there might be a guest lecture or visit to exhibitions in nearby libraries.",
+            "desc":"I will be holding office hours in our classroom (Merkert Center 130). You can have your team meetings and collaborate there, and ask questions and get feedback from me.",
             "readings":[
             ]
         }, 
@@ -461,19 +461,24 @@
         },
       
         {
-            "title": "Networks and Maps",
+            "title": "Advanced Visualizations",
             "desc":"Statistical graphics can cover tabular data but not network and geographic data. In this lecture, students will learn about specialized visualizations for graph structures and geographic maps.",
             "type":"lecture",
             "readings":[
                 {
-                    "title":"What to consider when creating choropleth maps, Lisa Charlotte Rost, 2018",
-                    "link":"https://blog.datawrapper.de/choroplethmaps/",
-                    "required": true
+                    "title":"A Tour through the Visualization Zoo",
+                    "link":"https://queue.acm.org/detail.cfm?id=1805128",
+                    "required":true
                 },
                 {
-                    "title":"Chapter 9. Arrange Networks and Trees, Visualization Analysis and Design, Tamara Munzner, 2014",
-                    "link":"https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/K14708_C009.xhtml",
-                    "required": true
+                    "title":"What to consider when creating choropleth maps, Lisa Charlotte Rost, 2018",
+                    "link":"https://blog.datawrapper.de/choroplethmaps/",
+                    "required": false
+                },
+                {
+                    "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
+                    "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
+                    "required": false
                 }
             ]
         },
@@ -505,11 +510,6 @@
                 {
                     "title":"Watch Ian Johnson's talk on Machine Learning for Visualization (25 min)",
                     "link":"https://youtu.be/6n-kCYn0zxU",
-                    "required":true
-                },
-                {
-                    "title":"A Tour through the Visualization Zoo",
-                    "link":"https://queue.acm.org/detail.cfm?id=1805128",
                     "required":true
                 },
                 {
