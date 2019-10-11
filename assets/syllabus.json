@@ -434,14 +434,14 @@
                     "required": true
                 },
                 {
-                    "title":"Perception in Visualization, Christopher G. Healey, 2012",
-                    "link":"https://www.csc2.ncsu.edu/faculty/healey/PP/index.html",
-                    "required": false
-                },
-                {
                     "title":"39 Studies About Human Perception in 30 Minutes. Kennedy Elliott.",
                     "link":"assets/readings/39 studies about human perception in 30 minutes - kennedy elliott - Medium.pdf",
                     "required":false
+                },
+                {
+                    "title":"Perception in Visualization, Christopher G. Healey, 2012",
+                    "link":"https://www.csc2.ncsu.edu/faculty/healey/PP/index.html",
+                    "required": false
                 },
                 {
                     "title":"Graphical Perception: Theory, Experimentation and the Application to the Development of Graphical Models. William S. Cleveland, 1984.",
@@ -457,12 +457,27 @@
             "desc":"To support complex tasks or to see multiple perspectives on data, we need more than one visualization. In this lab, students will learn how to coordinate multiple visualizations.",
             "type":"lab",
             "readings":[
+                {
+                    "title":"A better way to write code, Mike Bostock, OpenVis 2017",
+                    "link":"https://www.youtube.com/watch?time_continue=103&v=lNbqfQlGkzc",
+                    "required":true
+                },
+                {
+                    "title":"[Revisited] Towards Reusable Charts",
+                    "link":"https://bost.ocks.org/mike/chart/",
+                    "required": false
+                },
+                {
+                    "title":"[Revisited] d3-dispatch (just the intro)",
+                    "link":"https://github.com/d3/d3-dispatch",
+                    "required":false
+                }
             ]
         },
       
         {
             "title": "Advanced Visualizations",
-            "desc":"Statistical graphics can cover tabular data but not network and geographic data. In this lecture, students will learn about specialized visualizations for graph structures and geographic maps.",
+            "desc":"Statistical graphics mostly only cover tabular data and visualize aggregate measures within. In this lecture, students will learn about other advanced visualizations for networks, maps, and texts, in addition to uncertainties hidden in the aggregates.",
             "type":"lecture",
             "readings":[
                 {
@@ -471,19 +486,17 @@
                     "required":true
                 },
                 {
-                    "title":"What to consider when creating choropleth maps, Lisa Charlotte Rost, 2018",
-                    "link":"https://blog.datawrapper.de/choroplethmaps/",
-                    "required": false
-                },
-                {
                     "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
                     "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
+                    "required": true
+                },
+                {
+                    "title":"What to consider when creating choropleth maps, Lisa Charlotte Rost, 2018",
+                    "link":"https://blog.datawrapper.de/choroplethmaps/",
                     "required": false
                 }
             ]
         },
-
-          
         {
             "title": "Introduction to Vega-Lite",
             "desc":"While D3 is the Swiss army knife for custom visualizations, it is often overkill for most visualizations. This lab introduces Vega-lite that provides a higher-level grammar for rapidly generating standard visualizations.",
@@ -508,15 +521,16 @@
                     "required":true
                 },
                 {
-                    "title":"Watch Ian Johnson's talk on Machine Learning for Visualization (25 min)",
-                    "link":"https://youtu.be/6n-kCYn0zxU",
+                    "title":"Watch Fernanda Viégas + Martin Wattenberg - Data visualization for machine learning (35 min)",
+                    "link":"https://vimeo.com/304131671",
                     "required":true
                 },
                 {
-                    "title":"Watch Fernanda Viégas + Martin Wattenberg - Data visualization for machine learning (35 min)",
-                    "link":"https://vimeo.com/304131671",
+                    "title":"Watch Ian Johnson's talk on Machine Learning for Visualization (25 min)",
+                    "link":"https://youtu.be/6n-kCYn0zxU",
                     "required":false
                 },
+
                 {
                     "title":"How to Use t-SNE Effectively",
                     "link":"https://distill.pub/2016/misread-tsne/",
