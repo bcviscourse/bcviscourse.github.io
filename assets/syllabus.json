@@ -394,7 +394,7 @@
             ]
         },   
         {
-            "title": "Extended Office Hour for HW3",
+            "title": "Design Feedback Session for HW3",
             "type": "noclass",
             "desc":"I will be holding office hours in our classroom (Merkert Center 130). You can have your team meetings and collaborate there, and ask questions and get feedback from me.",
             "readings":[
@@ -539,7 +539,7 @@
         },
         
         {
-            "title": "Design Feedback Session 1",
+            "title": "Design Feedback Session 1 for Final Project",
             "type":"presentation",
             "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
             "readings":[
@@ -551,7 +551,7 @@
             ]
         },
         {
-            "title": "Design Feedback Session 2",
+            "title": "Design Feedback Session 2 for Final Project",
             "type":"presentation",
             "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
             "readings":[
