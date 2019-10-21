@@ -555,19 +555,24 @@
         {
             "title": "Design Feedback Session 1 for Final Project",
             "type":"presentation",
-            "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
+            "desc":"Each student team will discuss their prototype with the course staff and receive feedback. They will also complete peer reviews of prototypes from other teams.",
             "readings":[
+                {
+                    "title":"I like / I wish / What if?",
+                    "link":"https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf",
+                    "required": true
+                },
                 {
                     "title":"The 10 Bad Habits that Hurt Critique",
                     "link":"assets/readings/The 10 Bad Habits that Hurt Critique.pdf",
-                    "required": true
+                    "required": false
                 }
             ]
         },
         {
             "title": "Design Feedback Session 2 for Final Project",
             "type":"presentation",
-            "desc":"Feedback is critical in the visualization design process. Student teams will present working-in-progress prototypes or sketches, and receive constructive feedback from peers.",
+            "desc":"Each student team will discuss their prototype with the course staff and receive feedback. They will also complete peer reviews of prototypes from other teams.",
             "readings":[
             ]
         },
@@ -602,9 +607,9 @@
                 }
             ]
         },{
-            "title": "Final Project Presentation",
+            "title": "Final Project Showcase",
             "type":"presentation",
-            "desc":"Student teams will showcase their final prototypes to the class. Presenting an idea clearly and professionally is important and will be part of the final project evaluation.",
+            "desc":"We will watch your showcase videos together in the lecture room and just enjoy the last class.",
             "readings":[
             ]
         }
