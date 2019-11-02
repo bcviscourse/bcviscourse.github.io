@@ -483,12 +483,12 @@
                 {
                     "title":"A Tour through the Visualization Zoo",
                     "link":"https://queue.acm.org/detail.cfm?id=1805128",
-                    "required":true
+                    "required":false
                 },
                 {
                     "title":"The Visual Uncertainty Experience, OpenVis 2016, Jessica Hullman",
                     "link":"https://www.youtube.com/watch?v=pTVAn4oLvbc&index=19&list=PLlgxAbM67lYKz_NssZ1DdDwIRIWbkDlN-&t=88s",
-                    "required": true
+                    "required": false
                 },
                 {
                     "title":"What to consider when creating choropleth maps, Lisa Charlotte Rost, 2018",
@@ -503,8 +503,13 @@
             "type":"lab",
             "readings":[
                 {
-                    "title":"TBD",
-                    "link":"/",
+                    "title":"Vega Lite: A Grammar of Interactive Graphics - Wongsuphasawat, Moritz, and Satyanarayan",
+                    "link":"https://www.youtube.com/watch?v=9uaHRWj04D4",
+                    "required": true
+                },
+                {
+                    "title":"Getting Started Tutorial",
+                    "link":"https://vega.github.io/vega-lite/tutorials/getting_started.html",
                     "required": true
                 }
             ]
@@ -540,8 +545,8 @@
         },
 
         {
-            "title": "Advanced Vega-lite",
-            "desc":"While not as flexible as D3, Vega-lite provides several ways to create beyond simple statistical charts including cartograms and parallel coordinate plots. This lab will cover how to construct multi-view interactive displays in Vega-lite.",
+            "title": "TBD (Vega-lite or Leaflet)",
+            "desc":"TBD",
             "type":"lab",
             "readings":[
                 {
