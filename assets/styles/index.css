@@ -58,7 +58,7 @@ body{
     text-decoration: none;
     cursor: pointer;
   }
-  
+
   .container{
     max-width: 800px;
     width: 100%;
@@ -221,4 +221,69 @@ body{
 .chip.selected{
   background: #B3E5FC;
   /* color:#fafafa; */
+}
+.navbar{
+  
+  width:160px;
+  position: fixed;
+  z-index: 1; /* Stay on top */
+  top: 25px; /* Stay at the top */
+  left: 25px;
+  background:#fafafa;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  /* margin:15px; */
+  padding:10px;
+  /* border: 1px solid #eeeeee; */
+  border-radius: 0.2rem;
+  opacity: 0.8;
+}
+.mobilenavbar{
+  display: none;
+}
+@media (max-width:1024px){
+  .navbar{
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.2s;
+  }
+  .show{
+    opacity: 1;
+    height: auto;
+  }
+  .mobilenavbar{
+    display: block;
+    text-align: right;
+    width:100%;
+    font-size: 1.5rem;
+    position: fixed;
+    background: #fafafa;
+    padding-right: 20px;
+    opacity: 0.8;
+  }
+  .container{
+    margin-top:50px;
+  }
+}
+@media (min-width:1248px){
+  .navbar{
+    opacity: 1;
+    left: calc(50vw - 624px);
+  }
+}
+.navitem {
+  margin:5px 0px 5px 0px;
+}
+
+.award{
+  margin:15px 0px 15px 0px;
+}
+.emphasis {
+  background: #03A9F4;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+}
+.award-title{
+  margin: 5px 0px 5px 0px;
 }

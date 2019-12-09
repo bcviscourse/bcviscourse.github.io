@@ -32,24 +32,46 @@
     </head>
     
     <body>
-        
-        <header class="container">
-            <h1 class="title">CSCI339001 Visualization</h1>
-            <div class="teaser"> <img src="assets/images/teaser.png"></div>
-            <p class="description">
-                Data can capture a snapshot of the world and allow us to understand ourselves and our communities better. With ever-increasing amounts of data,  the ability to understand and communicate data is becoming essential for everyone. Visualization leverages our visual perception to provide a powerful yet accessible way to make sense of large and complex data. It has been widely adopted across disciplines, from science and engineering to business and journalism, to combat the overabundance of information in our society.
-                <br/><br/>
-                In this course, students will learn to acquire foundational knowledge about how to design effective visualizations for analysis and presentation based on theories and principles from graphic design, perceptual psychology, and cognitive science. Students will also learn practical skills about how to rapidly explore and communicate data using <a href="https://public.tableau.com/en-us/s/download" target="_blank">Tableau</a> and build interactive visualization products (e.g., articles, tools, and systems) using web-based frameworks including <a href="https://d3js.org/">D3.js</a> and <a href="https://vega.github.io/vega-lite/" target="_blank">Vega-Lite</a>.
-            </p>
-            <p>
-                <strong>Time</strong>: TuTh 12:00-1:15 pm <br/>
-                <strong>Location</strong>: Merkert Center 130 <br/>
-                <strong>Submission</strong>: <a href="https://bostoncollege.instructure.com/courses/1600933" target="_blank">Canvas</a> <br/>
-                <strong>Q & A</strong>: <a href="https://piazza.com/bc/fall2019/csci339001" target="_blank">Piazza</a>
-            </p>
-        </header>
-        <main class="container">
+        <nav class="navbar">
+            <div class="navitem"><a class="navitem" href="#about">About</a></div>
+            <div class="navitem"><a class="navitem" href="#staff">Staff</a></div>
+            <div class="navitem"><a class="navitem" href="#objectives">Learning Objectives</a></div>
+            <div class="navitem"><a class="navitem" href="#schedule">Schedule</a></div>
+            <div class="navitem"><a class="navitem" href="#logistics">Logistics</a></div>
+            <div class="navitem"><a class="navitem" href="#grading">Grading</a></div>
+            <div class="navitem"><a class="navitem" href="#policies">Policies & Practices</a></div>
+            <div class="navitem"><a class="navitem" href="#fame">Hall of Fame</a></div>
+            <div class="navitem"><a class="navitem" href="#credits">Credits</a></div>
+        </nav>
+        <div class="mobilenavbar">
+            <i class="fas fa-bars"></i>
+        </div>
+        <main class="container" id="about">
+            <h1 class="title"><img src="assets/images/logo.png" width="25px"/> CSCI339001 Visualization</h1>
             <section>
+                <div class="teaser"> <img src="assets/images/teaser.png"></div>
+                <p class="description">
+                    Data can capture a snapshot of the world and allow us to understand ourselves and our communities better. With ever-increasing amounts of data,  the ability to understand and communicate data is becoming essential for everyone. Visualization leverages our visual perception to provide a powerful yet accessible way to make sense of large and complex data. It has been widely adopted across disciplines, from science and engineering to business and journalism, to combat the overabundance of information in our society.
+                    <br/><br/>
+                    In this course, students will learn to acquire foundational knowledge about how to design effective visualizations for analysis and presentation based on theories and principles from graphic design, perceptual psychology, and cognitive science. Students will also learn practical skills about how to rapidly explore and communicate data using <a href="https://public.tableau.com/en-us/s/download" target="_blank">Tableau</a> and build interactive visualization products (e.g., articles, tools, and systems) using web-based frameworks including <a href="https://d3js.org/">D3.js</a> and <a href="https://vega.github.io/vega-lite/" target="_blank">Vega-Lite</a>.
+                </p>
+                <p>
+                    <strong>Time</strong>: TuTh 12:00-1:15 pm <br/>
+                    <strong>Location</strong>: Merkert Center 130 <br/>
+                    <strong>Submission</strong>: <a href="https://bostoncollege.instructure.com/courses/1600933" target="_blank">Canvas</a> <br/>
+                    <strong>Q & A</strong>: <a href="https://piazza.com/bc/fall2019/csci339001" target="_blank">Piazza</a>
+                </p>
+                <p>
+                    <strong>Prerequisites</strong><br/>
+                    There are no official prerequisites for this course, but students are expected to have programming experience. Having experience in web development (i.e., Javascript, HTML, and CSS) is a plus, but not required.
+                </p>
+                
+                <p>
+                    <strong>Textbooks</strong><br/>
+                    There is no required textbook. Readings will be provided and available online through <a href="https://library.bc.edu/" target="_blank">Boston College Libraries</a>
+                </p>
+            </section>
+            <section id="staff">
                 <h2 class="title">Teaching Staff</h2>
                 <p>
                     <strong>Instructor</strong>: Nam Wook Kim <br/>
@@ -63,7 +85,7 @@
                     <strong>Office Hour</strong>: Mo 7:00-9:00 pm at Computer Science Lab - Fulton 160
                 </p>
             </section>  
-            <section>
+            <section id="objectives">
                 <h2 class="title">Learning Objectives</h2>
                 <p>
                     By the end of this course, students will be able to D.A.B:
@@ -82,7 +104,7 @@
                 </p>
 
             </section>
-            <section>
+            <section id="schedule">
                 <h2 class="title">Schedule</h2>
                 <div class="search">
                     <input type="text" name='schedule' placeholder="Search Schedule by Week #, Title, Date, Lab or Lecture...">
@@ -97,13 +119,6 @@
 
                 </div>
             </section>
-            <section>
-                <h2 class="title">Prerequisites</h2>
-                <p>There are no official prerequisites for this course, but students are expected to have programming experience. Having experience in web development (i.e., Javascript, HTML, and CSS) is a plus, but not required.</p>
-            </section>
-            <section>
-                <h2 class="title">Textbooks</h2>
-                <p>There is no required textbook. Readings will be provided and available online through <a href="https://library.bc.edu/" target="_blank">Boston College Libraries</a></p>
                 <!-- <ul>
                     <li><a href="https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC51504713400001021&context=L&tab=bcl_only&search_scope=bcl&vid=bclib_new&lang=en_US" target="_blank">Visualization Analysis and Design, Tamara Munzner, A K Peters/CRC Press, 2014</a></li>
                     <li><a href="https://bc-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=ALMA-BC51504132070001021&context=L&tab=bcl_only&search_scope=bcl&vid=bclib_new&lang=en_US" target="_blank">Interactive Data Visualization for the Web - 2nd Edition, Scott Murray, O'Reilly Press</a><br>
@@ -111,10 +126,9 @@
                     </li>
                 </ul> -->
                 
-            </section>
 
             
-            <section>
+            <section id="logistics">
                 <h2 class="title">Logistics</h2>
                 <br>
                 <strong>Lectures</strong><br>
@@ -154,7 +168,7 @@
                     </ol>
                 </p>
             </section> 
-            <section>
+            <section id="grading">
                 <h2 class="title">Grading</h2>
                 <p>A student’s grade will be based on:</p>
                 <ul>
@@ -174,68 +188,92 @@
                 </ul>
                 <p>In-class activities and minute papers are part of participation, which is meant to help you attain a better grade.</p>
             </section> 
-            <section>
-                <h2 class="title">Course Policy</h2>
-                
-                <p>
-                    <strong>Laptop policy</strong><br>
-                    Students may not use laptops, tablets, phones or other electronic devices during the lectures except when explicitly asked to do so. There is plenty of evidence that multitasking incurs a high cognitive cost in memory and attention (<a href="http://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html" target="_blank">ref</a>), 
-                    students who take notes on laptops may learn less than those who take notes on paper (<a href="http://pss.sagepub.com/content/early/2014/05/21/0956797614524581" target="_blank">ref</a>),
-                    laptops adversely impact not only the people using them, but also those around them (<a href="http://www.sciencedirect.com/science/article/pii/S0360131512002254?np=y" target="_blank">ref</a>).
-                </p>
-                <p>
-                    <strong>Mandatory attendance</strong><br>
-                    A lot of learning in this course happens through various activities in both lectures and labs. Not only attending but also being on time is crucial. 
+            <section id="policies">
+                <h2 class="title">Policies & Practices</h2>
+                <br>
+                <div>
+                    <h3 class="title">Course Policy</h3>
+                    <p>
+                        <strong>Laptop policy</strong><br>
+                        Students may not use laptops, tablets, phones or other electronic devices during the lectures except when explicitly asked to do so. There is plenty of evidence that multitasking incurs a high cognitive cost in memory and attention (<a href="http://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html" target="_blank">ref</a>), 
+                        students who take notes on laptops may learn less than those who take notes on paper (<a href="http://pss.sagepub.com/content/early/2014/05/21/0956797614524581" target="_blank">ref</a>),
+                        laptops adversely impact not only the people using them, but also those around them (<a href="http://www.sciencedirect.com/science/article/pii/S0360131512002254?np=y" target="_blank">ref</a>).
+                    </p>
+                    <p>
+                        <strong>Mandatory attendance</strong><br>
+                        A lot of learning in this course happens through various activities in both lectures and labs. Not only attending but also being on time is crucial. 
+                        
+                    </p>
+                    <p>
+                        <strong>Late submission</strong><br>
+                        Lab, homework, and project submissions after respective deadlines are <strong>not accepted</strong>. Under special circumstances such as medical conditions, family issues, or job interviews, we will allow lab submissions without penalty. Please contact the instructor or TA for such situations. We may require proof of evidence.
+                    </p>
+                    <p>
+                        <strong>Regrade policy</strong><br>
+                        Fair and transparent grading is important. Please contact us know if you think there is an error or unreasonable deduction in your assignment. Only regrading requests within 7 days after the initial grade are accepted.
+                    </p>
+                </div>
+              
+                <div>
+                    <h3 class="title">Accessibility</h3>
+                    <p>
+                        If you have a disability and will be requesting accommodations for this course, please register with either Dr. Kathy Duggan (dugganka@bc.edu), Associate Director, Connors Family Learning Center (learning disabilities or AHD) or Dean Rory Stein, (rory.stein@bc.edu), Assistant Dean for students with disabilities, (all other disabilities).
+
+                        Advance notice and appropriate documentation are required for accommodations.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="title">Academic Policy</h3>
+                    <p>
+                        Students are required to adhere to the <a href="https://www.bc.edu/content/bc-web/academics/sites/university-catalog/policies-procedures.html#academic_integrity_policies" target="_blank">academic policy</a> of Boston College.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="title">Commitment to Inclusion</h3>
+                    <p>
+                        It is our intention that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socio-economic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="title">Code of Conduct</h3>
+                    <p>
+                        We follow <a href="https://www.acm.org/code-of-ethics" href="_blank">ACM Code of Ethics</a>, focusing on the following:
+                    <ul>
+                        <li>
+                                Demonstrate professionalism (e.g., being on time and respect in teamworks)
+                        </li>
+                        <li>
+                                Promote fair, inclusive, and collaborative learning environment
+                        </li>
+                        <li>
+                                Reject behavior that strays into any form of harassments
+                        </li>
+                        </ul>
+                    </p>
+                </div>
+            </section>
+            <section id="fame">
+                <h2 class="title">Hall of Fame</h2>
+                <p>🏆: Best project &nbsp;&nbsp;&nbsp; 🏅: Honorable mention</p>
+                <div>
+                    <h3 class="title">2019</h3>
+                    <div class="award">             
+                        <div class="award-title"><strong>🏆 <a href="https://bcviscourse.github.io/project-g3/" target="_blank">Do you think the world sucks?</a></strong></div>
+                        <div class="award-authors">Chun-An Wang, John Abreu, Peixuan Huang</div>
+                    </div>
+                    <div class="award">             
+                        <div class="award-title"><strong>🏅 <a href="https://bcviscourse.github.io/project-visrulz-finalproject/" target="_blank">Gun Violence in America</a></strong></div>
+                        <div class="award-authors">Brenna Griesser, Ashley Oh, Catriona Sullivan, Liwen Wong</div>
+                    </div>
+                    <div class="award">             
+                        <div class="award-title"><strong>🏅 <a href="https://bcviscourse.github.io/project-harry-potter-vizards-unite-1/" target="_blank">A Brief Introduction to Cryptocurrency</a></strong></div>
+                        <div class="award-authors">Linda Chen, Edward Cramer, Helen Nazarenko, Michelle Youn</div>
+                    </div>
+                </div>
                     
-                </p>
-                <p>
-                    <strong>Late submission</strong><br>
-                    Lab, homework, and project submissions after respective deadlines are <strong>not accepted</strong>. Under special circumstances such as medical conditions, family issues, or job interviews, we will allow lab submissions without penalty. Please contact the instructor or TA for such situations. We may require proof of evidence.
-                </p>
-                <p>
-                    <strong>Regrade policy</strong><br>
-                    Fair and transparent grading is important. Please contact us know if you think there is an error or unreasonable deduction in your assignment. Only regrading requests within 7 days after the initial grade are accepted.
-                </p>
-            </section>  
-            <section>
-                <h2 class="title">Accessibility</h2>
-                <p>
-                    If you have a disability and will be requesting accommodations for this course, please register with either Dr. Kathy Duggan (dugganka@bc.edu), Associate Director, Connors Family Learning Center (learning disabilities or AHD) or Dean Rory Stein, (rory.stein@bc.edu), Assistant Dean for students with disabilities, (all other disabilities).
 
-                    Advance notice and appropriate documentation are required for accommodations.
-                </p>
             </section>
-            <section>
-                <h2 class="title">Academic Policy</h2>
-                <p>
-                    Students are required to adhere to the <a href="https://www.bc.edu/content/bc-web/academics/sites/university-catalog/policies-procedures.html#academic_integrity_policies" target="_blank">academic policy</a> of Boston College.
-                </p>
-            </section>
-            <section>
-                <h2 class="title">Commitment to Inclusion</h2>
-                <p>
-                    It is our intention that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socio-economic status, ethnicity, race, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally or for other students or student groups.
-                </p>
-            </section>
-            <section>
-                <h2 class="title">Code of Conduct</h2>
-                <p>
-                    We follow <a href="https://www.acm.org/code-of-ethics" href="_blank">ACM Code of Ethics</a>, focusing on the following:
-                   <ul>
-                       <li>
-                            Demonstrate professionalism (e.g., being on time and respect in teamworks)
-                       </li>
-                       <li>
-                            Promote fair, inclusive, and collaborative learning environment
-                       </li>
-                       <li>
-                            Reject behavior that strays into any form of harassments
-                       </li>
-                    </ul>
-                </p>
-            </section>
-
-            <section>
+            <section id="credits">
                 <h2 class="title">Credits</h2>
                 <p>The course material is based on courses taught by <a href="http://www.cs171.org/" target="_blank">Hanspeter Pfister</a> at Harvard, <a href="https://courses.cs.washington.edu/courses/cse442/17au/" target="_blank">Jeffrey Heer</a> at the University of Washington, <a href="https://magrawala.github.io/cs448b-fa17/">Maneesh Agrawala</a> at Stanford University, <a href="http://dataviscourse.net/2017/index.html">Alexander Lex</a> at the University of Utah, and <a href="http://www.cs.ubc.ca/~tmm/courses/547-17F/">Tamara Munzner</a> at the University of British Columbia.</p>
             </section>

@@ -2,6 +2,17 @@ let dayMap = {'Sun':0, 'Mon':1, 'Tue':2, 'Wed':3, 'Thu':4, 'Fri':5, 'Sat': 6};
 let revDayMap = Object.entries(dayMap).reduce((acc, [k,v])=>Object.assign({}, acc, {[v]:k}), {})
 document.querySelector('#copyright-year').innerHTML = (new Date()).getFullYear()
 
+document.querySelector('.mobilenavbar').addEventListener('click', function(){
+   let navbar = document.querySelector('.navbar');
+   navbar.classList.toggle('show')
+//    if (navbar.style.opacity == 0) {
+//     navbar.style.opacity = 1;
+//     navbar.style.height = 'auto';
+//   } else {
+//     navbar.style.opacity = 0;
+//     navbar.style.height = 0;
+//   }
+});
 let syllabus;
 fetch('assets/syllabus.json').then(resp=>resp.json()).then(course=>{
     syllabus = course;
@@ -167,3 +178,4 @@ conds.forEach(cond=>cond.addEventListener('click', function(event){
 
     }
 }));
+
